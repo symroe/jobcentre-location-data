@@ -1,0 +1,714 @@
+JC Name,Postcode,Building Name,Building Number/Floor,Address 1,Address 2,Town/City,County,District
+Bolton Great Moor Street Jobcentre,BL3 6DT,,,Great Moor Street,,Bolton,Lancashire,Greater Manchester East and West
+Dinnington Jobcentre,S25 2LZ,,,4 Church Lane,Dinnington,Sheffield,South Yorkshire,South Yorkshire
+Coleford Jobcentre,GL16 8BQ,,,4 Mushet Walk,,Coleford,Gloucestershire,Gloucester & West of England
+Thorne Jobcentre,DN8 5EQ,,,Orchard Street,Thorne,Doncaster,South Yorkshire,South Yorkshire
+Alton Jobcentre,GU34 1LH,,,1-3 Butts Road,,Alton,Hampshire,Hampshire and Isle of Wight
+Willenhall Jobcentre,WV13 1DH,,,Upper Lichfield Street,,Willenhall,West Midlands,Black Country
+Woking Jobcentre,GU21 6JZ,,,15-29 Goldsworth Road,,Woking,Surrey,Surrey and Sussex
+Arbroath Jobcentre,DD11 1PP,,,2 Chalmers Street,,Arbroath,Angus,North Scotland
+Petersfield Jobcentre,GU32 3DP,,,14A Chapel Street,,Petersfield,Hampshire,Hampshire and Isle of Wight
+Blandford Jobcentre,DT11 7UE,,,50 East Street,,Blandford,Dorset,Wessex
+Cupar Jobcentre,KY15 4AN,,,7 Westport,,Cupar,Fife,East and South East of Scotland
+Smethwick Jobcentre,B66 3AD,Trinity House,,High Street,,Smethwick,West Midlands,Black Country
+Broad Street Jobcentre,B15 1AU,Centennial House,,100 Broad Street,,Birmingham,West Midlands,Birmingham and Solihull
+Wombwell Jobcentre,S73 0JE,,,19 Kings Road,Wombwell,Barnsley,South Yorkshire,South Yorkshire
+Seaham Jobcentre,SR7 7JE,Church View House,,St Johns Square,,Seaham,County Durham,"Durham, Tees Valley"
+Bedworth Jobcentre,CV12 8NF,,,12 High Street,Bedworth,Bedworth,Warwickshire,Mercia
+Dunoon Jobcentre,PA23 8BB,,,George Street,,Dunoon,Argyll,West Scotland
+Cheltenham Jobcentre,GL50 4DJ,Haywood House,,7 North Street,,Cheltenham,Gloucestershire,Gloucester & West of England
+Oban Jobcentre,PA34 4AF,Mathieson House,,1 Miller Road,,Oban,Argyll and Bute,West Scotland
+Newton Aycliffe Jobcentre,DL5 4DH,Avenue House,,The Avenue,Greenwell Road,Newton Aycliffe,County Durham,"Durham, Tees Valley"
+Chippenham Jobcentre,SN15 3LH,,,Cyppa Court,Avenue La Fleche,Chippenham,Wiltshire,Wessex
+Welshpool Jobcentre,SY21 7AP,New Dolanog House,,Severn Road,,Welshpool,Powys,North and Mid Wales
+Renfrew Jobcentre,PA4 8QL,,,5 High Street,,Renfrew,Renfrewshire,West Scotland
+Buckie Jobcentre,AB56 1AF,,,Shanks Lane,,Buckie,Banffshire,North Scotland
+Hackney Jobcentre,E8 1EE,,,271 Mare Street,Hackney,London,,East London
+Ross on Wye Jobcentre,HR9 7AN,The Library,,Cantilupe Road,,Ross on Wye,Herefordshire,
+Crook Jobcentre,DL15 8LP,,,New Road,,Crook,County Durham,"Durham, Tees Valley"
+Bolsover Jobcentre,S44 6DB,,,Cavendish Walk,,Bolsover,Derbyshire,Derbyshire
+Bordon Jobcentre,GU35 0TQ,,,2-4 Chalet Hill,,Bordon,Hampshire,Hampshire and Isle of Wight
+Forres Jobcentre,IV36 1EL,,,Tytler Street,,Forres,Morayshire,North Scotland
+Maesteg Jobcentre,CF34 9DF,,,12-16 Commercial Street,,Maesteg,Mid Glamorgan,South West Wales
+Washwood Heath Jobcentre,B8 2XX,,,295 Washwood Heath Road,Washwood Heath,Birmingham,West Midlands,Birmingham and Solihull
+Kidderminster Jobcentre,DY11 6TT,,,12 Lower Mill Street,,Kidderminster,Worcestershire,Mercia
+Poole Jobcentre,BH15 1NZ,Old Town Market,,Dear Hay Lane,,Poole,Dorset,Wessex
+Coalville Jobcentre,LE67 3FB,Crown House,,"Whitwick Road,",,Coalville,Leicestershire,Leicestershire and Northamptonshire
+Abergavenny Jobcentre,NP7 5EF,Newbridge House,,Tudor Street,,Abergavenny,Gwent,South East Wales
+Kirkintilloch Jobcentre,G66 1JN,,,Queen Street,,Kirkintilloch,Lanarkshire,"Glasgow, Lanarkshire and East Dunbartonshire"
+Thornton Heath Jobcentre,CR7 8YY,,,72 High Street,Thornton Heath,Croydon,Essex,South London
+Liskeard Jobcentre,PL14 3AG,Bell House,,7-9 Church Street,,Liskeard,Cornwall,Devon and Cornwall
+Hereford Jobcentre,HR4 0DD,"St. Nicholas House,",,6 St. Nicholas Street,,Hereford,Herefordshire,Mercia
+Kilmarnock Jobcentre,KA1 2DF,,,17 Grange Street,,Kilmarnock,Ayrshire,West Scotland
+Forest Hill Jobcentre,SE23 3XU,Heron House,,32-34 Dartmouth Road,Forest Hill,London,,South London
+Winsford Jobcentre,CW7 2AH,,,High Street,,Winsford,Cheshire,Greater Manchester Central & Cheshire Community
+Glossop Jobcentre,SK13 7DF,,,Howard Street,,Glossop,Derbyshire,Derbyshire
+Mexborough Jobcentre,S64 0BD,Crown Buildings,,Adwick Road,,Mexborough,South Yorkshire,South Yorkshire
+Morriston Jobcentre,SA6 8BT,Oldway House,,Clase Road,,Morriston,West Glamorgan,South West Wales
+Castlemilk Jobcentre,G45 9AA,Castlemilk Arcade,,Dougrie Drive,,Glasgow,Lanarkshire,"Glasgow, Lanarkshire and East Dunbartonshire"
+Livingston Jobcentre,EH54 6NQ,Regional Centre,,Almondvale South,,Livingston,West Lothian,East and South East of Scotland
+Reading Jobcentre,RG1 1HD,Adelphi House,,Friar Street,,Reading,Berkshire,Thames Valley
+Canterbury Jobcentre,CT1 1EZ,Northgate House,,115-120 Northgate,,Canterbury,Kent,Kent
+Salisbury Jobcentre,SP2 7RW,Summerlock House,,Summerlock Approach,,Salisbury,Wiltshire,Wessex
+Ryedale Jobcentre,YO17 9RD,,,Norton Road,,Malton,North Yorkshire,North East Yorkshire and the Humber
+Whitley Bay Jobcentre,NE26 2LY,,,158 Whitley Road,,Whitley Bay,Tyne and Wear,Tyne & Wear
+Hull West Britannia House Jobcentre,HU2 8NF,Britannia House,,2 Ferensway,,Hull,East Yorkshire,North East Yorkshire and the Humber
+Hornchurch Jobcentre,RM11 1QZ,Pioneer House,,North Street,,Hornchurch,Essex,East London
+Fareham Jobcentre,PO16 7HR,Crown Buildings,,Civic Way,,Fareham,Hampshire,Hampshire and Isle of Wight
+Selby Jobcentre,YO8 3BH,Flaxley Chambers,,Flaxley Road,,Selby,North Yorkshire,North East Yorkshire and the Humber
+Sheffield Hillsborough Jobcentre,S6 2GG,Hillsborough Barracks,,Cavalry & Lancer Court,639-641 Penistone Road,Sheffield,South Yorkshire,South Yorkshire
+Haverhill Jobcentre,CB9 8AH,,,65 High Street,,Haverhill,Cambridgeshire,East Anglia
+Machynlleth Jobcentre,SY20 8EB,,,43-45 Maen Gwyn Street,,Machynlleth,Powys,North and Mid Wales
+Croydon Jobcentre,CR9 2TN,,,17-21 Dingwall Road,,Croydon,Surrey,South London
+Barnsley Jobcentre,S70 2RL,Cooper House,,59 Peel Street,,Barnsley,South Yorkshire,South Yorkshire
+Sheffield Bailey Court Jobcentre,S1 3SY,Bailey Court,,112 West Street,,Sheffield,South Yorkshire,South Yorkshire
+Goole Jobcentre,DN14 5QB,Mulberry House,,North Street,,Goole,East Yorkshire,North East Yorkshire and the Humber
+Sudbury Jobcentre,CO10 2EG,,,21 Borehamgate Precinct,,Sudbury,Suffolk,East Anglia
+Bathgate Jobcentre,EH48 1HG,Government Buildings,,31-33 Whitburn Road,,Bathgate,West Lothian,East and South East of Scotland
+Slough Upton Lodge Jobcentre,SL1 2AQ,Upton Lodge,,2A Yew Tree Road,,Slough,Berkshire,Thames Valley
+Minehead Jobcentre,TA24 5XZ,,,17 The Avenue,,Minehead,Somerset,Wessex
+Coventry Cofa Court Jobcentre,CV1 2HJ,,,Cofa Court,Cheylesmore,Coventry,West Midlands,Mercia
+Berwick Jobcentre,TD15 1DS,Norham House,,15 Walkergate,,Berwick-upon-Tweed,Northumberland,Tyne & Wear
+Kennington Park Jobcentre,SE11 4DE,,,206-210 Kennington Park Road,Kennington,London,,South London
+Chorley Jobcentre,PR7 2HB,,,Hamilton Road,,Chorley,Lancashire,Cumbria and Lancashire
+Stirling Jobcentre,FK8 2HF,South Lodge,,2 St. Ninians Road,,Stirling,Stirlingshire,East and South East of Scotland
+Newcastle East Jobcentre,NE6 1PH,Coquet House,,Clifford Street,Byker,Newcastle Upon Tyne,Tyne and Wear,Tyne & Wear
+Invergordon Jobcentre,IV18 0DG,,,43 High Street,,Invergordon,Invernesshire,North Scotland
+Mildenhall Jobcentre,IP28 7EY,Forrest Heath District Council,,College Heath Road,,Mildenhall,East Anglia,Cambridgeshire and Suffolk
+St Marylebone Jobcentre,NW1 6TZ,,,46 Lisson Grove,,London,,North London
+Braintree Jobcentre,CM7 3HA,The Old Post Office,,Fairfield Road,,Braintree,Essex,Essex
+Chester- le- Street Jobcentre,DH3 3AB,Crown Buildings,,Station Road,,Chester Le Street,County Durham,"Durham, Tees Valley"
+Skelmersdale Jobcentre,WN8 6NT,Whelmar House,,Southway,,Skelmersdale,Lancashire,Cumbria and Lancashire
+Neath Jobcentre,SA11 1LY,,,1 Windsor Road,,Neath,West Glamorgan,South West Wales
+Paisley Jobcentre,PA1 2AN,,,49A High Street,,Paisley,Renfrewshire,West Scotland
+Cromer Jobcentre,NR27 9HN,,,Garden Street,,Cromer,Norfolk,East Anglia
+Retford Jobcentre,DN22 6JR,,,23a Grove Street,,Retford,Nottinghamshire,"Nottinghamshire, Lincolnshire and Rutland"
+Ormskirk Jobcentre,L39 3QT,,,31A Church Street,,Ormskirk,Merseyside,Cumbria and Lancashire
+Shotton Jobcentre,CH5 4HA,Civic Centre,,Wepre Drive,,Connahs Quay,Flintshire,North and Mid Wales
+Canvey Island Jobcentre,SS8 7AL,,,140 Furtherwick Road,,Canvey Island,Essex,Essex
+Gateshead Jobcentre,NE8 1AS,Shildon House,,High Street,,Gateshead,Tyne and Wear,Tyne & Wear
+Whitstable Jobcentre,CT5 1AP,,,13 High Street,,Whitstable,Kent,Kent
+Penzance Jobcentre,TR18 2NP,Branwell House,,Clarence Street,,Penzance,Cornwall,Devon and Cornwall
+Fakenham Jobcentre,NR21 8HJ,Government Buildings,,Norwich Road,,Fakenham,Norfolk,East Anglia
+Wolverhampton Molineux House Jobcentre,WV2 4AU,Molineux House,,Temple Street,,Wolverhampton,West Midlands,Black Country
+Ashington Jobcentre,NE63 9YY,Reiverdale House,,Reiverdale Road,,Ashington,Northumberland,Tyne & Wear
+Cramlington Jobcentre,NE23 6QW,,,17-19 Dudley Court,East Square,Cramlington,Northumberland,Tyne & Wear
+Bedlington Jobcentre,NE22 5TL,Longridge House,,Front Street West,,Bedlington,Northumberland,Tyne & Wear
+Bude Jobcentre,EX23 8BT,,,Summerleaze Crescent,,Bude,Cornwall,Devon and Cornwall
+Newton Le Willows Jobcentre,WA12 9BQ,,,13-15 Market Street,Earlestown,Newton le Willows,Merseyside,Merseyside
+Sheffield Eastern Avenue Jobcentre,S2 2FZ,,,19 Eastern Avenue,,Sheffield,South Yorkshire,South Yorkshire
+Wisbech Jobcentre,PE13 1AN,Albion House,,Albion Place,,Wisbech,Cambridgeshire,East Anglia
+Truro Jobcentre,TR1 2PU,Pydar House,,Pydar Street,,Truro,Cornwall,Devon and Cornwall
+Spennymoor Jobcentre,DL16 6ND,,,Barnfield Road,,Spennymoor,County Durham,"Durham, Tees Valley"
+Sheerness Jobcentre,ME12 1PD,,,3 Millennium Way,,Sheerness,Kent,Kent
+Woodhouse Jobcentre,S13 7QX,Prospect House,,Market Street,Woodhouse,Sheffield,South Yorkshire,South Yorkshire
+Bedford Jobcentre,MK40 2EH,Wyvern House,,Bromham Road,,Bedford,Bedfordshire,Bedfordshire and Hertfordshire
+Carmarthen Jobcentre,SA31 1QT,,,John Street,,Carmarthen,Carmarthenshire,South West Wales
+Bournemouth Jobcentre,BH1 3BG,Tamarisk House,,1 Cotlands Road,,Bournemouth,Dorset,Wessex
+Honiton Jobcentre,EX14 1JP,,,128 High Street,,Honiton,Devon,Devon and Cornwall
+St Andrews Jobcentre,KY16 9EE,,,187 South Street,,St Andrews,Fife,East and South East of Scotland
+Worthing Jobcentre,BN11 1NG,Crown House,,High Street,,Worthing,West Sussex,Surrey and Sussex
+Bradford Westfield House Jobcentre,BD1 3BE,Westfield House,,85 Manningham Lane,,Bradford,West Yorkshire,West Yorkshire
+Kilbirnie Jobcentre,KA25 6HL,,,Walker Street,,Kilbirnie,Ayrshire,West Scotland
+Perry Barr Jobcentre,B20 3BW,Meridian House,,115 Aston Lane,Perry Barr,Birmingham,West Midlands,Birmingham and Solihull
+Whitby Jobcentre,YO21 1QZ,,,6 Bobbies Bank,,Whitby,North Yorkshire,North East Yorkshire and the Humber
+Stalybridge Jobcentre,SK15 2AX,,,15 Waterloo Road,,Stalybridge,Greater Manchester,Greater Manchester East and West
+Cardigan Jobcentre,SA43 1EF,Crown Buildings,,Napier Street,,Cardigan,Ceredigion,South West Wales
+Sheffield Chambers Court Jobcentre,S35 2XE,,,1b Station Road,Chapeltown,Sheffield,South Yorkshire,South Yorkshire
+Nelson Jobcentre,BB9 9AW,,,14-16 Netherfield Road,,Nelson,Lancashire,Cumbria and Lancashire
+Broxburn Jobcentre,EH52 5EE,,,97 East Main Street,,Broxburn,West Lothian,East and South East of Scotland
+Evesham Jobcentre,WR11 4SB,,,Abbey Road,,Evesham,Worcestershire,Mercia
+Goldthorpe Jobcentre,S63 9LQ,,,High Street,Goldthorpe,Rotherham,South Yorkshire,South Yorkshire
+Bexhill Jobcentre,TN40 1QH,,,Amherst Road,,Bexhill,East Sussex,"Berkshire, Surrey and Sussex"
+Leamington Spa Jobcentre,CV32 4JE,Brandon House,,Holly Walk,,Leamington Spa,Warwickshire,Mercia
+Norwich Jobcentre,NR2 1BZ,Kiln House,,Pottergate,,Norwich,Norfolk,East Anglia
+Grangemouth Jobcentre,FK3 9EA,,,13-15 Charlotte Dundas Court,,Grangemouth,Stirlingshire,East and South East of Scotland
+"Bristol, Bishopsworth Jobcentre",BS13 7TE,,,59 Whitchurch Lane,Bishopsworth,Bristol,South Gloucestershire,Gloucester & West of England
+Nuneaton Jobcentre,CV11 4DL,Mill House,,Mill Walk,,Nuneaton,Warwickshire,Mercia
+Shipley Jobcentre,BD17 7DN,,,Wainman Street,,Shipley,West Yorkshire,West Yorkshire
+Cambridge Jobcentre,CB4 3BQ,Henry Giles House,,73-79 Chesterton Road,,Cambridge,Cambridgeshire,East Anglia
+Bridport Jobcentre,DT6 3QJ,,,1 West Street,,Bridport,Dorset,Wessex
+Stockport Jobcentre,SK1 3BE,Heron House,,Wellington Street,,Stockport,Cheshire,Greater Manchester East and West
+Northampton Jobcentre,NN1 3LY,Frances House,,21 Lower Mounts,,Northampton,Northamptonshire,Leicestershire and Northamptonshire
+Boston Jobcentre,PE21 8SJ,Crown House,,Lincoln Lane,,Boston,Lincolnshire,"Nottinghamshire, Lincolnshire and Rutland"
+Kendal Jobcentre,LA9 4BS,Kentmere House,,1 Blackhall Road,,Kendal,Cumbria,Cumbria and Lancashire
+Llandrindod Wells Jobcentre,LD1 5HU,The Automobile Palace,,Princes Avenue,,Llandrindod Wells,Powys,North and Mid Wales
+Chorlton Jobcentre,M21 9BU,Graeme House,,Chorlton Square,Wilbraham Road,Manchester,Greater Manchester,Greater Manchester Central & Cheshire Community
+Porthmadog Jobcentre,LL49 9LS,Thedford House,,High Street,,Porthmadog,Gwynedd,North and Mid Wales
+Kettering Jobcentre,NN16 8BG,Derbyshire House,,Lower Street,,Kettering,Northamptonshire,Leicestershire and Northamptonshire
+Weston-Super-Mare Jobcentre,BS23 1JH,Regent House,,High Street,,Weston-super-Mare,North Somerset,Gloucester & West of England
+St Annes Jobcentre,FY8 1YS,Westmorland House,,29-31 Orchard Road,,Lytham St. Annes,Lancashire,Cumbria and Lancashire
+Bromsgrove Jobcentre,B61 8DX,,,Church Fields,,Bromsgrove,Worcestershire,Mercia
+Blackwood Jobcentre,NP12 1YY,,,75-77 High Street,,Blackwood,Gwent,South East Wales
+Oswestry Jobcentre,SY11 1DZ,,,27 Oswald Road,,Oswestry,Shropshire,Staffordshire and Shropshire
+Beeston Jobcentre,NG9 2LW,,,3 Arcacia Walk,Beeston,Nottingham,Nottinghamshire,"Nottinghamshire, Lincolnshire and Rutland"
+Penryn Jobcentre,TR10 8SB,Penmarin House,,Commercial Road,,Penryn,Cornwall,Devon and Cornwall
+Walthamstow Jobcentre,E17 6RH,,,7-13 Westbury Road,Walthamstow,London,,East London
+Morecambe Jobcentre,LA4 5HW,Heron House,,67 Queen Street,,Morecambe,Lancashire,Cumbria and Lancashire
+Lincoln Orchard Street Jobcentre,LN1 1YZ,Lancaster House,,36 Orchard Street,,Lincoln,Lincolnshire,"Lincolnshire, Nottinghamshire and Rutland"
+Grantham Jobcentre,NG31 6SY,Crown House,,49A Castlegate,,Grantham,Lincolnshire,"Nottinghamshire, Lincolnshire and Rutland"
+Aberystwyth Jobcentre,SY23 1LA,,,Alexandra Road,,Aberystwyth,Ceredigion,South West Wales
+Caldicot Jobcentre,NP26 4BR,,,66 Newport Road,,Caldicot,Gwent,South East Wales
+South Leeds Jobcentre (Hunslet),LS10 2QD,,,63 Whitfield Gardens,Hunslet,Leeds,West Yorkshire,West Yorkshire
+Eston Jobcentre,TS6 9EH,Hadrian House,,81 High Street,,Eston,Cleveland,"Durham, Tees Valley"
+Newcastle City Jobcentre,NE1 1EE,Cathedral Square,,Mosley Street,Cloth Market,Newcastle Upon Tyne,Tyne and Wear,Tyne & Wear
+Ely Jobcentre,CB7 4LU,,,52 Market Street,,Ely,Cambridgeshire,East Anglia
+Hamilton Jobcentre,ML3 0EH,Cameronian House,,Almada Street,,Hamilton,Lanarkshire,"Glasgow, Lanarkshire and East Dunbartonshire"
+Devonport Jobcentre,PL2 3BD,Queens House,,St Levans Road,,Plymouth,Devon,Devon and Cornwall
+High Wycombe Jobcentre,HP11 2DN,Aria House,,80 Oxford Road,,High Wycombe,Buckinghamshire,Thames Valley
+"Bristol, Kingswood Jobcentre",BS15 1BZ,,,382-386 Two Mile Hill Road,Kingswood,Bristol,Avon,Gloucester & West of England
+Tottenham Jobcentre,N17 0AA,,,640-656 High Road,Tottenham,London,,North London
+Heywood Jobcentre,OL10 1ED,,,Taylor Street,,Heywood,Lancashire,Greater Manchester East and West
+Caernarfon Jobcentre,LL55 2HN,Governments Buildings,,Penrallt,,Caernarfon,Gwynedd,North and Mid Wales
+Belle Vale Jobcentre,L25 2UF,New Crown Building,,302 Childwall Valley Road,Belle Vale,Liverpool,Merseyside,Merseyside
+Elgin Jobcentre,IV30 1RJ,,,13-21 Trinity Road,,Elgin,Morayshire,North Scotland
+Swansea Jobcentre,SA1 1LS,,,37-38 High Street,,Swansea,West Glamorgan,South West Wales
+Parkhead Jobcentre,G31 5NW,,,1181 Duke Street,Parkhead,Glasgow,Lanarkshire,"Glasgow, Lanarkshire and East Dunbartonshire"
+Southport Jobcentre,PR8 1HF,Eastbank House,,Eastbank Street,,Southport,Merseyside,Merseyside
+Shirebrook Jobcentre,NG20 8AF,,,Victoria Street / 233 Station Road,,Shirebrook,Nottinghamshire,Derbyshire
+Garston Jobcentre,L19 2JZ,,,Speke Road,Garston,Liverpool,Merseyside,Merseyside
+Lancaster Jobcentre,LA1 1JW,Mitre House,,Church Street,,Lancaster,Lancashire,Cumbria and Lancashire
+Alexandra Park Jobcentre,M15 5JB,,,91 Moss Lane East,Moss Side,Manchester,Greater Manchester,Greater Manchester Central & Cheshire Community
+Didsbury Jobcentre,M20 3JQ,Danesmoor Court,,95 Palatine Road,West Didsbury,Manchester,Greater Manchester,Greater Manchester Central & Cheshire Community
+Neston Jobcentre,CH64 9RE,,,Burton Road,,Neston,Cheshire,Greater Manchester Central & Cheshire Community
+Forfar Jobcentre,DD8 3HY,,,Service Road,,Forfar,Angus,North Scotland
+Burnley Jobcentre,BB11 1DD,Lee-Moran House,,Victoria Street,,Burnley,Lancashire,Cumbria and Lancashire
+Stornoway Jobcentre,HS1 2NA,,,13-15 Francis Street,,Stornoway,Isle of Lewis,North Scotland
+Ebbw Vale Jobcentre,NP23 6XG,,,Civic Centre,,Ebbw Vale,Gwent,South East Wales
+Thetford Jobcentre,IP24 2DT,Townsend House,,Guildhall Street,,Thetford,Norfolk,East Anglia
+Darwen Jobcentre,BB3 1AG,,,Green Street,Darwen,Blackburn,Lancashire,Cumbria and Lancashire
+Redcar Jobcentre,TS10 1DH,Portland House,,West Dyke Road,,Redcar,Cleveland,"Durham, Tees Valley"
+Porthcawl Jobcentre,CF36 3BL,,,"Dock Street,",,Porthcawl,Mid Glamorgan,South West Wales
+Mitcham Jobcentre,CR4 4YF,Boundary House,,317-321 London Road,,Mitcham,Surrey,South London
+Gainsborough Jobcentre,DN21 2NA,Guildhall,,Marshall's Yard,,Gainsborough,Lincolnshire,Lincolnshire and Rutland
+Loftus Jobcentre,TS13 4RF,,,52-53 West Road,Loftus,Saltburn-by-Sea,Tees Valley,"Durham, Tees Valley"
+Fraserburgh Jobcentre,AB43 9RZ,,,2-4 South Harbour Road,,Fraserburgh,Aberdeenshire,North Scotland
+Spalding Jobcentre,PE11 2BQ,Broadgate House,,"Westlode Street, ",,Spalding,Lincolnshire,"Nottinghamshire, Lincolnshire and Rutland"
+Ilkeston Jobcentre,DE7 8TU,,,58 South Street,,Ilkeston,Derbyshire,Derbyshire
+Brighton Jobcentre,BN2 0LN,Windsor House,,30-35 Edward Street,,Brighton,East Sussex,Surrey and Sussex
+Gloucester Jobcentre,GL1 1XL,Cedar House,,Spa Road,,Gloucester,Gloucestershire,Gloucester & West of England
+Telford House Jobcentre,TF3 4PD,Telford House,,Southwater Way,,Telford,Shropshire,Staffordshire and Shropshire
+Barry Jobcentre,CF63 4HA,,,9 Holt Road,,Barry,South Glamorgan,South East Wales
+Horsham Jobcentre,RH12 1HN,Marlborough House,,50 East Street,,Horsham,West Sussex,Surrey and Sussex
+Worsley Jobcentre,M28 3AD,Worsley Court,,5 High Street,Walkden,Worsley,Greater Manchester,Greater Manchester Central & Cheshire Community
+Tewkesbury Jobcentre,GL20 5TT,Council Offices,,Gloucester Road,,Tewkesbury,Gloucestershire,"Gloucestershire, Wiltshire and Swindon"
+Mansfield Jobcentre,NG18 1LN,Hill House,,Commercial Gate,,Mansfield,Nottinghamshire,"Lincolnshire, Nottinghamshire and Rutland"
+Banff Jobcentre,AB45 1DJ,,,23-25 Castle Street,,Banff,Aberdeenshire,North Scotland
+Thornaby Jobcentre,TS17 9HA,Ingram House,,Allensway,,Thornaby,Teeside,"Durham, Tees Valley"
+Consett Jobcentre,DH8 5HE,,,5A Medomsley Road,,Consett,County Durham,"Durham, Tees Valley"
+Brentwood Jobcentre,CM14 4SB,Fairfield House,,Fairfield Road,,Brentwood,Essex,Essex
+Hinckley Jobcentre,LE10 0FR,,,Rugby Road,,Hinkley,Leicestershire,Leicestershire and Northamptonshire
+Derby Normanton Road Jobcentre,DE1 2GW,,,10 Normanton Road,,Derby,Derbyshire,Derbyshire
+"Bristol, Shirehampton Jobcentre",BS11 0DX,,,31-32 High Street,Shirehampton,Bristol,South Gloucestershire,Gloucester & West of England
+West Derby Jobcentre,L12 3HT,Springfield House,,416 Eaton Road,West Derby,Liverpool,Merseyside,Merseyside
+Huddersfield Jobcentre,HD1 2NE,Castle House,,Market Street,,Huddersfield,West Yorkshire,West Yorkshire
+Harrow Kings House Jobcentre,HA1 1YJ,Kings House,,Clarendon Road,,Harrow,Middlesex,West London
+Leeds Park Place Jobcentre,LS1 2SL,,,21-22 Park Place,,Leeds,West Yorkshire,West Yorkshire
+Wythenshawe Jobcentre,M22 5RA,Simon House,,Wavell Road,Wythenshawe,Manchester,Greater Manchester,Greater Manchester Central & Cheshire Community
+Palmers Green Jobcentre,N13 4PN,,,28 Aldermans Hill,Palmers Green,London,,North London
+Purley Jobcentre,CR8 2YU,,,24 Whytecliffe Road,,South Purley,Surrey,South London
+Dagenham Jobcentre,RM9 6PS,,,Chequers Lane,,Dagenham,Essex,East London
+Haywards Heath Jobcentre,RH16 1BP,Kingsley House,,31 Boltro Road,,Haywards Heath,West Sussex,Surrey and Sussex
+Dover Jobcentre,CT16 1NN,,,72-75 Maison Dieu,,Dover,Kent,Kent
+Fleetwood Jobcentre,FY7 6JX,Roskell House,,11 - 27 Kemp Street,,Fleetwood,Lancashire,Cumbria and Lancashire
+Pyle Jobcentre,CF33 6BH,,,Ffald Road Shopping Centre,,Pyle,Mid Glamorgan,South West Wales
+Drumchapel Jobcentre,G15 7TG,,,67 Kinfauns Drive,Drumchapel,Glasgow,Lanarkshire,"Glasgow, Lanarkshire and East Dunbartonshire"
+Skegness Jobcentre,PE25 3PA,,,1A Wainfleet Road,,Skegness,Lincolnshire,"Nottinghamshire, Lincolnshire and Rutland"
+Folkestone Jobcentre,CT20 2RH,Palting House,,Trinity Road,,Folkstone,Kent,Kent
+Birmingham South West /Northfield Jobcentre,B31 2TQ,,,1300 Bristol Road South,Northfield,Birmingham,West Midlands,Birmingham and Solihull
+Stratford Jobcentre,E15 4PN,,,1 Tramway Avenue,Stratford,London,,East London
+Longsight Jobcentre,M13 0ZL,,,123 Clarence Road,Longsight,Manchester,Greater Manchester,Greater Manchester Central & Cheshire Community
+Leytonstone Jobcentre,E11 1JJ,Robart House,,1-3 Lemna Road,Leytonstone,London,,East London
+Openshaw Jobcentre,M11 2WR,,,Cornwall Street,Openshaw,Manchester,Greater Manchester,Greater Manchester Central & Cheshire Community
+Buxton Jobcentre,SK17 6BU,,,84-86 Spring Gardens,,Buxton,Derbyshire,Derbyshire
+Swindon Jobcentre,SN1 2HY,Spring Gardens House,,Princes Street,,Swindon,Wiltshire,Wessex
+Bridgend Jobcentre,CF31 1LL,Government Buildings,,Market Street,,Bridgend,Mid Glamorgan,South West Wales
+Rugby Jobcentre,CV21 2TD,Kingsforth House,,44 Albert Street,,Rugby,Warwickshire,Mercia
+Guiseley Jobcentre,LS20 8AF,Alva House,,Otley Road,Guiseley,Leeds,West Yorkshire,West Yorkshire
+Cwmbran Jobcentre,NP44 1PL,Gwent House,1st Floor,42 Gwent Square,,Cwmbran,Gwent,South East Wales
+Alfreton Jobcentre,DE55 7AF,Tannery House,,King Street,,Alfreton,Derbyshire,Derbyshire
+Pudsey Jobcentre (Leeds Century House),LS28 7RQ,Century House,,Church Lane,,Leeds,West Yorkshire,West Yorkshire
+Cheetham Hill Jobcentre,M8 9DQ,,,36 Crescent Road,Cheetham Hill,Manchester,Greater Manchester,Greater Manchester Central & Cheshire Community
+Seacroft Jobcentre,LS14 6UZ,Parkway House,,North Parkway,Seacroft,Leeds,West Yorkshire,West Yorkshire
+Salford Jobcentre,M6 5PL,,,2 Paddington Close,,Salford,Lancashire,Lancashire
+Clacton Jobcentre,CO15 1RS,,,55 Station Road,,Clacton on Sea,Essex,Essex
+Whitehaven Jobcentre,CA28 7SJ,The Council Offices,,The Copeland Centre,Catherine Street,Whitehaven,Cumbria,Cumbria and Lancashire
+Kingís Lynn Jobcentre,PE30 1LR,Lovell House,,St. Nicholas Street,,Kings Lynn,Norfolk,East Anglia
+Haverfordwest Jobcentre,SA61 1BH,,,16-20 Quay Street,,Haverfordwest,Pembrokeshire,South West Wales
+Great Yarmouth Jobcentre,NR30 1EJ,Copperfield House,,The Conge,,Great Yarmouth,Norfolk,East Anglia
+Clay Cross Jobcentre,S45 9EF,,,Bridge Street,,Clay Cross,Derbyshire,Derbyshire
+Leeds Eastgate Jobcentre,LS2 7RE,,,35 Eastgate,,Leeds,West Yorkshire,West Yorkshire
+Heanor Jobcentre,DE75 7EZ,,,High Street,,Heanor,Derbyshire,Derbyshire
+Bradford Eastbrook Court Jobcentre,BD1 5AH,,,50 Vicar Lane,,Bradford,West Yorkshire,West Yorkshire
+Rutherglen Jobcentre,G73 2QW,,,3 MacDonald Street,,Rutherglen,Lanarkshire,"Glasgow, Lanarkshire and East Dunbartonshire"
+Cardiff Alexandra House Jobcentre,CF5 1WU,Alexandra House,,377 Cowbridge Road,,Cardiff,South Glamorgan,South East Wales
+Romford Jobcentre,RM1 3HH,Crown House,,30 Main Road,,Romford,Essex,East London
+Blaydon Jobcentre,NE21 5AD,,,St Cuthberts Way,,Blaydon,Tyne and Wear,Tyne & Wear
+Staveley Jobcentre,S43 3NU,Devonshire Buildings,,Duke Street,,Staveley,Derbyshire,Derbyshire
+Bangor Jobcentre,LL57 1YA,,,322-330 High Street,,Bangor,Gwynedd,North and Mid Wales
+Bridgwater Jobcentre,TA6 3HJ,Hanover House,,Northgate,,Bridgwater,Somerset,Wessex
+Maryhill Jobcentre,G20 9DH,,,1460-1470 Maryhill Road,,Glasgow,Lanarkshire,"Glasgow, Lanarkshire and East Dunbartonshire"
+Stretford Jobcentre,M32 9ED,Arndale House,,Chester Road,Stretford,Manchester,Greater Manchester,Greater Manchester Central & Cheshire Community
+Milford Haven Jobcentre,SA73 3LS,Cedar Court,,,,Milford Haven,Pembrokeshire,South West Wales
+Jarrow Jobcentre,NE32 3BX,,,56-64 Ellison Street,,Jarrow,Tyne and Wear,Tyne & Wear
+Bodmin Jobcentre,PL31 2JB,,,71A Fore Street,,Bodmin,Cornwall,Devon and Cornwall
+Twickenham Jobcentre,TW1 3SZ,Chatsworth House,,59-63 London Road,,Twickenham,Middlesex,West London
+Workington Jobcentre,CA14 2BW,Simon House,,197-199 Vulcans Lane,,Workington,Cumbria,Cumbria and Lancashire
+Littlehampton Jobcentre,BN17 5ER,Crown Building,,33 Church Street,,Littlehampton,West Sussex,Surrey and Sussex
+Uxbridge Jobcentre,UB8 1LH,Uxbridge Pavilions,,Units 22-26 Market Square,,Uxbridge,Middlesex,Greater London
+Dunfermline Jobcentre,KY12 9DF,Merchiston House,,Foundry Street,,Dunfermline,Fife,East and South East of Scotland
+Ramsgate Jobcentre,CT11 9EW,Queens House,,Queens Street,,Ramsgate,Kent,Kent
+Irlam Jobcentre,M44 6FD,Irlam Library,,Liverpool Road,Irlam,Manchester,Lancashire,
+Blackburn Jobcentre,BB1 6HA,Orchard House,,Penny Street,,Blackburn,Lancashire,Cumbria and Lancashire
+Yardley Jobcentre,B26 1AW,,,1630 Coventry Road,Yardley,Birmingham,West Midlands,Birmingham and Solihull
+Margate Jobcentre,CT9 1LB,Mill House,,West Wing,Mill Lane,Margate,Kent,Kent
+London Bridge Jobcentre,SE1 6LS,Coburg House,,63-67 Newtington Causeway,,London,,South London
+Grimsby Bridge House Jobcentre,DN31 1NH,Bridge House,,225 Victoria Street,,Grimsby,Lincolnshire,North East Yorkshire and the Humber
+Darlington Jobcentre,DL3 7JY,Bondgate House,,90 Bondgate,,Darlington,County Durham,"Durham, Tees Valley"
+Handsworth Jobcentre,B21 9SL,Temple Row House,,25-45 Soho Road,Handsworth,Birmingham,West Midlands,Birmingham and Solihull
+Huntingdon Jobcentre,PE29 3PB,,,2-6 Hartford Road,,Huntingdon,Cambridgeshire,East Anglia
+Aintree Jobcentre,L9 2BU,,,70 Walton Vale,Aintree,Liverpool,Merseyside,Merseyside
+Warrington Jobcentre,WA1 2BL,Nolan House,,10 Mersey Street,,Warrington,Cheshire,Greater Manchester Central & Cheshire Community
+Watford Jobcentre,WD18 0JJ,Exchange House,,60 Exchange Road,,Watford,Hertfordshire,Bedfordshire and Hertfordshire
+Stockwell Jobcentre,SW9 0QQ,,,155-157 Clapham Road,Stockwell,London,,South London
+Bootle Jobcentre,L20 3PN,,,218 Stanley Road,,Bootle,Merseyside,Merseyside
+Waltham Cross Jobcentre,EN8 7BA,,,235 High Street,,Waltham Cross,Hertfordshire,Bedfordshire and Hertfordshire
+Cannock Jobcentre,WS11 1JR,Government Buildings,,Beecroft Road,,Cannock,Staffordshire,Staffordshire and Shropshire
+Witham Jobcentre,CM8 2BL,,,2-3 Freebournes Court,Newland Street,Witham,Essex,Essex
+Derby Forester House Jobcentre,DE1 1NW,Forester House,,Becket Street,,Derby,Derbyshire,Derbyshire
+Cowdenbeath Jobcentre,KY4 9NQ,,,6 Pit Road,,Cowdenbeath,Fife,East and South East of Scotland
+Rayleigh Jobcentre,SS6 7HR,,,10 London Hill,,Rayleigh,Essex,Essex
+Barnstaple Jobcentre,EX32 8HD,Princess House,,Queen Street,,Barnstaple,Devon,Devon and Cornwall
+Rotherham Chantry House Jobcentre,S60 2DL,Chantry House,,Douglas Street,,Rotherham,South Yorkshire,South Yorkshire
+Barking Jobcentre,IG11 8QB,Phoenix House,,12-14 Wakering Road,,Barking,Essex,East London
+Launceston Jobcentre,PL15 8BQ,,,11 Tower Street,,Launceston,Cornwall,Devon and Cornwall
+Blackpool North Queen Street Jobcentre,FY1 1HQ,,,43 Queen Street,,Blackpool,Lancashire,Cumbria and Lancashire
+Spen Valley Jobcentre,WF15 6DD,,,411 Bradford Road,,Liversedge,West Yorkshire,West Yorkshire
+Leith Jobcentre,EH6 6QP,,,199 Commercial Street,Leith,Edinburgh,Midlothian,East and South East of Scotland
+Hexham Jobcentre,NE46 3NF,St. Andrew's House,,Haugh Lane,,Hexham,Northumberland,Tyne & Wear
+Blackpool South Jobcentre,FY1 5DJ,,,Tyldesley Road,,Blackpool,Lancashire,Cumbria and Lancashire
+Colchester Jobcentre,CO2 7AZ,,,40 Chapel Street South,,Colchester,Essex,Essex
+Immingham Jobcentre,DN40 2AE,,,4-6 Kennedy Way,,Immingham,North East Lincolnshire,North East Yorkshire and the Humber
+Merthyr Tydfil Jobcentre,CF47 8AS,Ty Bethesda,,Av De Clichy,,Merthyr Tydfil,Mid Glamorgan,South East Wales
+Rusholme Jobcentre,M14 5BJ,,,96 Wilmslow Road,Rusholme,Manchester,Greater Manchester,Greater Manchester Central & Cheshire Community
+Clapham Common Jobcentre,SW4 0JW,Maritime House,,Old Town,,London,,South London
+Wrexham Jobcentre,LL11 1BW,Ty Maelor,,15-17 Grosvenor Road,,Wrexham,Clywd,North and Mid Wales
+Lerwick Jobcentre,ZE1 0LQ,Charlotte House,,Commercial Road,,Lerwick,Shetland,"Highlands, Islands, Clyde Coast and Grampian"
+Chatham Jobcentre,ME4 4LQ,Crown House,,The Brook,,Chatham,Kent,Kent
+Gorseinon Jobcentre,SA4 4EH,,,42-44 Lime Street,Gorseinon,Swansea,West Glamorgan,South West Wales
+Epsom Jobcentre,KT17 1HQ,,,50 East Street,,Epsom,Surrey,Surrey and Sussex
+Kirkby Jobcentre,L32 8RW,St. Chad's House,,St. Chad's Parade,Kirkby,Liverpool,Merseyside,Merseyside
+Runcorn Andrew House Halton Lea Jobcentre,WA7 2FQ,Andrew House,,Halton Lea Shopping Centre,,Runcorn,Cheshire,Merseyside
+Irvine Jobcentre,KA12 8AA,,,121-125 High Street,,Irvine,Ayrshire,West Scotland
+Chesterfield Jobcentre,S40 1TG,Markham House,,Markham Road,,Chesterfield,Derbyshire,Derbyshire
+Mold Jobcentre,CH7 1LH,,,St. Davids Lane,,Mold,Flintshire,North and Mid Wales
+Ipswich Jobcentre,IP1 1TF,St. Felix House,,Silent Street,,Ipswich,Suffolk,East Anglia
+Morpeth Jobcentre,NE61 1LA,Fountain House,,New Market,,Morpeth,Northumberland,Tyne & Wear
+Trowbridge Jobcentre,BA14 8XR,Aplin House,,Bythesea Road,,Trowbridge,Wiltshire,Wessex
+Glenrothes Jobcentre,KY7 5LL,,,3 Postgate,,Glenrothes,Fife,East and South East of Scotland
+Loughton Jobcentre,IG10 1RH,,,284 High Road,,Loughton,Essex,Essex
+Willesden Jobcentre,NW10 2XH,Chancel House,,Neasden Lane,,London,,West London
+Harwich Jobcentre,CO12 3AT,,,164-168 High Street,Dovercourt,Harwich,Essex,Essex
+Bolton Jobcentre,BL1 1SX,,,52 Blackhorse Street,,Bolton,Lancashire,Greater Manchester East and West
+Norris Green Jobcentre,L11 5BN,,,150 Parthenon Drive,Norris Green,Liverpool,Merseyside,Merseyside
+Aldershot Jobcentre,GU11 1HP,South Western House,,Station Road,,Aldershot,Hampshire,Hampshire and Isle of Wight
+Peterborough Jobcentre Plus,PE1 1QZ,Clifton House,,84 Broadway,,Peterborough,Cambridgeshire,East Anglia
+Highgate Jobcentre,N19 4AL,,,1A Elthorne Road,Highgate Hill,London,,North London
+Batley Jobcentre,WF17 5HZ,,,26 Wellington Street,,Batley,West Yorkshire,West Yorkshire
+Stourbridge Jobcentre,DY8 1ES,Scotland House,,169 Lower High Street,,Stourbridge,West Midlands,Black Country
+Altrincham Jobcentre,WA14 4PU,Roberts House,,80 Manchester Road,,Altrincham,Greater Manchester,Greater Manchester Central & Cheshire Community
+Tunbridge Wells Jobcentre,TN1 2AX,,,88 Grosvenor Road,,Tunbridge Wells,Kent,Kent
+Huyton Jobcentre,L36 9XS,Edendale House,,Lathom Road,Huyton,Liverpool,Merseyside,Merseyside
+Scarborough Albion House Jobcentre,YO12 7AN,Albion House,,Northway,,Scarborough,North Yorkshire,North East Yorkshire and the Humber
+Middlesbrough James Cook House Jobcentre,TS1 2BA,James Cook House,,79 Corporation Road,,Middlesbrough,Teeside,"Durham, Tees Valley"
+Holyhead Jobcentre,LL65 1DB,The Old Vicarage,,Newry Street,,Holyhead,Anglesey,North and Mid Wales
+Sittingbourne Roman House Jobcentre,ME10 4BP,Roman House,,9 Roman Square,,Sittingbourne,Kent,Kent
+Leominster Jobcentre,HR6 8JE,Lion Court,,New Street,,Leominster,Herefordshire,Mercia
+Poplar Jobcentre,E14 7EP,,,13 Dod Street,Poplar,London,,East London
+Richmond Jobcentre,DL10 4AS,,,Victoria Road,,Richmond,North Yorkshire,North East Yorkshire and the Humber
+Bromley Jobcentre,BR1 1NX,Unicorn House,Second Floor,28 Elmfield Road,,Bromley,Kent,South London
+Lanark Jobcentre,ML11 7NR,Atholl House,,55-57 Bannatyne Street,,Lanark,Lanarkshire,"Glasgow, Lanarkshire and East Dunbartonshire"
+Southwick Jobcentre,SR5 2JB,,,Stoney Lane,Southwick,Sunderland,Tyne and Wear,Tyne & Wear
+Dartford Jobcentre,DA1 1JY,,,61 Lowfield Street,,Dartford,Kent,Kent
+Loughborough Jobcentre,LE11 1UY,,,2 Lemyngton Street,,Loughborough,Leicestershire,Leicestershire and Northamptonshire
+Leicester New Walk Jobcentre,LE1 6TF,,,2A New Walk,,Leicester,Leicestershire,Leicestershire and Northamptonshire
+Weybridge Jobcentre,KT13 8RX,Fortune House,,7 - 13 Monument Hill,,Weybridge,Surrey,Surrey and Sussex
+"Bristol, Easton Jobcentre",BS5 6NR,,,442-450 Stapleton Road,Eastville,Bristol,Avon,Gloucester & West of England
+Torquay Jobcentre,TQ1 3JQ,Regal House,,Castle Circus,,Torquay,Devon,Devon and Cornwall
+Hatfield Jobcentre,AL9 5AF,Black Horse House,,36 Salisbury Square,,Hatfield,Hertfordshire,Bedfordshire and Hertfordshire
+Edinburgh City  Jobcentre(18 - 24),EH2 2BT,,,11-13 South St. Andrew Street,,Edinburgh,Midlothian,East and South East of Scotland
+Shettleston Jobcentre,G32 7NY,,,955 Shettleston Road,Shettleston,Glasgow,Lanarkshire,"Glasgow, Lanarkshire and East Dunbartonshire"
+Llantrisant Jobcentre,CF72 8AL,,,17 Ely Valley Road,Talbot Green,Pontyclun,South Glamorgan,South West Wales
+Castleford Jobcentre,WF10 1HY,Centurion House,,Bank Street,,Castleford,West Yorkshire,West Yorkshire
+Saltcoats Jobcentre,KA21 5EZ,,,13 Dockhead Street,,Saltcoats,Ayrshire,West Scotland
+Leiston Jobcentre,IP16 4US,Leiston Enterprise Centre,,Eastlands Industrial Estate,,Leiston,Suffolk,East Anglia
+Long Eaton Jobcentre,NG10 1JU,,,Fletcher Street,,Long Eaton,Nottinghamshire,Derbyshire
+Skipton Jobcentre,BD23 2HN,Cavendish House,,Newmarket Street,,Skipton,North Yorkshire,North East Yorkshire and the Humber
+Hanley Jobcentre,ST1 2BX,,,91 Upper Huntbach Street,Hanley,Stoke on Trent,Staffordshire,Staffordshire and Shropshire
+Newlands Jobcentre,G43 1SS,,,8 Coustonholm Road,,Glasgow,Lanarkshire,"Glasgow, Lanarkshire and East Dunbartonshire"
+Stamford Jobcentre,PE9 2DB,,,13 St Johns Street,,Stamford,Lincolnshire,"Nottinghamshire, Lincolnshire and Rutland"
+Easterhouse Jobcentre,G34 9DR,,,40 Shandwick Street,Easterhouse,Glasgow,Lanarkshire,"Glasgow, Lanarkshire and East Dunbartonshire"
+Wallasey Jobcentre,CH44 5XY,Dominick House,,St. Albans Road,,Wallasey,Wirral,Merseyside
+Williamson Square Jobcentre,L1 1PW,,,20 Williamson Square,,Liverpool,Merseyside,Merseyside
+Edmonton Jobcentre,N18 2XA,,,112-118 Fore Street,Edmonton,London,,North London
+Didcot Jobcentre,OX11 8DB,,,130A The Broadway,,Didcot,Oxfordshire,Thames Valley
+Dudley Jobcentre,DY1 1JR,Alexander House,,32 Wolverhampton Street,,Dudley,West Midlands,Black Country
+Falkirk Jobcentre,FK1 5SE,Heron House,,10B Wellside Place,,Falkirk,Stirlingshire,East and South East of Scotland
+Abertillery Jobcentre,NP13 1YG,,,Portland Street,,Abertillery,Gwent,South East Wales
+Ellesmere Port Jobcentre,CH65 0AP,,,1-3 Mercer Walk,Port Arcades Shopping Centre,Ellesmere Port,Cheshire,Greater Manchester Central & Cheshire Community
+York Stonebow Jobcentre,YO1 7FB,Stonebow House,,The Stonebow,,York,North Yorkshire,North East Yorkshire and the Humber
+York Monkgate Jobcentre,YO31 7JZ,,,11-17 Monkgate,,York,North Yorkshire,North East Yorkshire and the Humber
+Bracknell Jobcentre,RG12 1JX,Fitzwilliam House,,Skimped Hill,,Bracknell,Berkshire,Thames Valley
+Aylesbury Jobcentre,HP19 8EZ,Sunley House,,Oxford Road,,Aylesbury,Buckinghamshire,Thames Valley
+Stockton Jobcentre,TS18 3BW,Daryl House,,Bridge Road,,Stockton On Tees,Cleveland,"Durham, Tees Valley"
+Hemsworth Jobcentre,WF9 4HP,Low Hall,,Market Street,Hemsworth,Pontefract,West Yorkshire,West Yorkshire
+Congleton Jobcentre,CW12 4BD,,,Wagg Street,,Congleton,Cheshire,Greater Manchester Central & Cheshire Community
+Ashton-U-Lyne Jobcentre,OL6 6BJ,,,101 Old Street,,Ashton-under-Lyme,Lancashire,Greater Manchester East and West
+Barrhead Jobcentre,G78 1NF,,,20 Paisley Road,Barrhead,Glasgow,Lanarkshire,West Scotland
+Bury Jobcentre,BL9 0DP,,,Silver Street,,Bury,Lancashire,Greater Manchester East and West
+Bulwell Jobcentre,NG6 8HX,Sovereign House,,Bulwell High Road,Bulwell,Nottingham,Nottinghamshire,"Nottinghamshire, Lincolnshire and Rutland"
+Hoylake Jobcentre,CH47 2EE,Town Hall Chambers,,1 The Quadrant,,Hoylake,Wirral,Merseyside
+Plymouth Old Tree Court Jobcentre,PL4 0AJ,Sutton Harbour,,Old Tree Court,64 Exeter Street,Plymouth,Devon,Devon and Cornwall
+Leicester Wellington Street Jobcentre,LE1 6DS,,,60 Wellington Street,,Leicester,Leicestershire,Leicestershire and Northamptonshire
+Gravesend Jobcentre,DA12 1DF,,,44-46 The Grove,,Gravesend,Kent,Kent
+Wandsworth Jobcentre,SW18 4LS,Jessica House,,191 Wandsworth High Street,Red Lion Square,London,,West London
+Edge Hill Jobcentre,L7 3PF,Kinglake House,,Shenstone Street,,Liverpool,Merseyside,Merseyside
+Kirkcaldy Jobcentre,KY1 1ED,,,5 Hunter Street,,Kirkcaldy,Fife,East and South East of Scotland
+Stranraer Jobcentre,DG9 7EL,,,12 St. John Street,,Stranraer,Dumfries & Galloway,West Scotland
+Wembley Jobcentre,HA9 7JD,,,6 St. Johns Road,,Wembley,Middlesex,West London
+Streatham Jobcentre,SW16 6HW,Crown House,,Station Aproach,Streatham,London,,South London
+Winchester Jobcentre,SO23 8GA,Citygate,,1-8 City Road,,Winchester,Hampshire,Hampshire and Isle of Wight
+Newport (IOW) Jobcentre,PO30 2HX,Broadlands House,,Staplers Road,Newport,Isle of Wight,Hampshire,Hampshire and Isle of Wight
+Crewe Jobcentre,CW1 2JY,Wellington House,,38-44 Delemere Street,,Crewe,Cheshire,Greater Manchester Central & Cheshire Community
+Ashford Jobcentre,TN23 1HT,International House,,Dover Place,,Ashford,Kent,Kent
+Doncaster Jobcentre,DN1 3LL,Crossgate House,,Wood Street,,Doncaster,South Yorkshire,South Yorkshire
+Crosby Jobcentre,L22 0PB,,,29 Hougoumont Avenue,,Liverpool,Merseyside,Merseyside
+Toxteth Jobcentre,L8 8DY,,,7 High Park Street,Toxteth,Liverpool,Merseyside,Merseyside
+Bideford Jobcentre,EX39 2NR,Northbank House,,North Road,,Bideford,Devon,Devon and Cornwall
+Barnsbury Jobcentre (IKC),N1 0EX,,,1 Barnsbury Road,Islington,London,,North London
+Hastings Jobcentre,TN37 6LJ,Heron House,,149-159 London Road,St Leonards on Sea,Hastings,East Sussex,Surrey and Sussex
+Girvan Jobcentre,KA26 9AL,Carrick Opportunities Centre,,20a Henrietta Street,,Girvan,,West Scotland
+Wigan Jobcentre,WN1 1EA,Brocol House,,71 King Street,,Wigan,Lancashire,Greater Manchester East and West
+Cosham Jobcentre,PO6 3DR,Wynnstay House,,121 High Street,,Cosham,Hampshire,Hampshire and Isle of Wight
+Anniesland Jobcentre,G13 1HT,,,21 Herschell Street,Anniesland,Glasgow,Lanarkshire,"Glasgow, Lanarkshire and East Dunbartonshire"
+Bridgeton Jobcentre,G40 4AZ,,,9 Muslin Street,Bridgeton,Glasgow,Lanarkshire,"Glasgow, Lanarkshire and East Dunbartonshire"
+Northallerton Jobcentre,DL6 1NU,Elder House,,East Road,,Northallerton,North Yorkshire,North East Yorkshire and the Humber
+Kilburn Jobcentre,NW6 5AH,,,3 Cambridge Avenue,Kilburn,Kilburn,Middlesex,West London
+Fort William Jobcentre,PH33 6XX,Waverley House,,High Street,,Fort William,Invernesshire,North Scotland
+Leven Jobcentre,KY8 4PT,,,9 Waggon Road,,Leven,Fife,East and South East of Scotland
+Caerphilly Jobcentre,CF83 1UA,,,Castle Street,,Caerphilly,Mid Glamorgan,South East Wales
+St Albans Jobcentre,AL1 3JU,Beauver House,,6 Bricket Road,,St. Albans,Hertfordshire,Bedfordshire and Hertfordshire
+Grays Jobcentre,RM17 6QQ,,,1 - 2 Derby Road,,Grays,Essex,Essex
+Maidstone Jobcentre,ME14 1ST,County Gate 1,,Staceys Street,,Maidstone,Kent,Kent
+Weymouth Jobcentre,DT4 8TG,Westwey House,,Westwey Road,,Weymouth,Dorset,Wessex
+Madeley Jobcentre,TF7 5RH,,,Church Street,Madeley,Telford,Shropshire,Staffordshire and Shropshire
+Newbury Jobcentre,RG14 1JB,Cromwell House,,22 Oxford Street,,Newbury,Berkshire,Thames Valley
+Bromborough Jobcentre,CH62 4TG,Port Causeway House,,1 Port Causeway,,Bromborough,Wirral,Merseyside
+Amlwch Jobcentre,LL68 9BQ,C/o Parys Training,,"Unit 2, Site 9, Amlwch Business Park",,Amlwch,,
+Musselburgh Jobcentre,EH21 7DU,North House,,Eskmills Park,Station Road,Musselburgh,East Lothian,East and South East of Scotland
+Cardiff Charles Street Jobcentre,CF10 2GS,,,64 Charles Street,,Cardiff,South Glamorgan,South East Wales
+Woodbridge Jobcentre,IP12 1AJ,,,59 The Thoroughfare,,Woodbridge,Suffolk,East Anglia
+Wilmslow Jobcentre,SK9 5AH,Venture House,,46-52 Water Lane,,Wilmslow,Cheshire,Greater Manchester Central & Cheshire Community
+Springburn Jobcentre,G21 4DL,,,200 Atlas Road,Springburn,Glasgow,Lanarkshire,"Glasgow, Lanarkshire and East Dunbartonshire"
+Govan Jobcentre,G51 3JY,,,779-787 Govan Road,Govan,Glasgow,Lanarkshire,"Glasgow, Lanarkshire and East Dunbartonshire"
+Pontypridd Jobcentre,CF37 4SP,Oldway House,,Broadway,,Pontypridd,Mid Glamorgan,South West Wales
+Hawick Jobcentre,TD9 9RH,,,5-9 North Bridge Street,,Hawick,Roxburghshire,East and South East of Scotland
+Alloa Jobcentre,FK10 1LX,,,17 Mar Street,,Alloa,Clackmannanshire,East and South East of Scotland
+Langside Jobcentre,G42 9JT,,,152-158 Battlefield Road,,Glasgow,Lanarkshire,"Glasgow, Lanarkshire and East Dunbartonshire"
+Newcastle under Lyme Jobcentre,ST5 1RS,,,Paradise Street,,Newcastle-under-Lyme,Staffordshire,Staffordshire and Shropshire
+Dewsbury Jobcentre,WF12 8EF,Crown Buildings,,Rishworth Road,,Dewsbury,West Yorkshire,West Yorkshire
+Guildford Jobcentre,GU1 4QD,Leys House,,86-88 Woodbridge Road,,Guildford,Surrey,Surrey and Sussex
+Beccles Jobcentre,NR34 9TR,,,1-5 Hungate Court,,Beccles,Norfolk,East Anglia
+Campbeltown Jobcentre,PA28 6BZ,,,40 Hall Street,,Campbeltown,Argyll,West Scotland
+Bury St Edmunds Jobcentre,IP33 1TT,St. Andrews House,,St. Andrews Street North,,Bury St. Edmunds,Suffolk,East Anglia
+Bridgnorth Jobcentre,WV15 6BP,,,Severn Street,Lowtown,Bridgnorth,Shropshire,Staffordshire and Shropshire
+Milton Keynes Southgate House Jobcentre,MK9 3BN,Southgate House (CPS),,499 Midsummer Boulevard,,Milton Keynes,Buckinghamshire,"Berkshire, Buckinghamshire and Oxfordshire"
+Llangefni Jobcentre,LL77 7YJ,Government Buildings,,Bridge Street,,Llangefni,Anglesey,North and Mid Wales
+Aberdeen Ebury Jobcentre,AB11 6DR,Ebury House,,14 Dee Street,,Aberdeen,Aberdeenshire,North Scotland
+Bishop Auckland Jobcentre,DL14 7NX,,,35 Market Place,,Bishop Auckland,County Durham,"Durham, Tees Valley"
+Cumbernauld Jobcentre,G67 1AX,,,3 South Murihead Road,,Cumbernauld,Lanarkshire,"Glasgow, Lanarkshire and East Dunbartonshire"
+Malvern Jobcentre,WR14 2HU,The Library,,Graham Road,,Malvern,Worcestershire,Mercia
+Hartlepool Jobcentre,TS24 8EZ,Ward Jackson House,,Wesley Square,,Hartlepool,County Durham,"Durham, Tees Valley"
+Staines Jobcentre,TW18 4HB,,,62 London Road,,Staines,Surrey,Surrey and Sussex
+Leyland Jobcentre,PR25 2LR,,,71 Towngate,Leyland,Preston,Lancashire,Cumbria and Lancashire
+Newhaven Jobcentre,BN9 9PA,,,55 High Street,,Newhaven,East Sussex,Surrey and Sussex
+Newton Abbot Jobcentre,TQ12 2PG,Sherborne House,,Kingsteignton Road,,Newton Abbot,Devon,Devon and Cornwall
+St Austell Jobcentre,PL25 5TY,Treleaven House,,17 South Street,,St. Austell,Cornwall,Devon and Cornwall
+Nottingham Station Street Jobcentre,NG2 3BZ,,,25 Station Street,,Nottingham,Nottinghamshire,"Nottinghamshire, Lincolnshire and Rutland"
+Billingham Jobcentre,TS23 2NA,Theatre House,,Kingsway,,Billingham,Cleveland,"Durham, Tees Valley"
+Carlisle Jobcentre,CA3 8DA,Broadacre House,,16 - 20 Lowther Street,,Carlisle,Cumbria,Cumbria and Lancashire
+Aberdare Jobcentre,CF44 7HU,Crown Buildings,,Greenbach,,Aberdare,Mid Glamorgan,South West Wales
+Barrow Jobcentre,LA14 1AE,Craven House,,Michaelson Road,,Barrow-in-Furness,Cumbria,Cumbria and Lancashire
+Leicester Charles Street Jobcentre,LE1 3JD,,,2 Charles Street,,Leicester,Leicestershire,Leicestershire and Northamptonshire
+Camberley Jobcentre,GU15 3JS,,,185-187 London Road,,Camberley,Surrey,Surrey and Sussex
+Enfield Jobcentre,EN2 7AL,,,34 Windmill Hill,,Enfield,Middlesex,North London
+Washington Jobcentre,NE37 1LY,Pennine House,,Town Centre,,Washington,Tyne and Wear,Tyne & Wear
+Kingston Jobcentre,KT1 2EY,,,3 Brook Street,,Kingston-upon-Thames,Surrey,West London
+Chester Jobcentre,CH1 3AQ,Chantry House,,55-59 City Road,,Chester,Cheshire,Greater Manchester Central & Cheshire Community
+Worcester Jobcentre,WR1 1UZ,Haswell House,,Sansome Street,,Worcester,Worcestershire,Mercia
+Melton Mowbray Jobcentre,LE13 1GH,,,Parkside Station Approach,Burton Street,Melton Mowbray,Leicestershire,Leicestershire and Northamptonshire
+Rawtenstall Jobcentre,BB4 7NH,,,Bacup Road,Rawtenstall,Rossendale,Lancashire,Cumbria and Lancashire
+Nottingham Parliament St Jobcentre,NG1 6AX,The Pearson Buillding,,57-59 Upper Parliament Street,,Nottingham,Nottinghamshire,"Nottinghamshire, Lincolnshire and Rutland"
+Mountain Ash Jobcentre,CF45 4HU,,,New County Road,,Mountain Ash,Mid Glamorgan,South West Wales
+Hull Market Place Jobcentre,HU1 1RU,Southchurch Side,,Market Place,,Hull,East Yorkshire,North East Yorkshire and the Humber
+East Ham Jobcentre,E6 2LL,,,473 Barking Road,East Ham,London,,East London
+Penicuik Jobcentre,EH26 8HN,,,25 John Street,,Penicuik,Midlothian,East and South East of Scotland
+Dumbarton Jobcentre,G82 1SJ,,,15 Meadowbank Street,,Dumbarton,Dumbartonshire,West Scotland
+Penarth Jobcentre,CF64 3DA,Charnwood House,,Plymouth Road,,Penarth,Glamorgan,South East Wales
+Rochdale Jobcentre,OL16 1LT,,,2 Fleece Street,,Rochdale,Lancashire,Greater Manchester East and West
+Partick Jobcentre,G11 6QN,,,20 Benalder Street,Partick,Glasgow,Lanarkshire,"Glasgow, Lanarkshire and East Dunbartonshire"
+East Kilbride Jobcentre,G74 1LW,,,55 The Plaza,,East Kilbride,Lanarkshire,"Glasgow, Lanarkshire and East Dunbartonshire"
+Redbridge Jobcentre,IG3 8EJ,,,564-570 High Road,Seven Kings,Ilford,Essex,East London
+Waltham Forest - Youth Hub: Age 16-24 only,E17 3SH,Dansom House,,656A Forest Road,Walthamstow,London,,East London
+Eyemouth Jobcentre,TD14 5BS,,,Upper Houndlow,,Eyemouth,Berwickshire,East and South East of Scotland
+Hoxton Jobcentre,N1 6LT,,,30 Drysdale Street,Hoxton,London,,East London
+Bognor Regis Jobcentre,PO21 1HH,Gloucester House,,High Street,,Bognor Regis,West Sussex,Surrey and Sussex
+Dolgellau Jobcentre,LL40 1BP,Government Buildings,,Arran Road,,Dolgellau,Gwynedd,North and Mid Wales
+Newark Jobcentre,NG24 1EP,,,41 Lombard Street,,Newark,Nottinghamshire,"Nottinghamshire, Lincolnshire and Rutland"
+Taunton Jobcentre,TA1 3NY,Brendon House,,35-36 High Street,,Taunton,Somerset,Wessex
+St Helens Jobcentre,WA10 1UF,Gregson House,,2 Central Street,,St. Helens,Merseyside,Merseyside
+Shepherds Bush Jobcentre,W12 7JP,,,176-180 Uxbridge Road,Shepherds Bush,London,,West London
+Porth Jobcentre,CF39 9RB,,,35 Hannah Street,,Porth,Mid Glamorgan,South West Wales
+Southend Jobcentre,SS1 2AP,Dencora Court,,Tylers Avenue,,Southend-on-Sea,Essex,Essex
+Wakefield Jobcentre,WF1 1PL,Crowther House,,Thornhill Street,,Wakefield,West Yorkshire,West Yorkshire
+Wick Jobcentre,KW1 4HJ,Government Buildings,,Girnigoe Street,,Wick,Caithness,North Scotland
+Sutton Coldfield Jobcentre,B73 6AY,King Edward Court,,2 Railway Road,,Sutton Coldfield,West Midlands,Birmingham and Solihull
+Wester Hailes Jobcentre,EH14 2SP,Murrayburn House,,1 Wester Hailes Centre,,Edinburgh,Midlothian,East and South East of Scotland
+Durham Jobcentre,DH1 3BP,Elvet House,,Hallgarth Street,,Durham,County Durham,"Durham, Tees Valley"
+Bath Jobcentre,BA1 1TS,Somerset Hall,,Somerset Street,,Bath,Avon,Gloucester & West of England
+Solihull Jobcentre,B91 3DR,Park House,,74 New Road,,Solihull,West Midlands,Birmingham and Solihull
+Walsall Bridle Court Jobcentre,WS1 1XR,,,1-5 Hatherton Road,,Walsall,West Midlands,Black Country
+Guisborough Jobcentre,TS14 6JS,Nathan House,,Northgate,,Guisborough,County Durham,"Durham, Tees Valley"
+Sleaford Jobcentre,NG34 7EF,,Ground Floor,Kesteven Street,,Sleaford,Lincolnshire,Lincolnshire and Rutland
+Burton On Trent Jobcentre,DE14 3SN,Crown House,,New Street,,Burton-on-Trent,Staffordshire,Staffordshire and Shropshire
+Market Drayton Jobcentre,TF9 1JF,,,51 Stafford Street,,Market Drayton,Shropshire,Staffordshire and Shropshire
+Oldbury Jobcentre,B69 3AD,,,1 Church Street,,Oldbury,West Midlands,Black Country
+Sheffield Cavendish Court Jobcentre,S1 2DR,Cavendish Court,,9 Bank Street,,Sheffield,South Yorkshire,South Yorkshire
+Matlock Jobcentre,DE4 3FD,The Phoenix Centre,,2 Lime Grove Walk,,Matlock,Derbyshire,Derbyshire
+Annan Jobcentre,DG12 6JJ,,,Murray Street,,Annan,Dumfries & Galloway,West Scotland
+Felling Jobcentre,NE10 9QQ,,,37 High Street,,Felling,Tyne and Wear,Tyne & Wear
+Coventry Tile Hill Jobcentre,CV4 9GR,,,Torrington Avenue,Tile Hill,Coventry,West Midlands,Mercia
+Selly Oak Jobcentre,B29 6SP,,,Harborne Lane,Selly Oak,Birmingham,West Midlands,Birmingham and Solihull
+Bilston Jobcentre,WV14 0DB,,,High Street,,Bilston,West Midlands,Black Country
+Killingworth Jobcentre,NE12 6YT,,Units 23 & 24,The Centre,Killingworth,Newcastle Upon-Tyne,Tyne and Wear,Tyne & Wear
+Houghton-le-Spring Jobcentre,DH4 4DL,Broadway House,,Frederick Place,,Houghton-le-Spring,Tyne and Wear,Tyne & Wear
+Tipton Jobcentre,DY4 8ES,,,69 Owen Street,,Tipton,West Midlands,Black Country
+Halesowen Jobcentre,B63 4AH,Maybrook House,,Queensway,,Halesowen,West Midlands,Black Country
+Bayard House Jobcentre,WS1 1SP,,,134-138 Lichfield Street,,Walsall,West Midlands,Black Country
+Hendon Jobcentre,NW4 1DP,Crown Building,,10 Finchley Lane,Hendon,London,,North London
+Brownhills Jobcentre,WS8 6HL,,,107 High Street,Brownhills,Walsall,West Midlands,Black Country
+Birmingham City Office/ Ladywood Jobcentre,B3 1LB,,,65-77 Summer Row,Ladywood,Birmingham,West Midlands,Birmingham and Solihull
+Sunderland Jobcentre,SR1 1QT,,,60-66 John Street,,Sunderland,Tyne and Wear,Tyne & Wear
+Prestwich Jobcentre,M25 1BP,,,1 Rectory Lane,Prestwich,Manchester,Greater Manchester,Greater Manchester East and West
+Brecon Jobcentre,LD3 7HL,,,Canal Bank,,Brecon,Powys,North and Mid Wales
+West Bromwich Jobcentre,B70 8LG,Christchurch House,,High Street,,West Bromwich,West Midlands,Black Country
+Hertford Jobcentre,SG14 1EF,,,12-14 Parliament Square,,Hertford,Herefordshire,Bedfordshire and Hertfordshire
+Stevenage Jobcentre,SG1 1EZ,,,38-44 The Forum,,Stevenage,Hertfordshire,Bedfordshire and Hertfordshire
+Luton Jobcentre,LU1 2ER,Cheviot House,,55 Guildford Street,,Luton,Bedfordshire,Bedfordshire and Hertfordshire
+Bexley Heath Westminster House Jobcentre,DA6 7BB,Westminster House,,186-194 Broadway,,Bexleyheath,Kent,South London
+Dereham Jobcentre,NR19 1DX,,,16-18 High Street,,Dereham,Norfolk,East Anglia
+Wavertree Jobcentre,L15 8HQ,,,92 High Street,Wavertree,Liverpool,Merseyside,Merseyside
+Westminster Jobcentre,SW1P 2ES,,,Chadwick Street,Westminster,London,,North London
+Finchley Jobcentre,N3 2BL,,,40 Ballards Lane,Finchley,London,,North London
+Edgware Jobcentre,HA8 7DX,Middlesex House,,29-45 High Street,,Edgware,Middlesex,North London
+Chelmsley Wood Jobcentre,B37 5TH,,,1 Chelmsley Wood Circle,Chelmsley Wood,Birmingham,West Midlands,Birmingham and Solihull
+Peckham Jobcentre,SE15 5DS,,,24-26 Peckham High Street,Peckham,London,,South London
+North Shields Jobcentre,NE30 1ND,,,Camden Street,,North Shields,Northumberland,Tyne & Wear
+Newcastle West Jobcentre,NE15 6PL,Condercum House,,171 West Road,,Newcastle Upon Tyne,Tyne and Wear,Tyne & Wear
+Lewisham Jobcentre,SE6 4AZ,,,19 Rushey Green,Catford,London,,South London
+Hayes Jobcentre,UB4 0RS,Adam House,,818-820 Uxbridge Road,,Hayes,Middlesex,West London
+Ealing Jobcentre,W13 8RA,,,86-92 Uxbridge Road,West Ealing,London,,West London
+Woolwich Jobcentre,SE18 6PY,Nelson House,,50 Wellington Street,Woolwich,London,,South London
+Fulham Jobcentre,SW6 2DL,Waterford House,,Waterford Road,Fulham,London,,West London
+Acton Jobcentre,W3 7JL,,,Armstrong Road,Acton,London,,West London
+Portree Jobcentre,IV51 9EN,,,Bayfield Road,,Portree,Isle of Skye,North Scotland
+Newmarket Jobcentre,CB8 0WJ,,,Wellington Street,,Newmarket,Cambridgeshire,East Anglia
+Accrington Jobcentre,BB5 1PJ,Oakbank House,,Oak Street,,Accrington,Lancashire,Cumbria and Lancashire
+Kirkwall Jobcentre,KW15 1AJ,Government Buildings,,Tankerness Lane,,Kirkwall,Orkney,"Highlands, Islands, Clyde Coast and Grampian"
+Perth Jobcentre,PH1 5TH,,,60-62 High Street,,Perth,Perthshire,North Scotland
+Maltby Jobcentre,S66 7DA,,,1 Grange Lane,Maltby,Rotherham,South Yorkshire,South Yorkshire
+Cumnock Jobcentre,KA18 1JZ,,,33-43 Townhead Street,,Cumnock,Ayrshire,West Scotland
+Eccles Jobcentre,M30 0NA,Peel House,Ground Floor,Monton Road,Eccles,Manchester,Greater Manchester,Greater Manchester Central & Cheshire Community
+Corby Jobcentre,NN17 1PH,,,George Street,,Corby,Northamptonshire,Leicestershire and Northamptonshire
+Daventry Jobcentre,NN11 4FP,,,Lodge Road,,Daventry,Northamptonshire,Leicestershire and Northamptonshire
+Sparkhill Jobcentre,B12 8AF,Heynesfield House,,10 Stoney Lane,Sparkhill,Birmingham,West Midlands,Birmingham and Solihull
+Kings Heath Jobcentre,B14 7EG,,,3 Scott Corner,Institute Road,Kings Heath Birmingham,West Midlands,Birmingham and Solihull
+Rushden Jobcentre,NN10 0AF,,,71 Rectory Road,,Rushden,Northamptonshire,Leicestershire and Northamptonshire
+Witney Jobcentre,OX28 4JA,,Unit A,Two Rivers Trading Estate,Station Lane,Witney,Oxfordshire,Thames Valley
+Todmorden Jobcentre,OL14 5HT,,,27-31 Adelaide Street,,Todmorden,Lancashire,West Yorkshire
+Harrogate Jobcentre,HG1 5PZ,Berkeley House,,35 Victoria Avenue,,Harrogate,North Yorkshire,North East Yorkshire and the Humber
+Keighley Jobcentre,BD21 5AG,Worth House,,Worthway,,Keighley,West Yorkshire,West Yorkshire
+Treorchy Jobcentre,CF42 6TE,Oldway House,,Bute Street,,Treorchy,Rhonda,South West Wales
+Pontefract Jobcentre,WF8 1DR,Challand House,,Liquorice Way,,Pontefract,West Yorkshire,West Yorkshire
+Morley Jobcentre,LS27 9EB,High Point House,,88 Queen Street,,Morley,West Yorkshire,West Yorkshire
+Leeds Southern House Jobcentre,LS9 6TF,Southern House,,529 York Road,,Leeds,West Yorkshire,West Yorkshire
+Louth Jobcentre,LN11 9NB,,,17 Eastgate,,Louth,Linconshire,"Nottinghamshire, Lincolnshire and Rutland"
+Montrose Jobcentre,DD10 8AL,Castlestead House,,4 Castle Place,,Montrose,Angus,North Scotland
+Sutton In Ashfield Jobcentre,NG17 1BH,Ashbrook House,,Forest Street,,Sutton in Ashfield,Nottinghamshire,"Nottinghamshire, Lincolnshire and Rutland"
+Crawley Jobcentre,RH10 1EZ,Gresham House,,20-22 Station Road,,Crawley,West Sussex,Surrey and Sussex
+Borehamwood Jobcentre,WD6 1JR,Government Offices,,Elstree Way,,Borehamwood,Hertfordshire,Bedfordshire and Hertfordshire
+Havant Jobcentre,PO9 2AR,,,2 Elmleigh Road,,Havant,Hampshire,Hampshire and Isle of Wight
+Chichester Jobcentre,PO19 8EH,,,5 Southgate,,Chichester,West Sussex,Surrey and Sussex
+Chesham Jobcentre,HP5 1LD,,,31 Red Lion Street,,Chesham,Buckinghamshire,Thames Valley
+Herne Bay Jobcentre,CT6 5EA,,,22-26 Bank Street,,Herne Bay,Kent,Kent
+Harlow Jobcentre,CM20 1NA,Beaufort House,,Crown Gate,,Harlow,Essex,Essex
+Felixstowe Jobcentre,IP11 7AZ,,,29-31 Hamilton Road,,Felixstowe,Suffolk,East Anglia
+Diss Jobcentre,IP22 4AX,,,Church Street,,Diss,Norfolk,East Anglia
+Oxford Jobcentre,OX1 2BX,,,7 Worcester Street,Gloucester Green,Oxford,Oxfordshire,Thames Valley
+"Bristol, Clevedon Jobcentre",BS21 6BY,,,28 Old Street,,Clevedon,North Somerset,Gloucester & West of England
+Bristol Central Jobcentre,BS1 1EN,Eagle House,,Colston Avenue,,Bristol,Avon,Gloucester & West of England
+Lymington Jobcentre,SO41 9AQ,Cannon Court,,55 High Street,,Lymington,Hampshire,Hampshire and Isle of Wight
+Newtown Jobcentre,SY16 2PZ,Afon House,,Park Street,,Newtown,Powys,North and Mid Wales
+Peterlee Jobcentre,SR8 1PB,Hatfield House,,St. Cuthberts Road,,Peterlee,County Durham,"Durham, Tees Valley"
+Tonbridge Jobcentre,TN9 1DU,Crown Buildings,,Bradford Street,,Tonbridge,Kent,Kent
+"Bristol, Horfield Jobcentre",BS7 0UD,,,1 Monks Park Avenue,Horfield,Bristol,Avon,Gloucester & West of England
+Eltham Jobcentre,SE9 5DA,,,1 Passey Place,Eltham,London,,South London
+Middlesbrough East Jobcentre,TS3 9NB,Beresford Building,,The Greenway,Thorntree,Middlesbrough,Teeside,"Durham, Tees Valley"
+Stroud Unicorn House Jobcentre,GL5 2JT,Unicorn House,,Cornhill Shopping Centre,,Stroud,Gloucestershire,Gloucester & West of England
+Port Talbot Jobcentre,SA13 1LX,,,64-66 Station Road,,Port Talbot,West Glamorgan,South West Wales
+Llanelli Jobcentre,SA15 3TN,,,58 Stepney Street,,Llanelli,Carmarthenshire,South West Wales
+Macclesfield Jobcentre,SK10 1AE,,,30 King Edward Street,,Macclesfield,Cheshire,Greater Manchester Central & Cheshire Community
+Tonypandy Jobcentre,CF40 2EP,Thistle House,,"Llwnpia Road, ",,Tonypandy,Mid Glamorgan,South West Wales
+Newton Heath Jobcentre,M40 2EP,,,1009 Oldham street,Newton Heath,Manchester,Greater Manchester,Greater Manchester Central & Cheshire Community
+Scunthorpe Jobcentre,DN15 6JT,Crown Building,,Laneham Street,,Scunthorpe,North Lincolnshire,North East Yorkshire and the Humber
+Atherton Jobcentre,M46 0DF,,,129 Market Street,Atherton,Manchester,Greater Manchester,Greater Manchester East and West
+Clitheroe Jobcentre,BB7 1AE,,,31A Lowergate,,Clitheroe,Lancashire,Cumbria and Lancashire
+Ashton-In-Makerfield Jobcentre,WN4 9AB,,,17-19 Gerard Street,Ashton in Makerfield,Wigan,Lancashire,Greater Manchester East and West
+Colne Jobcentre,BB8 0HS,,,80 Market Street,,Colne,Lancashire,Cumbria and Lancashire
+Farnworth Jobcentre,BL4 7AX,,,99 King Street,,Bolton,Lancashire,Greater Manchester East and West
+Widnes Jobcentre,WA8 7EA,Kingsway House,,Caldwell Road,,Widnes,Cheshire,Merseyside
+Andover Jobcentre,SP10 2PA,,,6 London Street,,Andover,Hampshire,Hampshire and Isle of Wight
+Hammersmith Jobcentre,W6 0PP,Glen House,,22 Glenthorne Road,Hammersmith,London,,West London
+Basingstoke Jobcentre,RG21 8ES,Crown Buildings,,Winchester Road,,Basingstoke,Hampshire,Hampshire and Isle of Wight
+Leigh Jobcentre,WN7 1UT,Roydale House,,2-10 Windmere Road,,Leigh,Lancashire,Greater Manchester East and West
+Preston Jobcentre,PR1 2ER,Gateway House,,200 Ringway,,Preston,Lancashire,Cumbria and Lancashire
+Penrith Jobcentre,CA11 7QH,,,19-24 Friargate,,Penrith,Cumbria,Cumbria and Lancashire
+Eastleigh Jobcentre,SO50 5PB,Capital House,,100 Southampton Road,,Eastleigh,Hampshire,Hampshire and Isle of Wight
+Blyth Jobcentre,NE24 2AQ,Bridge House,,Percy Street,,Blyth,Northumberland,Tyne & Wear
+Gosport Jobcentre,PO12 1RR,,Unit 2,Walpole Street,,Gosport,Hampshire,Hampshire and Isle of Wight
+Ryde Jobcentre,PO33 2RE,,,148 High Street,Ryde,Isle of Wight,Hampshire,Hampshire and Isle of Wight
+Ringwood Jobcentre,BH24 1HY,,,20-22 Southampton Road,,Ringwood,Hampshire,Hampshire and Isle of Wight
+Portsmouth Jobcentre,PO1 1NB,,,27 Arundel Street,,Portsmouth,Hampshire,Hampshire and Isle of Wight
+Dundee City Jobcentre,DD1 2DB,Wellgate House,,Wellgate Centre,,Dundee,Tayside,North Scotland
+Maidenhead Jobcentre,SL6 1SP,,,3 Park Street,,Maidenhead,Berkshire,Thames Valley
+Basildon Jobcentre,SS14 1DL,The Basildon Centre,,St Martin's Square,,Basildon,,Essex
+Lichfield Jobcentre,WS13 6JG,Guardian House,,Birmingham Road,,Lichfield,Staffordshire,Staffordshire and Shropshire
+Market Harborough Jobcentre,LE16 7AG,Council Offices,Second Floor,Adam & Eve Street,,Market Harborough,Leicestershire,Leicestershire and Northamptonshire
+Dingwall Jobcentre,IV15 9HL,,,3 High Street,,Dingwall,Invernesshire,North Scotland
+Stratford-Upon-Avon Jobcentre,CV37 9DA,Martin Raff House,,New Crown Buildings,Alcester Road,Stratford Upon Avon,Warwickshire,Mercia
+Oldham Jobcentre,OL1 1LH,Tweedale House,,75 Union Street,,Oldham,Lancashire,Greater Manchester East and West
+Alexandria Jobcentre,G83 0UP,,,160 Bank Street,,Alexandria,Dunbartonshire,West Scotland
+Barnet Jobcentre,EN5 1AH,Raydean House,,15 Western Parade,Great North Road,Barnet,Hertfordshire,North London
+Clydebank Jobcentre,G81 2JL,Radnor House,,245 Kilbowie Road,,Clydebank,Dunbartonshire,West Scotland
+Motherwell Jobcentre,ML1 2HN,Flemington House,,600 Windmillhill Street,,Motherwell,Lanarkshire,"Glasgow, Lanarkshire and East Dunbartonshire"
+Cinderford Jobcentre,GL14 2JU,,,Foundry Road,,Cinderford,Gloucestershire,Gloucester & West of England
+Bellshill Jobcentre,ML4 1HT,,,417 Main Street,,Bellshill,Lanarkshire,"Glasgow, Lanarkshire and East Dunbartonshire"
+Southampton Jobcentre,SO14 3PJ,St. Cross House,,18 Bernard Street,,Southampton,Hampshire,Hampshire and Isle of Wight
+Biggleswade Jobcentre,SG18 0JH,,,73 High Street,,Biggleswade,Bedfordshire,Bedfordshire and Hertfordshire
+Frome Jobcentre,BA11 1QW,,,9-10 Kingsway Precinct,,Frome,Somerset,Wessex
+Wolverhampton Chapel Court Jobcentre,WV1 3AF,,,Queen Street,,Wolverhampton,West Midlands,Black Country
+Downham Market Jobcentre,PE38 9JS,The Priory Centre,,78 Priory Road,,Downham Market,Norfolk,East Anglia
+Lowestoft Jobcentre,NR32 1RW,Rishton House,,Clapham Road,,Lowestoft,Suffolk,East Anglia
+Shrewsbury Jobcentre,SY1 1YA,Princess House,,17-19 The Square,,Shrewsbury,Shropshire,Staffordshire and Shropshire
+Belper Jobcentre,DE56 1PN,,,54 King Street,,Belper,Derbyshire,Derbyshire
+Kidsgrove Jobcentre,ST7 1AH,,,The Avenue,Kidsgrove,Stoke on Trent,Staffordshire,Staffordshire and Shropshire
+Dalkeith Jobcentre,EH22 1HB,,,7 Buccleuch Street,,Dalkeith,Midlothian,East and South East of Scotland
+Harlesden Jobcentre,NW10 4TL,Harlesden House,,161 High Street,,London,,West London
+Johnstone Jobcentre,PA5 8QT,,,11 Floors Street,,Johnstone,Renfrewshire,West Scotland
+Ystradgynlais Jobcentre,SA9 1AB,,,Wind Road,,Ystradgynlais,Powys,North and Mid Wales
+Wellington Jobcentre,TF1 1NW,,,67 New Street,Wellington,Telford,Shropshire,Staffordshire and Shropshire
+Eastbourne Jobcentre,BN21 3XX,St. Annes House,,2 St. Anne's Road,,Eastbourne,East Sussex,Surrey and Sussex
+Cambuslang Jobcentre,G72 7EX,,,27 Main Street,Cambuslang,Glasgow,Lanarkshire,"Glasgow, Lanarkshire and East Dunbartonshire"
+Helston Jobcentre,TR13 8HX,,,5 Coinagehall Street,,Helston,Cornwall,Devon and Cornwall
+Devizes Jobcentre,SN10 1AH,,,Maryport Street,,Devizes,Wiltshire,Wessex
+Chepstow Jobcentre,NP16 5PB,,,Station Road,,Chepstow,Gwent,South East Wales
+Rothesay Jobcentre,PA20 0DG,Crown Building,,9 King Street,,Rothesay,Isle of Bute,West Scotland
+Lewes Jobcentre,BN7 2XE,Medwyn House,,Mountfield Road,,Lewes,East Sussex,Surrey and Sussex
+Tiverton Jobcentre,EX16 6LU,Coggans Well House,,Phoenix Lane,,Tiverton,Devon,Devon and Cornwall
+Cirencester Jobcentre,GL7 1LW,Forum House,,Southway,,Cirencester,Gloucestershire,Gloucester & West of England
+Pontypool Jobcentre,NP6 6XQ,,,Park Road,,Pontypool,Gwent,South East Wales
+Ayr Jobcentre,KA8 0BX,Wallacetoun House,,John Street,,Ayr,Ayrshire,West Scotland
+"Bristol, Bedminster Jobcentre",BS3 3NR,,,17-19 Kent Street,Bedminster,Bristol,Avon,Gloucester & West of England
+Finsbury Park Jobcentre,N7 7JX,,,52-53 Medina Road,Finsbury Park,London,,North London
+Wood Green Jobcentre,N22 6UH,,,1 Western Road,Wood Green,London,,North London
+Tredegar Jobcentre,NP2 3YA,,,Upper Coronation Street,,Tregegar,Gwent,South East Wales
+Kentish Town Jobcentre,NW5 2BN,,,178 Kentish Town Road,Kentish Town,London,,North London
+Dalston Jobcentre,N1 4BY,Playle House,,Tottenham Road,Dalston,London,,East London
+Exeter Jobcentre,EX1 2DA,Clarendon House,,Western Way,,Exeter,Devon,Devon and Cornwall
+Southall Jobcentre,UB1 1QD,,,68 The Broadway,,Southall,Middlesex,West London
+Newquay Jobcentre,TR7 1BY,,,32 East Street,,Newquay,Cornwall,Devon and Cornwall
+Flint Jobcentre,CH6 5BD,,,Swan Street,,Flint,Flintshire,
+Brixham Jobcentre,TQ5 8NQ,Decca House,,28 New Road,,Brixham,Devon,Devon and Cornwall
+South Shields Jobcentre,NE33 1BZ,,,Chapter Row,Market Place,South Shields,Tyne & Wear,
+Hounslow Jobcentre,TW3 1LL,,,10 Montague Road,,Hounslow,Middlesex,
+Yeovil Jobcentre,BA20 1UU,Federated House,,29-31 Hendford,,Yeovil,Somerset,
+Stanley Jobcentre,DH9 0LT,,,2 Front Street,,Stanley,County Durham,
+Totnes Jobcentre,TQ9 5WA,Westward House,,New Walk,,Totnes,Devon,Devon and Cornwall
+The Peoples House    2 Station Road Letchworth Garden City SG6 3AZ,The Peoples House    2 Station Road Letchworth Garden City SG6 3AZ,The People's House,,2 Station Road,,Letchworth Garden City,Hertfordshire,
+Tamworth Jobcentre,B79 7JJ,,,90 Saxon Mill Lane,,Tamworth,Staffordshire,
+Longton Jobcentre,ST3 2PF,,,83-87 The Strand,Longton,Stoke on Trent,Staffordshire,
+Bargoed Jobcentre,CF81 8RD,Charlestown House,,44-46,High Street,Bargoed,Mid Glamorgan,
+Bridlington Jobcentre,YO16 4LY,Crown Buildings,,Quay Road,,Bridlington,East Yorkshire,
+Banbury Jobcentre,OX16 2EX,Crown Buildings,,Southam Road,,Banbury,Oxfordshire,
+Redruth Jobcentre,TR15 1JN,Piran House,,Nettles Hill,,Redruth,Cornwall,Devon and Cornwall
+Swadlincote Jobcentre,DE11 9DY,,,7 The Delph Centre,,Swadlincote,Derbyshire,
+Hemel Hempstead Jobcentre,HP1 1EX,,,1 Waterhouse Street,,Hemel Hempstead,Hertfordshire,
+"Bristol, Yate Jobcentre",BS37 4BB,,,39 South Parade,Yate,Bristol,South Gloucestershire,
+Airdrie Jobcentre,ML6 0AH,,,44 Stirling Street,,Airdrie,North Lanarkshire,
+Blairgowrie Jobcentre,PH10 6DQ,,,11-13 Perth Street,,Blairgowrie,Perthshire,
+Peterhead Jobcentre,AB42 1UX,,,63 St Peter Street,,Peterhead,Aberdeenshire,
+Ammanford Jobcentre,SA18 2NT,Llys Afon,,Park Street,,Ammanford,Carmarthenshire,
+Birkenhead Jobcentre,CH41 6JN,Brunswick House,,29 Price Street,Birkenhead,Wirral,Merseyside,
+Northwich Cheshire Jobcentre,CW9 5JQ,,,17-21 London Road,,Northwich,Cheshire,
+Inverness Jobcentre,IV3 5BP,River House,,Young Street,,Inverness,Inverness-shire,
+Alnwick Jobcentre,NE66 1JX,Roxburgh House,,Roxburgh Place,,Alnwick,Northumberland,
+Stafford  Jobcentre,ST16 2LP,Greyfriars House,,Greyfriars,,Stafford,Staffordshire,
+Pwllheli Jobcentre,LL53 6BY,,,Lower Cardiff Road,,Pwllheli,Gwynedd,
+Galashiels Jobcentre,TD1 1TD,New Reiver House,,High Street,,Galashiels,Selkirkshire,
+Middleton Jobcentre,M24 1BX,Othen House,,7 Oldham Road,Middleton,Manchester,Lancashire,
+Dumfries Jobcentre,DG1 2NU,,,65-75 Irish Street,,Dumfries,Dumfries & Galloway,
+Halifax Crossfield House Jobcentre,HX1 1PE,Crossfield House,,St. James Road,,Halifax,North Yorkshire,
+North Kensington Jobcentre,W10 5BE,Units 308-312 Quayside House,,Kensal Road,North Kensington,London,,
+City Tower Jobcentre,E1 8DT,,,West Tenter Street,Whitechapel,London,,
+Redditch Jobcentre,B97 4DL,St Stephens House,,Prospect Hill,,Redditch,Worcestershire,
+Everton Jobcentre,L5 4NQ,Premier House,,95 Breckfield Road North,,Liverpool,Merseyside,
+Hessle Jobcentre,HU13 0RX,,,26 The Weir,,Hessle,North Humberside,
+Brighouse Jobcentre,HD6 1EH,,,Owlings Ings Road,,Brighouse,West Yorkshire,
+Upton Jobcentre,CH49 0UE,,,52 Arrowe Park Road,Upton,Wirral,Merseyside,
+Beverley Jobcentre,HU17 9JW,Crosskill House,,Mill Lane,,Beverley,East Yorkshire,
+Colwyn Bay Jobcentre,LL29 7AU,,,45a Conwy Road,,Colwyn Bay,Conwy,
+Redhill Jobcentre,RH1 1BQ,,,15 London Road,,Redhill,Surrey,
+Sutton Jobcentre,SM1 1PX,Helena House,,348 High Street,,Sutton,Surrey,
+Hyde Jobcentre,SK14 2LS,Beech House,,New Beech Street,,Hyde,Cheshire,
+Plaistow Jobcentre,E13 8EB,,,3-9 Balaam Street,Plaistow,London,,
+Pembroke Dock Jobcentre,SA72 6EP,,,23 Gordon Street,,Pembroke Dock,Pembrokeshire,
+Worksop Jobcentre,S80 2AQ,Bridge Court,,Bridge Place,,Worksop,Nottinghamshire,
+Atherstone Jobcentre,CV9 1DR,,,120 Long Street,,Atherstone,Warwickshire,
+Newport Gwent Jobcentre,NP20 1JR,,,2-6 Charles Street,,Newport,Gwent,
+Leighton Buzzard Jobcentre,LU7 1DA,Bossard House,,West Street,,Leighton Buzzard,Bedfordshire,
+Canning Town Jobcentre,E16 3PD,Kilner House,,Freemasons Road,Canning Town,London,,
+Laurieston Jobcentre,G41 1RD,,,Pollokshaws Road,Laurieston,Glasgow,,
+Stowmarket Jobcentre,IP14 1AN,,,Ipswich Street,,Stowmarket,Suffolk,
+Hythe Jobcentre,SO45 6ZL,,,Pylewell Road,,Southampton,Hampshire,
+Port Glasgow Jobcentre,PA14 5EY,,,Scarkow Street,,Port Glasgow,Renfrewshire,
+Greenock Jobcentre,PA15 1QL,,,Dalrymple Street,,Greenock,Renfrewshire,
+Wallsend Jobcentre,NE28 6HP,Hadrian House,,Station Road,,Wallsend,Tyne and Wear,
+Erdington Jobcentre,B23 6TD,,,Sutton New Road,Erdington,Birmingham,West Midlands,
+Wellingborough Jobcentre,NN8 4NE,Lothersdale House,,West Villa Road,,Wellingborough,Northamptonshire,
+Barton on Humber Jobcentre,DN18 5ER,,,Kings Street,,Barton on Humber,Northamptonshire,
+Abingdon Jobcentre,OX14 3QS,Torus House,,Stert Street,,Abingdon,Oxfordshire,
+North Walsham Jobcentre,NR28 9JX,GPO Buildings,,Kings Arms Street,,North Walsham,Norfolk,
+Rhyl Jobcentre,LL18 1UU,,,High Street,,Rhyl,Denbighshire,
+Llandudno Jobcentre,LL30 2SS,,,Chapel Street,,Llandudno,Conwy,
+Hove Jobcentre,BN3 7GA,Boundary House,,Boundary Road,,Hove,East Sussex,
+Chelmsford Jobcentre,CM2 0PD,The Gemini Centre,,New London Road,,Chelmsford,Essex,
+Winton Jobcentre,BH9 2AL,,,Wimborne Road,Winton,Bournemouth,Dorset,
+Farnborough Jobcentre,GU14 7NT,Princeton House,,Victoria Road,,Farnborough,Hampshire,
+High Riggs Jobcentre,EH3 9HU,,,High Riggs,,Edinburgh,,
+Whitchurch Jobcentre,SY13 1AG,,,Green End Parade,,Whitchurch,Shropshire,
+Wells Jobcentre,BA5 2PJ,,,Chamberlain Street,,Wells,Somerset,
+Helensburgh Jobcentre,G84 7PH,,,Charlotte Street,,Helensburgh,,
+Brixton Road Jobcentre,SW9 7AY,,,Brixton Road,Brixton,London,,
+Arnold Jobcentre,NG5 6LT,Civic Centre,,Arnot Hill Park,Arnold,Arnold,Nottinghamshire,
+Nottingham Loxley House Jobcentre,NG2 3QD,Loxley House,,,Nottingham,Nottinghamshire,,
+Dunstable Watling House Jobcentre,LU6 1LF,Watling House,,High Street,North Dunstable,Bedfordshire,,
