@@ -1,0 +1,711 @@
+MNEMONIC,TYPE,NAME,BUILDINGNAME,STREET,TOWN,CITY,COUNTY,COUNTRY,POSTCODE
+100204,JCP,Romford Jobcentre Plus,Crown House,30 Main Road,Romford,,Essex,United Kingdom,RM1 3HH
+100311,JCP,Laurieston Social Security Office,,159-181 Pollokshaws Road,,Glasgow,,United Kingdom,G41 1PW
+1005,JCP,Aldershot Jobcentre Plus,South Western House,Station Road,Aldershot,,Hampshire,United Kingdom,GU11 1HP
+1006,JCP,Andover Jobcentre Plus,,6 London Street,Andover,,Hampshire,United Kingdom,SP10 2PA
+100603,JCP,Lincoln Jobcentre,City Hall,Orchard Street,Lincoln,,Lincolnshire,United Kingdom,LN1 1YZ
+100604,JCP,Luton Jobcentre Plus,Cheviot House,Guildford St,Luton,,Bedfordshire,United Kingdom,LU1 2ER
+100625,JCP,Barking Jobcentre Plus,Phoenix House,12-14 Wakering Road,Barking,,Essex,United Kingdom,IG11 8QB
+100704,JCP,Bedford Jobcentre Plus,Wyvern House,Bromham Rd,Bedford,,Bedfordshire,United Kingdom,MK40 2EH
+100711,JCP,Anniesland Jobcentre Plus,,21 Herschell Street,,Glasgow,,United Kingdom,G13 1HT
+1008,JCP,Ebbw Vale Jobcentre Plus,Crown Buildings,Civic Centre,Ebbw Vale,,Gwent,United Kingdom,NP23 6XG
+100904,JCP,Watford Jobcentre Plus,Exchange House,60 Exchange Rd,Watford,,Hertfordshire,United Kingdom,WD18 0JJ
+101,JCP,Middlesbrough Jobcentre Plus,James Cook House,79 Corporation Road,Middlesbrough,,Cleveland,United Kingdom,TS1 2BA
+101007,JCP,Horfield Jobcentre Plus,,1-15 Monks Park Avenue,,Bristol,City of Bristol,United Kingdom,BS7 0UD
+101111,JCP,Shettleston Jobcentre Plus,,955 Shettleston Road,,Glasgow,,United Kingdom,G32 7NY
+101114,JCP,Partick Jobcentre Plus,,20 Benalder Street,,Glasgow,,United Kingdom,G11 6QN
+101146,JCP,Bellshill Jobcentre Plus,,417 Main Street,Bellshill,,,United Kingdom,ML4 1HT
+101211,JCP,Springburn Jobcentre Plus,,200 Atlas Road,,Glasgow,,United Kingdom,G21 4DL
+101304,JCP,St Albans Jobcentre Plus,Beauver House,6 Bricket Road,St Albans,,Hertfordshire,United Kingdom,AL1 3JU
+101603,JCP,Boston Jobcentre Plus,Crown House,Lincoln Lane,Boston,,Lincolnshire,United Kingdom,PE21 8SJ
+101604,JCP,Bury St Edmunds Jobcentre Plus,St Andrews House,St Andrew St North,Bury St Edmunds,,Suffolk,United Kingdom,IP33 1TT
+101810,JCP,St Helens Jobcentre Plus,Gregson House,2 Central Street,St Helens,,Merseyside,United Kingdom,WA10 1UF
+101910,JCP,Southport Jobcentre Plus,Eastbank House,Eastbank Street,Southport,,Merseyside,United Kingdom,PR8 1HE
+102,JCP,Southern House Jobcentre Plus,,529 York Road,,Leeds,West Yorkshire,United Kingdom,LS9 6TF
+102103,JCP,Grantham Jobcentre Plus,Crown House,49A Castlegate,Grantham,,Lincolnshire,United Kingdom,NG31 6SY
+102301,JCP,Chester Le Street Jobcentre Plus,Crown Buildings,Station Road,Chester Le Street,,Durham,United Kingdom,DH3 3AB
+102308,JCP,Bargoed Jobcentre Plus,Charleston House,44-46 High Street,Bargoed,,Mid Glamorgan,United Kingdom,CF81 8RD
+102411,JCP,Motherwell Jobcentre Plus,Flemington House,600 Windmillhill Street,Motherwell,,,United Kingdom,ML1 2HN
+102791,JCP,Newlands Jobcentre Plus,,8 Coustonholm Road,,Glasgow,,United Kingdom,G43 1SS
+102901,JCP,Peterlee Jobcentre Plus,Hatfield House,St Cuthbert's Road,Peterlee,,Durham,United Kingdom,SR8 1PB
+103001,JCP,Houghton Jobcentre Plus,Broadway House,Frederick Place,Houghton le Spring,,Durham,United Kingdom,DH4 4DC
+103101,JCP,Kendal Jobcentre Plus,Kentmere House,1 Blackhall Road,Kendal,,Cumbria,United Kingdom,LA9 4BS
+103191,JCP,Bridgeton Jobcentre Plus,,9 Muslin Street,,Glasgow,,United Kingdom,G40 4AZ
+103490,JCP,Crosby Jobcentre Plus,Hougoumont House,29 Hougoumont Avenue,Waterloo,Liverpool,Merseyside,United Kingdom,L22 0PB
+103964,JCP,Lymington Jobcentre Plus,,Cannon Court,,,Hampshire,United Kingdom,SO41 9AQ
+104601,JCP,Workington Jobcentre Plus,Simon House,197-199 Vulcans Lane,Workington,,Cumbria,United Kingdom,CA14 2BW
+10504,JCP,Cumnock Jobcentre Plus,,33-43 Townhead Street,Cumnock,,Ayrshire,United Kingdom,KA18 1JZ
+10507,JCP,Girvan Jobcentre Plus,Carrick Buildings,20a Henrietta Street,Girvan,,Ayrshire,United Kingdom,KA26 9AL
+105109,JCP,Birmingham City Jobcentre Plus,,65-77 Summer Row,Ladywood,Birmingham,West Midlands,United Kingdom,B3 1LB
+10530,JCP,Annan Jobcentre Plus,,Murray Street,Annan,,Dumfries & Galloway,United Kingdom,DG12 6JJ
+10531,JCP,Dumfries Jobcentre Plus,,67-75 Irish Street,Dumfries,,Dumfries & Galloway,United Kingdom,DG1 2PQ
+105403,JCP,Skegness Jobcentre Plus,,1A Wainfleet Road,Skegness,,Lincolnshire,United Kingdom,PE25 3PA
+105405,JCP,Edgware Jobcentre Plus,Middlesex House,29-45 High Road,Edgware,,Middlesex,United Kingdom,HA8 7DX
+105561,JCP,Runcorn Jobcentre Plus,Andrew House The Link Building,Halton Lea Shopping Centre,Runcorn,,Cheshire,United Kingdom,WA7 2FQ
+10570,JCP,Dalkeith Jobcentre Plus,,7 Buccleuch Street,Dalkeith,,Midlothian,United Kingdom,EH22 1HB
+10574,JCP,Penicuik Jobcentre Plus,,25 John Street,Penicuik,,Midlothian,United Kingdom,EH26 8HN
+10575,JCP,Musselburgh Jobcentre Plus,North House,Eskmills Park Station Road,Musselburgh,,Midlothian,United Kingdom,EH21 7DU
+10578,JCP,High Riggs Jobcentre Plus,,20 High Riggs,,Edinburgh,Lothian,United Kingdom,EH3 9HU
+105861,JCP,High Wycombe Jobcentre Plus,Aria House,80 Oxford Road,High Wycombe,,Buckinghamshire,United Kingdom,HP11 2DN
+105910,JCP,Huyton Jobcentre Plus,Edendale House,Lathom Road,Huyton,Liverpool,Merseyside,United Kingdom,L36 9XS
+10601,JCP,Stranraer  Jobcentre Plus,,12 St John Street,Stranraer,,Dumfries & Galloway,United Kingdom,DG9 7EL
+10603,JCP,Rothesay Jobcentre Plus,,9 King Street,Rothesay,,Isle of Bute,United Kingdom,PA20 0DG
+10604,JCP,Alloa Jobcentre Plus,,17 Mar Street,Alloa,,Clackmannanshire,United Kingdom,FK10 1LX
+10607,JCP,Kirkwall Jobcentre Plus,,Taknerness Lane,Kirkwall,,Orkney Islands,United Kingdom,KW15 1AQ
+10608,JCP,Lerwick Jobcentre Plus,Charlotte House,Commercial Rd,Lerwick,,Shetland Isles,United Kingdom,ZE1 0LQ
+10612,JCP,Fraserburgh Jobcentre Plus,,2-4 South Harbour Rd,Fraserburgh,,Aberdeenshire,United Kingdom,AB43 9RZ
+10615,JCP,Peterhead Jobcentre Plus,,63 St Peter Street,Peterhead,,Aberdeenshire,United Kingdom,AB42 1UX
+10619,JCP,Aberdeen Ebury Jobcentre Plus,Ebury House,14 Dee Street,,Aberdeen,,United Kingdom,AB11 6DR
+10620,JCP,Arbroath Jobcentre Plus,,2 Chalmers Street,Arbroath,,Angus,United Kingdom,DD11 1PP
+10624,JCP,Dundee City Jobcentre Plus,Wellgate House,Wellgate Centre,,Dundee,,United Kingdom,DD1 2DB
+10625,JCP,Forfar Jobcentre Plus,,Service Road,Forfar,,Angus,United Kingdom,DD8 3HY
+10627,JCP,Montrose Jobcentre,Castlestead House,4 Castle Place,Montrose,,Angus,United Kingdom,DD10 8AL
+10630,JCP,Campbeltown Jobcentre Plus,,40 Hall Street,Campbeltown,,Argyll,United Kingdom,PA28 6BZ
+10631,JCP,Dunoon Jobcentre Plus,,George Street,Dunoon,,Argyll,United Kingdom,PA23 8BB
+106361,JCP,Newton le Willows Jobcentre Plus,,13-15 Market Street,Newton le Willows,,Merseyside,United Kingdom,WA12 9BQ
+10640,JCP,Banff Jobcentre Plus,,23 - 25 Castle Street,Banff,,Aberdeenshire,United Kingdom,AB45 1DJ
+10641,JCP,Buckie Jobcentre Plus,,Shanks Lane,Buckie,,Banffshire,United Kingdom,Ab56 1AF
+10652,JCP,Eyemouth Jobcentre Plus,,Upper Houndlaw,Eyemouth,,Berwickshire,United Kingdom,TD14 5BS
+10661,JCP,Wick Jobcentre Plus,Government Buildings,Girnigoe Street,Wick,,Caithness,United Kingdom,KW1 4HJ
+106810,JCP,Widnes Jobcentre Plus,Kingsway House,Caldwell Road,Widnes,,Cheshire,United Kingdom,WA8 7EA
+10683,JCP,Cowdenbeath Jobcentre Plus,,6 Pit Road,Cowdenbeath,,Fife,United Kingdom,KY4 9NQ
+10684,JCP,Cupar Jobcentre Plus,,7 West Port,Cupar,,Fife,United Kingdom,KY15 4AN
+10687,JCP,Glenrothes Jobcentre Plus,,3 Postgate,Glenrothes,,Fife,United Kingdom,KY7 5LL
+10688,JCP,Kirkcaldy Jobcentre Plus,,5 Hunter Street,Kirkcaldy,,Fife,United Kingdom,KY1 1ED
+10690,JCP,Leven Jobcentre Plus,,9 Waggon Road,Leven,,Fife,United Kingdom,KY8 4PT
+10692,JCP,St Andrews Jobcentre Plus,,187 South Street,St Andrews,,Fife,United Kingdom,KY16 9EE
+106995,JCP,Tottenham Jobcentre Plus,,640-656 High Road,Tottenham,London,,United Kingdom,N17 0AA
+10701,JCP,Fort William Jobcentre Plus,Waverley House,High Street,Fort William,,Inverness-shire,United Kingdom,PH33 6XX
+10702,JCP,Inverness River House Jobcentre Plus,River House,Young Street,,Inverness,,United Kingdom,IV3 5BP
+10703,JCP,Portree Jobcentre Plus,,Bayfield Road,Portree,,Isle of Skye,United Kingdom,IV51 9EN
+10730,JCP,Elgin Jobcentre Plus,,21 Trinity Rd,Elgin,,Moray,United Kingdom,IV30 1RJ
+10731,JCP,Forres Jobcentre Plus,,Tytler Street,Forres,,Moray,United Kingdom,IV36 1EL
+10751,JCP,Blairgowrie Jobcentre Plus,,11-13 Perth Street,Blairgowrie,,Perthshire,United Kingdom,PH10 6DQ
+10755,JCP,Perth Jobcentre Plus,,60-62 High Street,Perth,,Perthshire,United Kingdom,PH1 5TH
+10761,JCP,Invergordon Jobcentre Plus,,43 High Street,Invergordon,,Ross & Cromarty,United Kingdom,IV18 0DG
+10762,JCP,Stornoway Jobcentre Plus,,13-15 Francis Street,Stornoway,,Isle of Lewis,United Kingdom,HS1 2NA
+10764,JCP,Dingwall Jobcentre Plus,,3 High Street,Dingwall,,Ross & Cromarty,United Kingdom,IV15 9HL
+10770,JCP,Hawick Jobcentre Plus,,5-9 North Bridge Street,Hawick,,Borders,United Kingdom,TD9 9RH
+107905,JCP,Hendon Jobcentre Plus,Crown Building,10 Finchley Lane,Hendon,London,,United Kingdom,NW4 1DP
+10793,JCP,Grangemouth Jobcentre Plus,,13-15 Charlotte Dundas Court,Grangemouth,,Stirlingshire,United Kingdom,FK3 9EA
+10801,JCP,Saltcoats Jobcentre Plus,,13 Dockhead Street,Saltcoats,,Ayrshire,United Kingdom,KA21 5EZ
+10808,JCP,Irvine Jobcentre Plus,,121 High Street,Irvine,,Ayrshire,United Kingdom,KA12 8AA
+10809,JCP,Kilbirnie Jobcentre Plus,,Walker Street,Kilbirnie,,Ayrshire,United Kingdom,KA25 6HL
+10812,JCP,Kilmarnock Jobcentre Plus,,17 Grange Street,Kilmarnock,,Ayrshire,United Kingdom,KA1 2DF
+10820,JCP,Alexandria Jobcentre Plus,,160 Bank Street,Alexandria,,Dunbartonshire,United Kingdom,G83 0UP
+10822,JCP,Clydebank Jobcentre Plus,Radnor House,245 Kilbowie Road,Clydebank,,Dunbartonshire,United Kingdom,G81 2JL
+10823,JCP,Dumbarton Jobcentre Plus,,15 Meadowbank St,Dumbarton,,Dunbartonshire,United Kingdom,G82 1SJ
+10824,JCP,Helensburgh Jobcentre Plus,,5-7 Charlotte Street,Helensburgh,,Argyll,United Kingdom,G84 7PH
+108261,JCP,Leighton Buzzard Jobcentre Plus,Bossard House,West Street,Leighton Buzzard,,Bedfordshire,United Kingdom,LU7 1DA
+108296,JCP,Bath Jobcentre Plus,Somerset Hall,Somerset Street,,Bath,Bath & NE Somerset,United Kingdom,BA1 1TS
+108361,JCP,Hatfield Jobcentre Plus,Blackhorse House,Salisbury Square,Hatfield,,Hertfordshire,United Kingdom,AL9 5AF
+108661,JCP,Pontefract Jobcentre Plus,Challand House,Liquorice Way,Pontefract,,West Yorkshire,United Kingdom,WF8 1DR
+10872,JCP,Livingston Jobcentre Plus,Unit 16B Regional Centre,Almondvale South,Livingston,,West Lothian,United Kingdom,EH54 6NQ
+10880,JCP,Barrhead Jobcentre Plus,,20 Paisley Road,Barrhead,,Renfrewshire,United Kingdom,G78 1NF
+10882,JCP,Johnstone Jobcentre Plus,,11 Floors Street,Johnstone,,Renfrewshire,United Kingdom,PA5 8QT
+10883,JCP,Paisley Jobcentre Plus,,49a High Street,Paisley,,Renfrewshire,United Kingdom,PA1 2AN
+10884,JCP,Port Glasgow Jobcentre Plus,,6 Scarlow Street,Port Glasgow,,Inverclyde,United Kingdom,PA14 5EY
+10885,JCP,Renfrew Jobcentre Plus,,5 High Street,Renfrew,,Renfrewshire,United Kingdom,PA4 8QL
+10887,JCP,Wester Hailes Jobcentre Plus,,Westside Plaza,,Edinburgh,Lothian,United Kingdom,EH14 2SP
+10892,JCP,Broxburn Jobcentre Plus,,97 East Main Street,Broxburn,,West Lothian,United Kingdom,EH52 5EE
+108925,JCP,Wood Green Jobcentre Plus,Granta House,1 Western Road,Wood Green,London,,United Kingdom,N22 6UH
+109607,JCP,Bristol Central Jobcentre Plus,Eagle House,St Stephen's Street,,Bristol,City of Bristol,United Kingdom,BS1 1EN
+109625,JCP,Leytonstone Jobcentre Plus,Robart House,1-3 Lemna Road,Leytonstone,London,,United Kingdom,E11 1JJ
+10991,JCP,Oban Jobcentre Plus,Mathieson House,1 Miller Road,Oban,,Argyll,United Kingdom,PA34 4AF
+110089,JCP,Woolwich Jobcentre Plus,Nelson House,50 Wellington Street,Woolwich,London,,United Kingdom,SE18 6PY
+1103,JCP,Loughborough Jobcentre,Charnwood Borough Council,Southfields Road,Loughborough,,Leicestershire,United Kingdom,LE11 2TX
+1206,JCP,Banbury Jobcentre Plus,Crown Buildings,Southam Road,Banbury,,Oxfordshire,United Kingdom,OX16 2EX
+1210,JCP,Rusholme Jobcentre Plus,,96 Wilmslow Rd,Rusholme,Manchester,Greater Manchester,United Kingdom,M14 5BJ
+1306,JCP,Basingstoke Jobcentre Plus,Crown Buildings,Winchester Road,Basingstoke,,Hampshire,United Kingdom,RG21 8ES
+1308,JCP,Pontypridd Jobcentre Plus,Oldway House,Broadway,Pontypridd,,Rhondda Cynon Taff,United Kingdom,CF37 4SP
+1310,JCP,Toxteth Jobcentre Plus,High Park House,7 High Park Street,Liverpool,,Merseyside,United Kingdom,L8 8DY
+140222,JCP,Sheffield Cavendish Court Jobcentre Plus,Cavendish Court,9 Bank Street,Sheffield,,South Yorkshire,United Kingdom,S1 2DR
+1409,JCP,Leamington Spa Jobcentre Plus,Brandon House,Holly Walk,Leamington Spa,,Warwickshire,United Kingdom,CV32 4JE
+1410,JCP,West Derby Jobcentre Plus,Springfield House,416 Eaton Road,Liverpool,,Merseyside,United Kingdom,L12 3HT
+1411,JCP,Leith Jobcentre Plus,,199 Commercial Street,,Edinburgh,Lothian,United Kingdom,EH6 6QP
+142100,JCP,Barnsley Cooper House Jobcentre Plus,Cooper House,59 Peel Street,Barnsley,,South Yorkshire,United Kingdom,S70 2RL
+142101,JCP,Wombwell Jobcentre Plus,,19 Kings Rd,Wombwell,Barnsley,South Yorkshire,United Kingdom,S73 0JE
+142103,JCP,Mexborough Jobcentre Plus,Crown Buildings,Adwick Rd,Mexborough,,South Yorkshire,United Kingdom,S64 0BD
+142104,JCP,Goldthorpe Jobcentre Plus,,High Street,Goldthorpe,Rotherham,South Yorkshire,United Kingdom,S63 9HD
+142148,JCP,Maltby Jobcentre Plus,,1 Grange Lane,Maltby,Rotherham,South Yorkshire,United Kingdom,S66 7DA
+142149,JCP,Rotherham Chantry House Jobcentre Plus,Chantry House,Douglas Street,Rotherham,,South Yorkshire,United Kingdom,S60 2DL
+142151,JCP,Sheffield Hillsborough Jobcentre Plus,Cavalry and Lancer Court,Hillsborough Barracks 639-641 Penistone Rd,Sheffield,,South Yorkshire,United Kingdom,S6 2GG
+142152,JCP,Sheffield Bailey Court Jobcentre Plus,Bailey Court,112 West Street,Sheffield,,South Yorkshire,United Kingdom,S1 3SY
+142165,JCP,Doncaster Crossgate House Jobcentre Plus,Crossgate House,Wood Street,Doncaster,,South Yorkshire,United Kingdom,DN1 3LL
+142975,JCP,Sheffield Eastern Avenue Jobcentre Plus,,19 Eastern Avenue,Sheffield,,South Yorkshire,United Kingdom,S2 2FZ
+1503,JCP,London Bridge Jobcentre Plus,Coburg House,63-67 Newington Causeway,,London,,United Kingdom,SE1 6LS
+1507,JCP,Salisbury Jobcentre Plus,Summerlock House,Summerlock Approach,Salisbury,,Wiltshire,United Kingdom,SP2 7RW
+1509,JCP,Longton Jobcentre Plus,,83-87 The Strand,Longton,Stoke on Trent,Staffordshire,United Kingdom,ST3 2PF
+1509 MAR,JCP,St Marylebone Jobcentre Plus,,46 Lisson Grove,,London,,United Kingdom,NW1 6TZ
+1511,JCP,Hackney Jobcentre Plus,,271 Mare St,,London,Hackney,United Kingdom,E8 1EE
+1512,JCP,Finsbury Park Jobcentre Plus,,52-53 Medina Road,,London,,United Kingdom,N7 7JX
+1514,JCP,Barnsbury Jobcentre Plus,,1 Barnsbury Road,,London,,United Kingdom,N1 0EX
+1515,JCP,Bognor Regis Jobcentre Plus,Gloucester House,High Street,Bognor Regis,,West Sussex,United Kingdom,PO21 1HH
+1517,JCP,Poplar Jobcentre Plus,,13 Dod Street,,London,,United Kingdom,E14 7EP
+1518,JCP,Hammersmith Jobcentre Plus,Glen House,22 Glenthrone Rd,Hammersmith,London,,United Kingdom,W6 0PP
+1523,JCP,Westminster Jobcentre Plus,,Chadwick Street,,London,,United Kingdom,SW1P 2ES
+1526,JCP,Brixton Jobcentre Plus,,422 Brixton Road,Brixton,London,,United Kingdom,SW9 7AE
+1529,JCP,Harlesden Jobcentre Plus,Harlesden House,161 High St,Harlesden,London,,United Kingdom,NW10 4TL
+1535,JCP,Hayes Jobcentre Plus,Adam House,818-820 Uxbridge Rd,Hayes,,Middlesex,United Kingdom,UB4 0RS
+1538,JCP,Southall Jobcentre Plus,,68 The Broadway,Southall,,Middlesex,United Kingdom,UB1 1QD
+1539,JCP,Staines Jobcentre Plus,,62 London Road,Staines,,,United Kingdom,TW18 4HB
+1541,JCP,Uxbridge Jobcentre Plus,The Pavilions Shopping Centre,Units 22-26 Market Square,Uxbridge,,Middlesex,United Kingdom,UB8 1LH
+1543,JCP,Willesden Jobcentre Plus,Chancel House,Neasden Lane,Neasden,London,,United Kingdom,NW10 2 X
+1555,JCP,Peckham Jobcentre Plus,,24-26 Peckham High Street,Peckham,London,,United Kingdom,SE15 5DS
+1557,JCP,Thornton Heath Jobcentre Plus,,72 High Street,Thornton Heath,,Surrey,United Kingdom,CR7 8YY
+1560,JCP,Kentish Town Jobcentre Plus,,178 Kentish Town Road,,London,,United Kingdom,NW5 2AG
+1561,JCP,Plaistow Jobcentre Plus,,3-9 Balaam St,,London,,United Kingdom,E13 8EB
+1566,JCP,Forest Hill Jobcente Plus,Heron House,32-34 Dartmouth Road,Forest Hill,London,,United Kingdom,SE23 3XU
+1567,JCP,Purley Jobcentre Plus,,24 Whytecliffe Road,Purley,,Surrey,United Kingdom,CR8 2YU
+1570,JCP,Colchester Jobcentre Plus,40 Crown Buildings,Chapel Street South,Colchester,,Essex,United Kingdom,CO2 7AZ
+1571,JCP,Ealing Jobcentre Plus,,86-92 Uxbridge Rd,West Ealing,London,,United Kingdom,W13 8RA
+1573,JCP,Wembley Jobcentre Plus,,6 St Johns Rd,Wembley,,Middlesex,United Kingdom,HA9 7JD
+1580,JCP,Braintree Jobcentre Plus,The Old Post Office,Fairfield Rd,Braintree,,Essex,United Kingdom,CM7 3HA
+1581,JCP,Brentwood Jobcentre Plus,Fairfield House,Fairfield Rd,Brentwood,,Essex,United Kingdom,CM14 4SB
+1584,JCP,Chelmsford Jobcentre Plus,The Gemini Centre,88 New London Rd,Chelmsford,,Essex,United Kingdom,CM2 0YN
+1590,JCP,Belle Vale Jobcentre Plus,Crown Buildings,302 Childwall Valley Road,Liverpool,,Merseyside,United Kingdom,L25 2UF
+1593,JCP,Basildon Jobcentre Plus,Regent House,The Gore,Basildon,,Essex,United Kingdom,SS14 2EE
+1594,JCP,Rayleigh Jobcentre Plus,,10 London Hill,Rayleigh,,Essex,United Kingdom,SS6 7HR
+1596,JCP,Southend Jobcentre Plus,Dencora Court,Tylers Ave,Southend on Sea,,Essex,United Kingdom,SS1 2AP
+1601,JCP,Canvey Island Jobcentre Plus,,140 Furtherwick Rd,Canvey Island,,Essex,United Kingdom,SS8 7AL
+1603,JCP,Kilburn Jobcentre Plus,,3 Cambridge Avenue,Kilburn,London,,United Kingdom,NW6 5AH
+1604,JCP,Farnborough Jobcentre Plus,Princeton House,1-5 Victoria Road,Farnborough,,Hampshire,United Kingdom,GU14 7NP
+1606,JCP,Fareham Jobcentre Plus,Crown Buildings,Civic Way,Fareham,,Hampshire,United Kingdom,PO16 7HR
+1607,JCP,Stroud Jobcentre Plus,Unicorn House,Cornhill Shopping Centre,Stroud,,Gloucestershire,United Kingdom,GL5 2JT
+1611,JCP,Ayr Jobcentre Plus,Wallacetoun House,John Street,Ayr,,Ayrshire,United Kingdom,KA8 0BX
+1612,JCP,Gosport Jobcentre Plus,,Walpole Road,Gosport,,Hampshire,United Kingdom,PO12 1RR
+1615,JCP,East Ham Jobcentre Plus,,473 Barking Rd,,London,,United Kingdom,E6 2LL
+1621,JCP,Stratford Jobcentre Plus,,1 Tramway Avenue,,London,Stratford,United Kingdom,E15 4PN
+1628,JCP,Clapham Common Jobcentre Plus,Maritime House,Old Town,Clapham Common,London,,United Kingdom,SW4 0JW
+1629,JCP,Stockwell Jobcentre Plus,,155-157 Clapham Road,Stockwell,London,,United Kingdom,SW9 0QQ
+1631,JCP,Mitcham Jobcentre Plus,Boundary House,317-321 London Road,Mitcham,,Surrey,United Kingdom,CR4 4YF
+1669,JCP,Hythe Jobcentre Plus,,15-17 Pylewell Road,Hythe,,Hampshire,United Kingdom,SO45 6ZL
+1682,JCP,Shepherd's Bush Jobcentre Plus,,176-180 Uxbridge Rd,Shepherd's Bush,London,,United Kingdom,W12 7JP
+1683,JCP,Alton Jobcentre Plus,,1-3 Butts Road,Alton,,Hampshire,United Kingdom,GU34 1LH
+1683B,JCP,Bordon Jobcentre Plus,,2-4 Chalet Hill,Bordon,,Hampshire,United Kingdom,GU35 0TQ
+1687,JCP,Oxford Jobcentre Plus,,7 Worcester Street,Oxford,,Oxfordshire,United Kingdom,OX1 2BX
+1691,JCP,Ryde Jobcentre Plus,,150 High Street,Ryde,,Isle of Wight,United Kingdom,PO33 2RE
+1698,JCP,Winchester Jobcentre Plus,City Gate,1-8 City Road,Winchester,,Hampshire,United Kingdom,SO23 8GA
+1699,JCP,Witney Jobcentre Plus,,2 Rivers Trading Estate,Witney,,Oxfordshire,United Kingdom,OX28 4JA
+1704,JCP,Clacton Jobcentre Plus,,55 Station Road,Clacton on Sea,,Essex,United Kingdom,CO15 1RS
+1707,JCP,Eastleigh Jobcentre Plus,Capital House,100 Southampton Road,Eastleigh,,Hampshire,United Kingdom,SO50 5PB
+1708,JCP,Loughton Jobcentre Plus,,284 High Rd,Loughton,,Essex,United Kingdom,IG10 1RH
+1710,JCP,Camberley Jobcentre Plus,Surrey Heath House,Knoll Road,Camberley,,Surrey,United Kingdom,GU15 3HH
+1718,JCP,Redhill Jobcentre Plus,,15 London Road,Redhill,,Surrey,United Kingdom,RH1 1BQ
+1720,JCP,Woking Jobcentre Plus,,15-29 Goldsworth Road,Woking,,Surrey,United Kingdom,GU21 6LZ
+1729,JCP,Croydon Jobcentre Plus,,17-21 Dingwall Road,Croydon,,Surrey,United Kingdom,CR9 2TN
+1730,JCP,Epsom Jobcentre Plus,,50 East Street,Epsom,,Surrey,United Kingdom,KT17 1HQ
+1731,JCP,Kingston Jobcentre Plus,,3 Brook Street,Kingston Upon Thames,,Surrey,United Kingdom,KT1 2EY
+1732,JCP,Sutton Jobcentre Plus,Helena House,348 High Street,Sutton,,Surrey,United Kingdom,SM1 1PX
+1733,JCP,Twickenham Jobcentre Plus,Chatsworth House,59-63 London Road,Twickenham,,Middlesex,United Kingdom,TW1 3SZ
+1745,JCP,Witham Jobcentre Plus,,2-3 Freebourns Crt,Witham,,Essex,United Kingdom,CM8 2BL
+1758,JCP,Didcot Jobcentre Plus,,130a The Broadway,Didcot,,Oxfordshire,United Kingdom,OX11 8DB
+1760,JCP,Maidenhead Jobcentre Plus,,3 Park Street,Maidenhead,,Berkshire,United Kingdom,SL6 1SP
+1761,JCP,Newbury Jobcentre Plus,Cromwell House,22 Oxford Street,Newbury,,Berkshire,United Kingdom,RG14 1JB
+1773,JCP,Abingdon Jobcentre Plus,Torus House,38-44 Stert Street,Abingdon,,Oxfordshire,United Kingdom,OX14 3QS
+1775,JCP,Aylesbury Jobcentre Plus,Sunley  House,Oxford Road,Aylesbury,,Buckinghamshire,United Kingdom,HP19 8EZ
+1778,JCP,Chesham Jobcentre Plus,,31 Red Lion Street,Chesham,,Buckinghamshire,United Kingdom,HP5 1LD
+1783,JCP,Streatham Jobcentre Plus,Crown House,Station Approach,Streatham,London,,United Kingdom,SW16 6HW
+1786,JCP,Milton Keynes Jobcentre Plus,Southgate House,449-499 Midsummer Boulevard,Milton Keynes,,Buckinghamshire,United Kingdom,MK9 3BN
+1791,JCP,Bexhill Jobcentre Plus,,Amherst Road,Bexhill-on-Sea,,East Sussex,United Kingdom,TN40 1QH
+1796,JCP,Crawley Jobcentre Plus,Gresham House,20-22 Station Road,Crawley,,West Sussex,United Kingdom,RH10 1EZ
+1802,JCP,Haywards Heath Jobcentre Plus,Kingsley House,31 Boltro Road,Haywards Heath,,West Sussex,United Kingdom,RH16 1BP
+1803,JCP,Horsham Jobcentre Plus,Marlborough House,50 East Street,Horsham,,West Sussex,United Kingdom,RH12 1HN
+1805,JCP,Littlehampton Jobcentre Plus,Crown Building,33 Church Street,Littlehampton,,West Sussex,United Kingdom,BN17 5ER
+1807,JCP,Newhaven Jobcentre Plus,,55 High Street,Newhaven,,East Sussex,United Kingdom,BN9 9PA
+1821,JCP,Highgate Jobcentre Plus,,1a Elthorne Road,,London,,United Kingdom,N19 4AL
+1822,JCP,Canterbury Jobcentre Plus,Northgate House,115-120 Northgate,,Canterbury,Kent,United Kingdom,CT1 1EZ
+1825,JCP,Dartford Jobcentre Plus,,61 Lowfield Street,,Dartford,Kent,United Kingdom,DA1 1JY
+1827,JCP,Dover Jobcentre Plus,,72-75 Maison Dieu,,Dover,Kent,United Kingdom,CT16 1NN
+1828,JCP,Herne Bay Jobcentre Plus,,22-26 Bank Street,,Herne Bay,Kent,United Kingdom,CT6 5EA
+1829,JCP,Folkestone Jobcentre Plus,Palting House,Trinity Road,,Folkestone,Kent,United Kingdom,CT20 2RH
+1835,JCP,Margate Jobcentre Plus,Mill House,Mill Lane,,Margate,Kent,United Kingdom,CT9 1LB
+1836,JCP,Ramsgate Jobcentre Plus,Queens House,Queen Street,,Ramsgate,Kent,United Kingdom,CT11 9EW
+1839,JCP,Sheerness Jobcentre Plus,,3 Millennium Way,,Sheerness,Kent,United Kingdom,ME12 1PD
+1842,JCP,Tonbridge Jobcentre Plus,Crown Buildings,Bradford Street,,Tonbridge,Kent,United Kingdom,TN9 1DU
+1843,JCP,Tunbridge Wells Jobcentre Plus,,88 Grosvenor Road,,Tunbridge Wells,Kent,United Kingdom,TN1 2AX
+1846,JCP,Whitstable Jobcentre Plus,,13 High Street,,Whitstable,Kent,United Kingdom,CT5 1AP
+1850,JCP,Cosham Jobcentre Plus,Wynnstay House,121 High Street,Cosham,,Hampshire,United Kingdom,PO6 3DR
+1865,JCP,North Kensington Jobcentre Plus,Unit 308-312 Quayside House,Kensal Road,,London,,United Kingdom,W10 5BL
+1869,JCP,Dalston Jobcentre Plus,Playle Hse,Tottenham Rd,,London,Dalston,United Kingdom,NI 4BY
+1885,JCP,Bexleyheath Jobcentre Plus,Westminster House,186-194 Broadway,Bexleyheath,,Kent,United Kingdom,DA6 7BB
+1886,JCP,Bromley Jobcentre Plus,Unicorn House,28 Elmfield Road,Bromley,,Kent,United Kingdom,BR1 1NX
+1890,JCP,Eltham Jobcentre Plus,,1 Passey Place,High Street - Eltham,London,,United Kingdom,SE9 5DA
+1901,JCP,Berwick Jobcentre Plus,Norham House,15 Walkergate,Berwick Upon Tweed,,Northumberland,United Kingdom,TD15 1DS
+1911,JCP,Dunfermline Jobcentre,Merchiston House,Foundry Street,Dunfermline,,Fife,United Kingdom,KY12 9DF
+1995,JCP,Hoxton Jobcentre Plus,,30 Drysdale St,,London,,United Kingdom,NI 6LT
+1998,JCP,Dolgellau Jobcentre Plus,Government Building,Aran Road,Dolgellau,,Gwynedd,United Kingdom,LL40 1BP
+2011,JCP,Falkirk Jobcentre Plus,Heron House,10b Wellside Place,Falkirk,,Stirlingshire,United Kingdom,FK1 5SE
+2015,JCP,Brighton Jobcentre Plus,Windsor House,30/35 Edward Street,,Brighton,East Sussex,United Kingdom,BN2 0LN
+201532,JCP,Enfield Jobcentre Plus,,34 Windmill Hill,Enfield,,Middlesex,United Kingdom,EN2 7AL
+201533,JCP,Finchley Jobcentre Plus,,40 Ballards Lane,Finchley,London,,United Kingdom,N3 2BL
+201549,JCP,Edmonton Jobcentre Plus,,112-116 Fore Street,Edmonton,London,,United Kingdom,N18 2XA
+201558,JCP,Palmers Green Jobcentre Plus,,28 Aldermans Hill,Palmers Green,London,,United Kingdom,N13 4PN
+201564,JCP,Hornchurch Jobcentre Plus,Pioneer House,North Street,Hornchurch,,Essex,United Kingdom,RM11 1QZ
+201590,JCP,Harwich Jobcentre Plus,,164-168 High St,Harwich,,Essex,United Kingdom,CO12 3AT
+201598,JCP,Borehamwood Jobcentre Plus,Government Buildings,Elstree Way,Borehamwood,,Hertfordshire,United Kingdom,WD6 1JR
+201602,JCP,Redbridge Jobcentre Plus,,564-570 High Road,Seven Kings,Ilford,Essex,United Kingdom,IG3 8EJ
+201606,JCP,Grays Jobcentre Plus,,2 Derby Rd,Grays,,Essex,United Kingdom,RM17 6QQ
+201614,JCP,Dagenham Jobcentre Plus,,Chequers Lane,Dagenham,,Essex,United Kingdom,RM9 6PS
+201639,JCP,Walthamstow Jobcentre Plus,,7-13 Westbury Road,Walthamstow,London,,United Kingdom,E17 6RH
+201649,JCP,Barnet Jobcentre Plus,Raydean House,15 Western Parade,Great North Lane,Barnet,Hertfordshire,United Kingdom,EN5 1AH
+201666,JCP,Hemel Hempstead Jobcentre Plus,Government Buildings,1 Waterhouse St,Hemel Hempstead,,Hertfordshire,United Kingdom,HP1 1EU
+201676,JCP,Letchworth Jobcentre Plus,The Peoples House,2 Station Rd,Letchworth,,Hertfordshire,United Kingdom,SG6 3AZ
+201683,JCP,Petersfield Jobcentre Plus,,14a Chapel Street,Petersfield,,Hampshire,United Kingdom,GU32 3DP
+201694,JCP,Stevenage Jobcentre Plus,,38-44 The Forum,Stevenage,,Hertfordshire,United Kingdom,SG1 1EZ
+201697,JCP,Waltham Cross Jobcentre Plus,,235 High St,Waltham Cross,,Hertfordshire,United Kingdom,EN8 7BA
+201755,JCP,Hertford Jobcentre Plus,,12-14 Parliament Square,Hertford,,Hertfordshire,United Kingdom,SG14 1EF
+201873,JCP,Biggleswade Jobcentre Plus,,73 High St,Biggleswade,,Bedfordshire,United Kingdom,SG18 0JH
+202562,JCP,Glasgow City Jobcentre Plus,,354 Argyle Street,,Glasgow,,United Kingdom,G2 8LX
+203505,JCP,Shirehampton Jobcentre Plus,,31-32 High Street,,Bristol,City of Bristol,United Kingdom,BS11 0DX
+203686,JCP,Clevedon Jobcentre Plus,,28 Old Street,Clevedon,,North Somerset,United Kingdom,BS21 6DF
+203705,JCP,Weston-super-Mare Jobcentre Plus,Regent House,High Street,Weston-super-Mare,,North Somerset,United Kingdom,BS23 1JH
+203739,JCP,Bedminster Jobcentre Plus,,17-19 Kent Street,,Bristol,City of Bristol,United Kingdom,BS3 3NW
+203751,JCP,Kingswood Jobcentre Plus,,382-386 Two Mile Hill Road,,Bristol,South Gloucestershire,United Kingdom,BS15 1AA
+203755,JCP,Easton Jobcentre Plus,,442-450 Stapleton Road,,Bristol,City of Bristol,United Kingdom,BS5 6NR
+203756,JCP,Bishopsworth Jobcentre Plus,,59 Whitchurch Lane,,Bristol,City of Bristol,United Kingdom,BS13 7TE
+203757,JCP,Yate Jobcentre Plus,,39 South Parade,Yate,Bristol,South Gloucestershire,United Kingdom,BS37 4BB
+204503,JCP,Kings Heath Jobcentre Plus,,3 Scotts Corner,Kings Heath,Birmingham,West Midlands,United Kingdom,B14 7EG
+204564,JCP,Perry Barr Jobcentre Plus,Meridian House,115 Aston Lane,Perry Barr,Birmingham,West Midlands,United Kingdom,B20 3BW
+204600,JCP,Yardley Jobcentre Plus,,1630 Coventry Road,Yardley,Birmingham,West Midlands,United Kingdom,B26 1AW
+204602,JCP,Birmingham South West Jobcentre Plus,,1300 Bristol Road South,Northfield,Birmingham,West Midlands,United Kingdom,B31 2TQ
+204604,JCP,Broad Street Jobcentre Plus,Centennial House,100 Broad Street,,Birmingham,West Midlands,United Kingdom,B15 1AU
+204605,JCP,Chelmsley Wood Jobcentre Plus,,1 Chelmsley Wood Circle,Chelmsley Wood,Birmingham,West Midlands,United Kingdom,B37 5TH
+204607,JCP,Handsworth Jobcentre Plus,Temple Row House,25-45 Soho Road,Handsworth,Birmingham,West Midlands,United Kingdom,B21 9SL
+204614,JCP,Solihull Jobcentre Plus,Park House,74 New Road,Solihull,Birmingham,West Midlands,United Kingdom,B91 3DR
+204617,JCP,Sutton Coldfield Jobcentre Plus,King Edwards Court,2 Railway Road,Sutton Coldfield,Birmingham,West Midlands,United Kingdom,B73 6AY
+204618,JCP,Washwood Heath Jobcentre Plus,,295 Washwood Heath Road,Washwood Heath,Birmingham,West Midlands,United Kingdom,B8 2XX
+204633,JCP,Selly Oak Jobcentre Plus,,Harborne Lane,Selly Oak,Birmingham,West Midlands,United Kingdom,B29 6SP
+204642,JCP,Sparkhill Jobcentre Plus,Heynesfield House,10 Stoney Lane,Sparkhill,Birmingham,West Midlands,United Kingdom,B12 8AF
+204645,JCP,Erdington Jobcentre Plus,,37 Sutton New Road,Erdington,Birmingham,West Midlands,United Kingdom,B23 6TD
+205634,JCP,Gainsborough Jobcentre Plus,West Lindsey District Council,Guildhall,Marshall's Yard,Gainsborough,,United Kingdom,DN21 2NA
+205640,JCP,Louth Jobcentre Plus,,17 Eastgate,Louth,,Lincolnshire,United Kingdom,LN11 9NB
+205695,JCP,Sleaford Jobcentre,North Kesteven District Council Offices,Kesteven Street,Sleaford,,Lincolnshire,United Kingdom,NG34 7DT
+205696,JCP,Spalding Jobcentre Plus,Broadgate House,Westlode Street,Spalding,,Lincolnshire,United Kingdom,PE11 2BQ
+205697,JCP,Stamford Jobcentre Plus,,13 St John's Street,Stamford,,Lincolnshire,United Kingdom,PE9 2DB
+206,JCP,Southampton Jobcentre Plus,St Cross  House,18 Bernard Street,,Southampton,Hampshire,United Kingdom,SO14 2HP
+207511,JCP,Hyde Jobcentre Plus,Beech House,Clarendon Street,Hyde,,Cheshire,United Kingdom,SK14 2LP
+207524,JCP,Stalybridge Jobcentre Plus,,15 Waterloo Road,Stalybridge,,Cheshire,United Kingdom,SK15 2AX
+207543,JCP,Stockport Jobcentre Plus,Heron House,Wellington Street,Stockport,,Cheshire,United Kingdom,SK1 3BE
+207616,JCP,Rochdale Jobcentre Plus,,2 Fleece Street,Rochdale,,Lancashire,United Kingdom,OL16 1LT
+207621,JCP,Ashton-In-Makerfield Jobcentre Plus,,17-19 Gerrard Street,Ashton-In-Makerfield,Wigan,Lancashire,United Kingdom,WN4 9AB
+207622,JCP,Ashton-Under-Lyne Jobcentre Plus,,101 Old Street,Ashton-Under-Lyne,,Lancashire,United Kingdom,OL6 6BJ
+207624,JCP,Atherton Jobcentre Plus,,129 Market Street,Atherton,Manchester,,United Kingdom,M46 0DF
+207631,JCP,Bootle Park Jobcentre Plus,Bootle Park House,218 Stanley Road,Bootle,Liverpool,Merseyside,United Kingdom,L20 3PN
+207633,JCP,Bury Jobcentre Plus,,Silver Street,Bury,,Lancashire,United Kingdom,BL9 0DP
+207641,JCP,Bolton Jobcentre Plus,,52 Blackhorse Street,Bolton,,Lancashire,United Kingdom,BL1 1SX
+207649,JCP,Farnworth Jobcentre Plus,,99 King Street,Farnworth,Bolton,,United Kingdom,BL4 7AX
+207656,JCP,Heywood Jobcentre Plus,,Taylor Street,Heywood,,Lancashire,United Kingdom,OL10 1ED
+207662,JCP,Leigh Jobcentre Plus,Roydale House,2-10 Windermere Road,Leigh,,Lancashire,United Kingdom,WN7 1 UT
+207672,JCP,Kirkby Jobcentre Plus,St Chad's House,St Chad's Drive,Kirkby,Liverpool,Merseyside,United Kingdom,L32 8RW
+207680,JCP,Middleton Jobcentre Plus,Othen House,7 Oldham Road,Middleton,Manchester,,United Kingdom,M24 1BE
+207685,JCP,Oldham Jobcentre Plus,Tweedale House,75 Union Street,Oldham,,Lancashire,United Kingdom,OL1 1LH
+207694,JCP,Prestwich Jobcentre Plus,,1 Rectory Lane,Prestwich,Manchester,,United Kingdom,M25 1BP
+207717,JCP,Wigan Jobcentre Plus,Brocol House,71 King Street,Wigan,,Lancashire,United Kingdom,WN1 1EA
+208504,JCP,Carlisle Jobcentre Plus,Broadacre House,16-20 Lowther Street,,Carlisle,Cumbria,United Kingdom,CA3 8DF
+208511,JCP,Penrith Jobcentre Plus,,19-24 Friargate,Penrith,,Cumbria,United Kingdom,CA11 7QH
+208513,JCP,Whitehaven Jobcentre Plus,The Copeland Centre,Catherine St,Whitehaven,,Cumbria,United Kingdom,CA28 7SJ
+208602,JCP,Leeds Park Place Jobcentre Plus,,21-22 Park Place,Leeds,,West Yorkshire,United Kingdom,LS1 2SL
+208627,JCP,Barrow in Furness Jobcentre Plus,Craven House,Michaelson Road,Barrow in Furness,,Cumbria,United Kingdom,LA14 1AE
+208822,JCP,Bishop Auckland Jobcentre Plus,,24 Market Place,Bishop Auckland,,Durham,United Kingdom,DN14 7NX
+208825,JCP,Newton Aycliffe Jobcentre Plus,The Avenue,Greenwall Road,Newton Aycliffe,,Durham,United Kingdom,DL5 4DH
+208827,JCP,Consett Jobcentre Plus,,5A Medomsley Road,Consett,,Durham,United Kingdom,DH8 5HE
+208828,JCP,Crook Jobcentre Plus,,New Road,Crook,,Durham,United Kingdom,DL15 8LP
+208831,JCP,Durham Jobcentre Plus,Elvet House,Hallgarth Street,,Durham,,United Kingdom,DH1 3BP
+208841,JCP,Jarrow Jobcentre Plus,,56-64 Ellison Street,Jarrow,,Tyne & Wear,United Kingdom,NE32 3BX
+208845,JCP,Seaham Jobcentre Plus,Church View House,St Johns Square,Seaham,,Durham,United Kingdom,SR7 7JE
+208848,JCP,South Shields Jobcentre Plus,Chapter Row,Market Place,South Shields,,Tyne & Wear,United Kingdom,NE33 4BZ
+208849,JCP,Southwick Jobcentre Plus,,Stoney Lane,Southwick,Sunderland,Tyne & Wear,United Kingdom,SR5 2JB
+208850,JCP,Spennymoor Jobcentre Plus,,Barnfield Road,Spennymoor,,Durham,United Kingdom,DL16 6ND
+208852,JCP,Stanley Jobcentre Plus,,2 Front Street,Stanley,,Durham,United Kingdom,DH9 0LT
+208854,JCP,Sunderland Jobcentre Plus,,John Street,,Sunderland,Tyne & Wear,United Kingdom,SR1 1QT
+208855,JCP,Washington Jobcentre Plus,Pennine House,,Washington,,Tyne & Wear,United Kingdom,NE37 1LY
+209,JCP,Coventry Cofa Court Jobcentre Plus,Cofa Court,Cheylesmore,,Coventry,West Midlands,United Kingdom,CV1 2HJ
+209504,JCP,Cardiff West Jobcentre Plus,Alexandra House,377 Cowbridge Road East Canton,Cardiff,,,United Kingdom,CF5 1 WU
+209823,JCP,Barry Jobcentre Plus,,9 Holton Road,Barry,,Vale of Glamorgan,United Kingdom,CF63 4HA
+209824,JCP,Penarth Jobcentre Plus,Charnwood House,Plymouth Road,Penarth,,,United Kingdom,CF64 3DA
+209836,JCP,Cardiff Caradog House Jobcentre Plus,Caradog House,1-6 St Andrews Place,Cardiff,,,United Kingdom,CF10 3BE
+210549,JCP,Govan Jobcentre Plus,,779-787 Govan Road,,Glasgow,,United Kingdom,G51 3JY
+210550,JCP,Drumchapel Jobcentre Plus,,67 Kinfauns Drive,,Glasgow,,United Kingdom,G15 7TG
+210552,JCP,Parkhead Jobcentre Plus,,1181 Duke Street,,Glasgow,,United Kingdom,G31 5NW
+210554,JCP,Maryhill Jobcentre Plus,,1460-1470 Maryhill Road,,Glasgow,,United Kingdom,G20 9DH
+210556,JCP,Easterhouse Jobcentre Plus,,Shandwick Street,,Glasgow,,United Kingdom,G34 9DR
+210584,JCP,Langside Jobcentre Plus,,152-158 Battlefield Road,,Glasgow,,United Kingdom,G42 9JT
+2106,JCP,Newport Jobcentre Plus,Broadlands House,Staplers Road,Newport,,Isle of Wight,United Kingdom,PO30 2HX
+210821,JCP,Cumbernauld Jobcentre Plus,,3 South Muirhead Road,Cumbernauld,,,United Kingdom,G67 1AX
+210825,JCP,Kirkintilloch Jobcentre Plus,,Queen Street,Kirkintilloch,,,United Kingdom,G66 1JN
+210840,JCP,Airdrie Jobcentre Plus,,44 Stirling Street,Airdrie,,,United Kingdom,ML6 0AL
+210842,JCP,Cambuslang Jobcentre Plus,Cambuslang Gate,"Lower Ground Floor, 27 Main Street",Cambuslang,,,United Kingdom,G72 7EX
+210845,JCP,East Kilbride Jobcentre Plus,55 The Plazza,Town Centre,East Kilbride,,,United Kingdom,G74 1LW
+210850,JCP,Hamilton Jobcentre Plus,Cameronian House,Almada Street,Hamilton,,,United Kingdom,ML3 6QZ
+210852,JCP,Lanark Jobcentre Plus,Atholl House,55 Bannatyne Street,Lanark,,,United Kingdom,ML11 7NP
+210858,JCP,Rutherglen Jobcentre Plus,,3 MacDonald Street,Rutherglen,,,United Kingdom,G73 2QW
+210859,JCP,Castlemilk Jobcentre Plus,,Unit One Castlemilk Arcade,,Glasgow,,United Kingdom,G45 9AA
+210900,JCP,Portsmouth Jobcentre Plus,Old Canal House,27 Arundel Street,Portsmouth,,,United Kingdom,PO1 1NB
+2110,JCP,Birkenhead Jobcentre Plus,Brunswick House,29 Price Street,Birkenhead,,Wirral,United Kingdom,CH41 6JN
+2202,JCP,Dewsbury Jobcentre Plus,Crown Buildings,Rishworth Road,Dewsbury,,West Yorkshire,United Kingdom,WF12 8EF
+2216,JCP,Weymouth Jobcentre Plus,Westwey House,Westwey Road,Weymouth,,Dorset,United Kingdom,DT4 8TG
+222222,JCP,Test,,,,,,United Kingdom,
+2295,JCP,Sittingbourne Jobcentre Plus,Roman House,9 Roman Square,,Sittingbourne,Kent,United Kingdom,ME10 4BP
+2303,JCP,Ilkeston Jobcentre Plus,,58 South Street,Ilkeston,,Derbyshire,United Kingdom,DE7 8TU
+2543,JCP,Cromer Jobcentre Plus,North Norfolk District Council,Holt Road,Cromer,,Norfolk,United Kingdom,NR27 9EN
+2544,JCP,Dereham Jobcentre Plus,,16-18 High Street,Dereham,,Norfolk,United Kingdom,NR19 1DX
+2545,JCP,Diss Jobcentre Plus,,Church Street,Diss,,Norfolk,United Kingdom,IP22 4AX
+2547,JCP,Fakenham Jobcentre Plus,Government Buildings,Norwich Road,Fakenham,,Norfolk,United Kingdom,NR21 8HJ
+2548,JCP,Great Yarmouth Jobcentre Plus,Copperfield House,The Conge,Great Yarmouth,,Norfolk,United Kingdom,NR30 1EJ
+2552,JCP,Kings Lynn Jobcentre Plus,Lovell House,St Nicholas Street,King's Lynn,,Norfolk,United Kingdom,PE30 1LR
+2554,JCP,North Walsham Jobcentre Plus,GPO Buildings,Kings Arms Street,North Walsham,,Norfolk,United Kingdom,NR28 9JX
+2555,JCP,Norwich Jobcentre Plus,Kiln House,Pottergate,,Norwich,Norfolk,United Kingdom,NR2 1BZ
+2558,JCP,Thetford Jobcentre Plus,Townsend House,Guildhall Street,Thetford,,Norfolk,United Kingdom,IP24 2DT
+2602,JCP,Keighley Worth House Jobcentre Plus,Worth House,Worth Way,Keighley,Bradford,West Yorkshire,United Kingdom,BD21 5AG
+2611,JCP,Stirling Jobcentre Plus,South Lodge,2 St Ninians Road,Stirling,,Stirlingshire,United Kingdom,FK8 2HF
+2625,JCP,Canning Town Jobcentre Plus,,197 Freemasons Rd,,London,,United Kingdom,E16 3PD
+2715,JCP,Canterbury Social Security Office,Nutwood House,Chaucer Road,,Canterbury,Kent,United Kingdom,CT1 1ZZ
+2742,JCP,Ely Jobcentre Plus,,52 Market Street,,Ely,Cambridgeshire,United Kingdom,CB7 4LU
+2743,JCP,Cambridge Jobcentre Plus,Henry Giles House,73-79 Chesterton Road,Cambridge,,Cambridgeshire,United Kingdom,CB4 3BQ
+2744,JCP,Wisbech Jobcentre Plus,Albion House,Albion Place,Wisbech,,Cambridgeshire,United Kingdom,PE13 1AN
+2752,JCP,Huntingdon Jobcentre Plus,,2-6 Hartford Road,Huntingdon,,Cambridgeshire,United Kingdom,PE29 3PB
+2756,JCP,Peterborough Jobcentre Plus,Clifton House,84 Broadway,Peterborough,,Cambridgeshire,United Kingdom,PE1 1QZ
+2760,JCP,Beccles Jobcentre Plus,,1-5 Hungate Court,Beccles,,Suffolk,United Kingdom,NR34 9TR
+2766,JCP,Felixstowe Jobcentre Plus,,29-31 Hamilton Road,Felixstowe,,Suffolk,United Kingdom,IP11 7AZ
+2770,JCP,Haverhill Jobcentre Plus,,65 High Street,Haverhill,,Suffolk,United Kingdom,CB9 8AH
+2773,JCP,Leiston Jobcentre Plus,Leiston Enterprise Centre,Eastlands Industrial Estate,Leiston,,Suffolk,United Kingdom,IP16 4US
+2775,JCP,Newmarket Jobcentre Plus,,Wellington Street,Newmarket,,Suffolk,United Kingdom,CB8 0WJ
+2776,JCP,Mildenhall Jobcentre Plus,Breckland House,8 Church Yard,Mildenhall,,Suffolk,United Kingdom,IP28 7EE
+2778,JCP,Stowmarket Jobcentre Plus,,49 Ipswich Street,Stowmarket,,Suffolk,United Kingdom,IP14 1AH
+2779,JCP,Sudbury Jobcentre Plus,,21 Borehamgate Precinct,Sudbury,,Suffolk,United Kingdom,CO10 2EG
+2781,JCP,Woodbridge Jobcentre Plus,,59 The Thoroughfare,Woodbridge,,Suffolk,United Kingdom,IP12 1AJ
+2809,JCP,Cannock Jobcentre Plus,Government Buildings,Beecroft Road,Cannock,,Staffordshire,United Kingdom,WS11 1JR
+29828,JCP,Cardiff Charles St Jobcentre Plus,,64 Charles Street,Cardiff,,,United Kingdom,CF10 2GS
+301,JCP,Darlington Jobcentre Plus,,90 Bondgate,Darlington,,Durham,United Kingdom,DL3 7JY
+3010,JCP,Chester Jobcentre Plus,Chantry House,City Road,,Chester,,United Kingdom,CH1 3AQ
+30601,JCP,Poole Jobcentre Plus,Old Town Market,Dear Hay Lane,Poole,,Dorset,United Kingdom,BH15 1NZ
+3106,JCP,Bracknell Jobcentre Plus,Fitzwilliam House,Skimped Hill Lane,Bracknell,,Berkshire,United Kingdom,RG12 1JX
+3115,JCP,Chatham Jobcentre Plus,Crown House,The Brook,,Chatham,Kent,United Kingdom,ME4 4LQ
+3210,JCP,Crewe Jobcentre Plus,Wellington House,38-44 Delamere Street,Crewe,,,United Kingdom,CW1 2JY
+3211,JCP,Bathgate Jobcentre Plus,,31-33 Whitburn Road,Bathgate,,West Lothian,United Kingdom,EH48 1HG
+3214,JCP,Immingham Jobcentre Plus,,4-6 Kennedy Way,Immingham,,North East Lincolnshire,United Kingdom,DN40 2AE
+3290,JCP,Chorlton Jobcentre Plus,Graeme House,Chorlton Sq Wilbraham Rd,Chorlton,Manchester,Greater Manchester,United Kingdom,M21 1BU
+3309,JCP,Newcastle-under-Lyme Jobcentre Plus,,Paradise Street,Newcastle,,Staffordshire,United Kingdom,ST5 1RS
+3315,JCP,Lewisham Jobcentre Plus,,9-19 Rushey Green,Catford,London,,United Kingdom,SE6 4AZ
+3409,JCP,Nuneaton Jobcentre Plus,Mill House,Mill Walk,Nuneaton,,Warwickshire,United Kingdom,CV11 4DL
+3504,JCP,Ringwood Jobcentre Plus,,20-22 Southampton Road,Ringwood,,Hampshire,United Kingdom,BH24 1HY
+3505,JCP,City Tower Jobcentre Plus,,West Tenter Street,,London,,United Kingdom,E1 8DT
+3540,JCP,Bodmin Jobcentre Plus,,71A Fore Street,Bodmin,,,United Kingdom,PL31 2JB
+3541,JCP,Bude Jobcentre Plus,,Summerleaze Crescent,Bude,,,United Kingdom,EX23 8BT
+3542,JCP,Christchurch Jobcentre Plus,Dolphin House,2a Wick Lane,Christchurch,,Dorset,United Kingdom,BH23 1HX
+3545,JCP,Penryn Jobcentre Plus,Penmarin House,Commercial Road,Penryn,,,United Kingdom,TR10 8SB
+3548,JCP,Helston Jobcentre Plus,,5 Coinagehall Street,Helston,,,United Kingdom,TR13 8HX
+3549,JCP,Launceston Jobcentre Plus,,11 Tower Street,Launceston,,,United Kingdom,PL15 8BQ
+3550 LISK,JCP,Liskeard Jobcentre Plus,Bell House,7-9 Church Street,Liskeard,,,United Kingdom,PL14 3AG
+3551,JCP,Newquay Jobcentre Plus,,32 East Street,Newquay,,,United Kingdom,TR7 1BH
+3554,JCP,Redruth Jobcentre Plus,Piran House,Nettels Hill,Redruth,,,United Kingdom,TR15 1AL
+3555,JCP,St Austell Jobcentre Plus,,17 South Street,St Austell,,,United Kingdom,PL25 5TY
+3573,JCP,Bideford Jobcentre Plus,Northbank House,North Road,Bideford,,,United Kingdom,EX39 2NR
+3575,JCP,Brixham Jobcentre Plus,Decca House,28 New Road,Brixham,,,United Kingdom,TQ5 8NB
+3580,JCP,Devonport Jobcentre Plus,Queens House,St Levans Road,Devonport,Plymouth,,United Kingdom,PL2 3BD
+3583,JCP,Honiton Jobcentre Plus,,128 High Street,Honiton,,,United Kingdom,EX14 1JP
+3588,JCP,Newton Abbot Jobcentre Plus,Sherborne House,Kingsteignton Road,Newton Abbot,,,United Kingdom,TQ12 2PG
+3591,JCP,Plymouth Old Tree Court Jobcentre Plus,Old Tree Court,64 Exeter Street,Plymouth,,,United Kingdom,PL4 0AJ
+3598,JCP,Tiverton Jobcentre Plus,Phoenix House,Phoenix Lane,Tiverton,,,United Kingdom,EX16 6FF
+3599,JCP,Torquay Jobcentre Plus,Regal House,Castle Circus,Torquay,,,United Kingdom,TQ1 3JQ
+3601,JCP,Totnes Jobcentre Plus,Westward House,New Walk,Totnes,,,United Kingdom,TQ9 5WA
+3605,JCP,Bournemouth Jobcentre Plus,Tamarisk House,1 Cotlands Road,Bournemouth,,Dorset,United Kingdom,BH1 3BG
+3608,JCP,Winton Jobcentre Plus,,609 Wimborne Road,Bournemouth,,Dorset,United Kingdom,BH9 2AR
+3610,JCP,Longsight Jobcentre Plus,,123 Clarence Rd,Longsight,Manchester,Greater Manchester,United Kingdom,M13 0ZL
+3682,JCP,Bridgwater Jobcentre Plus,Hanover House,Northgate,Bridgwater,,Somerset,United Kingdom,TA6 3HG
+3689,JCP,Frome Jobcentre Plus,,Kingsway Precinct,Frome,,Somerset,United Kingdom,BA11 1QW
+3691,JCP,Greenock Jobcentre Plus,,99 Dalrymple Street,Greenock,,Inverclyde,United Kingdom,PA15 1QL
+3696,JCP,Minehead Jobcentre Plus,,The Avenue,Minehead,,Somerset,United Kingdom,TA24 5XZ
+3704,JCP,Wells Jobcentre Plus,,Chamberlain Street,,Wells,Somerset,United Kingdom,BA5 2PJ
+3706,JCP,Yeovil Jobcentre Plus,Federated House,Hendford,Yeovil,,Somerset,United Kingdom,BA20 1UU
+3710,JCP,Wythenshawe Jobcentre Plus,Simon House,Wavel Rd,Wythenshawe,Manchester,Greater Manchester,United Kingdom,M22 5RA
+3737,JCP,Cheltenham Jobcentre Plus,Haywood House,7 North Street,Cheltenham,,Gloucestershire,United Kingdom,GL50 4DJ
+3747,JCP,Coleford Jobcentre Plus,,4 Mushet Walk,Coleford,,Gloucestershire,United Kingdom,GL16 8BQ
+3749,JCP,Gloucester Jobcentre Plus,Cedar House,Spa Road,,Gloucester,Gloucestershire,United Kingdom,GL1 1XL
+3753,JCP,Cinderford Jobcentre Plus,,Foundry Road,Cinderford,,Gloucestershire,United Kingdom,GL14 2JU
+3761,JCP,Tewkesbury Jobcentre Plus,Council Offices,Gloucester Road,Tewkesbury,,Gloucestershire,United Kingdom,GL20 5TT
+3770,JCP,Blandford Jobcentre Plus,,50 East Street,Blandford,,Dorset,United Kingdom,DT11 7UE
+3771,JCP,Bridport Jobcentre Plus,,1 West Street,Bridport,,Dorset,United Kingdom,DT6 3QJ
+3790,JCP,Edge Hill Jobcentre Plus,Kinglake House,Shenstone Street,Liverpool,,Merseyside,United Kingdom,L7 3PF
+3795,JCP,Devizes Jobcentre Plus,,Maryport Street,Devizes,,Wiltshire,United Kingdom,SN10 1AH
+3803,JCP,Chippenham Jobcentre Plus,Cyppa Court,Avenue La Fleche,Chippenham,,Wiltshire,United Kingdom,SN15 3LH
+3804,JCP,Trowbridge Jobcentre Plus,Aplin House,Bythesea Road,Trowbridge,,Wiltshire,United Kingdom,BA14 8XR
+3807,JCP,Swindon Jobcentre Plus,Spring Gardens House,Princes Street,Swindon,,Wiltshire,United Kingdom,SN1 2HY
+4004,JCP,Harlow Jobcentre Plus,Beaufort House,Crown Gate,Harlow,,Essex,United Kingdom,CM20 1NA
+407,JCP,Exeter Jobcentre Plus,Clarendon House,Western Way,Exeter,,,United Kingdom,EX1 2DA
+4084,JCP,Ryedale Jobcentre Plus,,Norton Road,Norton,Malton,North Yorkshire,United Kingdom,YO17 9RD
+4092,JCP,Barton Jobcentre Plus,,King Street,Barton on Humber,,North Lincolnshire,United Kingdom,DN18 5ER
+4093,JCP,Selby Jobcentre Plus,Flaxley Chambers,Flaxley Road,Selby,,North Yorkshire,United Kingdom,YO8 3BH
+4097,JCP,York Stonebow Jobcentre Plus,Stonebow House,The Stonebow,,York,North Yorkshire,United Kingdom,YO1 7FB
+4098,JCP,Richmond Jobcentre Plus,,Victoria Road,Richmond,North Yorkshire,,United Kingdom,DL10 4AS
+4114,JCP,Skipton Jobcentre Plus,Cavendish House,Newmarket Street,Skipton,,North Yorkshire,United Kingdom,BD23 2HN
+415,JCP,Ashford Jobcentre Plus,International House,Dover Place,,Ashford,Kent,United Kingdom,TN23 1HT
+4275,JCP,Maidstone Jobcentre Plus,County Gate One,Staceys Street,,Maidstone,Kent,United Kingdom,ME14 1ST
+4304,JCP,Havant Jobcentre Plus,,2 Elmleigh Road,Havant,,Hampshire,United Kingdom,PO9 2AR
+4507,JCP,Market Drayton Jobcentre Plus,,51 Stafford Street,Market Drayton,,Shropshire,United Kingdom,TF9 1JF
+4541,JCP,Bridgnorth Jobcentre Plus,Severn Street,Low Town,Bridgnorth,,Shropshire,United Kingdom,WV15 6BP
+4545,JCP,Madeley Jobcentre Plus,,Church Street,Madeley,Telford,Shropshire,United Kingdom,TF7 5RH
+4549,JCP,Telford Jobcentre Plus,Telford House,Southwater Way,Telford,,Shropshire,United Kingdom,TF3 4PD
+4550,JCP,Oswestry Jobcentre Plus,,27 Oswald Road,Oswestry,,Shropshire,United Kingdom,SY11 1DZ
+4551,JCP,Shrewsbury Jobcentre Plus,Princess House,17 - 19 The Square,Shrewsbury,,Shropshire,United Kingdom,SY1 1YA
+4552,JCP,Wellington Jobcentre Plus,,67 New Street,Wellington,Telford,Shropshire,United Kingdom,TF1 1NW
+4554,JCP,Whitchurch Jobcentre Plus,,Green End Parade,Whitchurch,,Shropshire,United Kingdom,SY13 1AG
+4562,JCP,Bilston Jobcentre Plus,,High Street,Bilston,,West Midlands,United Kingdom,WV14 0DB
+4565,JCP,Brownhills Jobcentre Plus,,107 High Street,Brownhills,Walsall,West Midlands,United Kingdom,WS8 6HL
+4574,JCP,Hanley Jobcentre Plus,,91 Upper Huntbach Street,Hanley,Stoke on Trent,Staffordhire,United Kingdom,ST1 2BX
+4576,JCP,Kidsgrove Jobcentre Plus,,The Avenue,Kidsgrove,Stoke on Trent,Staffordshire,United Kingdom,ST7 1AH
+4578,JCP,Lichfield Jobcentre Plus,Guardian House,Birmingham Road,Lichfield,,Staffordshire,United Kingdom,WS13 6JG
+4582,JCP,Smethwick Jobcentre Plus,Trinity House,High Street,Smethwick,,West Midlands,United Kingdom,B66 3AD
+4583,JCP,Stafford Jobcentre Plus,Peel Building,St Chad's Place,Stafford,,Staffordshire,United Kingdom,ST16 2LP
+4586,JCP,Tamworth Jobcentre Plus,,90 Saxon Mill Lane,Tamworth,,Staffordshire,United Kingdom,B79 7JD
+4587,JCP,Tipton Jobcentre Plus,,69 Owen Street,Tipton,,West Midlands,United Kingdom,DY4 8ES
+4589,JCP,Walsall Bridle Court Jobcentre Plus,Bridle Court,1-5 Hatherton Road,Walsall,,West Midlands,United Kingdom,WS1 1XR
+4591,JCP,West Bromwich Jobcentre Plus,Christchurch House,High Street,West Bromwich,,West Midlands,United Kingdom,B70 8LG
+4592,JCP,Willenhall Jobcentre Plus,,Upper Lichfield Street,Willenhall,,West Midlands,United Kingdom,WV13 1DH
+4593,JCP,Wolverhampton Molineux House Jobcentre Plus,Molineux House,Temple Street,Wolverhampton,,West Midlands,United Kingdom,WV2 4AU
+4603,JCP,Bedworth Jobcentre Plus,,12 High Street,Bedworth,,Warwickshire,United Kingdom,CV12 8NF
+4616,JCP,Stratford-Upon-Avon Jobcentre Plus,Martin Raff House,Alcester Road,Stratford-Upon-Avon,,Warwickshire,United Kingdom,CV37 9DA
+4635,JCP,Walsall Bayard House Jobcentre Plus,Bayard House,134-138 Lichfield Street,Walsall,,West Midlands,United Kingdom,WS1 1SP
+4640,JCP,Coventry Tile Hill Jobcentre Plus,,Torrington Avenue,Tile Hill,Coventry,West Midlands,United Kingdom,CV4 9GR
+4641,JCP,Wolverhampton Chapel Court Jobcentre Plus,Chapel Court,Queen Street,Wolverhampton,,West Midlands,United Kingdom,WV1 3AF
+4646,JCP,Atherstone Jobcentre Plus,,120 Long Street,Atherstone,,Warwickshire,United Kingdom,CV9 1AF
+467,JCP,Oxford Jobcentre Plus,,Floyds Row,Oxford,,Oxfordshire,United Kingdom,OX1 1SS
+4701,JCP,Hereford Jobcentre Plus,St Nicholas' House,St Nicholas' Street,,Hereford,Herefordshrie,United Kingdom,HR4 0DD
+4704,JCP,Leominster Jobcentre Plus,,Lion Court,Leominster,,Herefordshrie,United Kingdom,HR6 8JE
+4705,JCP,Ross-on-Wye Jobcentre Plus,,1-2 George Place,Ross-on-Wye,,Herefordshrie,United Kingdom,HR9 5BS
+4707,JCP,Barnstaple Jobcentre Plus,Princess House,Queen Street,Barnstaple,,,United Kingdom,EX32 8HD
+4720,JCP,Bromsgrove Jobcentre Plus,,Churchfields,Bromsgrove,,Worcestershire,United Kingdom,B61 8DX
+4722,JCP,Dudley Jobcentre Plus,Alexander House,32 Wolverhampton Street,Dudley,,West Midlands,United Kingdom,DY1 1JR
+4723,JCP,Evesham Jobcentre Plus,Evesham Community Contact Centre,Abbey Road,Evesham,,Worcestershire,United Kingdom,WR11 4SA
+4724,JCP,Halesowen Jobcentre Plus,Maybrook House,Queensway,Halesowen,,West Midlands,United Kingdom,B63 4AH
+4725,JCP,Kidderminster Jobcentre Plus,,12 Lower Mill Street,Kidderminster,,Worcestershire,United Kingdom,DY11 6TT
+4726,JCP,Malvern Jobcentre Plus,Malvern Library,Graham Road,Malvern,,Worcestershire,United Kingdom,WR14 2HU
+4727,JCP,Oldbury Jobcentre Plus,,1 Church Street,Oldbury,,West Midlands,United Kingdom,B69 3AD
+4730,JCP,Stourbridge Jobcentre Plus,Scotland House,169 Lower High Street,Stourbridge,,West Midlands,United Kingdom,DY8 1ES
+4732,JCP,Worcester Jobcentre Plus,Vine House,Farrier Street,,Worcester,Worcestershire,United Kingdom,WR1 3EL
+4747,JCP,Redditch Jobcentre Plus,,Prospect Hill,Redditch,,Worcestershire,United Kingdom,B97 4DL
+504,JCP,Ipswich Jobcentre Plus,St Felix House,Silent Street,Ipswich,,Suffolk,United Kingdom,IP1 1TF
+5115,JCP,Eastbourne Jobcentre Plus,St Annes House,2 St Annes Road,Eastbourne,,East Sussex,United Kingdom,BN21 3XX
+5208,JCP,Llangefni Jobcentre Plus,Government Buildings,Bridge Street,Llangefni,,Anglesey,United Kingdom,LL77 7YJ
+5517,JCP,Shirebrook Jobcentre Plus,,233 Station Road,Shirebrook,Mansfield,Nottinghamshire,United Kingdom,NG20 8AF
+5518,JCP,Bolsover Jobcentre Plus,Units 6-8,Cavendish Walk,Bolsover,,Derbyshire,United Kingdom,S44 6DB
+5520,JCP,Corby Jobcentre Plus,,George street,Corby,,Northamptonshire,United Kingdom,NN17 1PH
+5521,JCP,Daventry Jobcentre Plus,Civic Offices,Lodge Road,Daventry,,Northamptonshire,United Kingdom,NN11 4FP
+5524,JCP,Kettering Jobcentre Plus,Derbyshire House,Lower Street,Kettering,,Northamptonshire,United Kingdom,NN16 8BG
+5526,JCP,Northampton Jobcentre Plus,Frances House,21 Lower Mounts,Northampton,,Northamptonshire,United Kingdom,NN1 3LY
+5529,JCP,Rushden Jobcentre Plus,,71 Rectory Road,Rushden,,Northamptonshire,United Kingdom,NN10 0AT
+5533,JCP,Derby Forester House Jobcentre Plus,"Door C, Forester House",Newland Street,Derby,,Derbyshire,United Kingdom,DE1 1NW
+5635,JCP,Wellington Street Jobcentre Plus,Crown House,60 Wellington street,Leicester,,Leicestershire,United Kingdom,LE1 6DS
+5651,JCP,Bulwell Jobcentre Plus,Sovereign House,High Rd,Bulwell,Nottingham,,United Kingdom,NG6 8HX
+5652,JCP,Beeston Jobcentre Plus,,3 Acacia Walk,Beeston,Nottingham,,United Kingdom,NG9 2LW
+5654,JCP,Arnold Jobcentre,Civic Centre,Arnot Hill Park,Arnold,Nottingham,,United Kingdom,NG5 6LT
+5658,JCP,Mansfield Jobcentre Plus,Hill House,Commercial Gate,Mansfield,,Notts,United Kingdom,NG18 1LN
+5660,JCP,Newark Jobcentre Plus,,41 Lombard St,Newark,,Notts,United Kingdom,NG24 1EP
+5662,JCP,Retford Jobcentre Plus,,23a Grove St,Retford,,Notts,United Kingdom,DN22 6JR
+5664,JCP,Nottingham (Parliament St) Jobcentre Plus,,57-59 Upper Parliament Street,,Nottingham,,United Kingdom,NG1 6AX
+5665,JCP,Sutton in Ashfield Jobcentre Plus,Ashbrook House,Forest St,Sutton in Ashfield,,Notts,United Kingdom,NG17 1BH
+5666,JCP,Worksop Jobcentre Plus,Queens Buildings,Potter Street,Worksop,,Notts,United Kingdom,S80 2AH
+5681,JCP,Nottingham (Station St) Jobcentre Plus,,25 Station St,,Nottingham,Notts,United Kingdom,NG2 3BZ
+5769,JCP,Derby Normanton Road Jobcentre Plus,,10 Normanton Road,Derby,,Derbyshire,United Kingdom,DE1 2GW
+5770,JCP,Alfreton Jobcentre Plus,Tannery House,King Street,Alfreton,,Derbyshire,United Kingdom,DE55 7AF
+5773,JCP,Belper Jobcentre Plus,,54 King Street,Belper,,Derbyshire,United Kingdom,DE56 1PN
+5774,JCP,Chesterfield Jobcentre Plus,Markham House,Markham Road,Chesterfield,,Derbyshire,United Kingdom,S40 1TG
+5775,JCP,Clay Cross Jobcentre Plus,,Bridge Street,Clay Cross,Chesterfield,Derbyshire,United Kingdom,S45 9EF
+5778,JCP,Heanor Jobcentre Plus,Howitt Buildings,High Street,Heanor,,Derbyshire,United Kingdom,DE7 7EZ
+5780,JCP,Long Eaton Jobcentre Plus,,Fletcher Street,Long Eaton,,Derbyshire,United Kingdom,NG10 1JU
+5781,JCP,Matlock Jobcentre Plus,The Phoenix Centre,2 lime Grove Walk,Matlock,,Derbyshire,United Kingdom,DE4 3FD
+5783,JCP,Staveley Jobcentre Plus,Devonshire Buildings,Duke Street,Staveley,,Derbyshire,United Kingdom,S43 3NU
+5784,JCP,Swadlincote Jobcentre Plus,7 The Delph Centre,Market Street,Swadlincote,,Derbyshire,United Kingdom,DE11 9DY
+5811,JCP,Coalville Jobcentre Plus,Crown house,Whitwick Road,Coalville,,Leicestershire,United Kingdom,LE67 3FB
+5812,JCP,Hinckley Hub,Jobcentre Plus,Rugby Road,Hinckley,,Leicestershire,United Kingdom,LE10 0FR
+5814,JCP,Market Harborough Jobcentre Plus,The Symington Building,Adam & Eve Street,Market Harborough,,Leicestershire,United Kingdom,LE16 7AG
+5815,JCP,Melton Mowbray Jobcentre Plus,"Parkside, Station Approach",Burton Street,Melton Mowbray,,Leicestershire,United Kingdom,LE13 1GH
+5817,JCP,Leicester New Walk Jobcentre Plus,,2A New Walk,Leicester,,Leicestershire,United Kingdom,LE1 6TF
+5818,JCP,Leicester Charles Street Jobcentre Plus,,2 Charles Street,Leicester,,Leicestershire,United Kingdom,LE1 3JD
+5821,JCP,Lancaster Jobcentre Plus,Mitre House,Church Street,Lancaster,,,United Kingdom,LA1 1JW
+5908,JCP,Merthyr Tydfil Jobcentre Plus,Ty Bethesda,Avenue De Clichy,Merthyr Tydfil,,,United Kingdom,CF47 8AS
+5911,JCP,Galashiels Jobcentre Plus,New Reiver House,High Street,Galashiels,,Borders,United Kingdom,TD1 1TD
+6045,JCP,Grimsby Bridge House Jobcentre Plus,Bridge House,225 Victoria Street,Grimsby,,North East Lincolnshire,United Kingdom,DN31 1NH
+6048,JCP,Scunthorpe Jobcentre Plus,17 Crown Buildings,Laneham Street,Scunthorpe,,North Lincolnshire,United Kingdom,DN15 6JT
+606,JCP,Slough Jobcentre Plus,Upton Lodge,2a Yew Tree Road,Slough,,Berkshire,United Kingdom,SL1 2AQ
+6060,JCP,Whitby Jobcentre Plus,,6 Bobbies Bank,Whitby,,North Yorkshire,United Kingdom,YO21 1QZ
+6065,JCP,York Monkgate Jobcentre Plus,,11-17 Monkgate,,York,North Yorkshire,United Kingdom,YO31 7JZ
+6068,JCP,Northallerton Jobcentre Plus,Elder House,East Road,Northallerton,,North Yorkshire,United Kingdom,DL6 1NG
+6077,JCP,Harrogate Jobcentre Plus,Berkeley House,35 Victoria Avenue,Harrogate,,North Yorkshire,United Kingdom,HG1 5PZ
+6125,JCP,Goole Jobcentre Plus,Mulberry House,North Street,Goole,,East Yorkshire,United Kingdom,DN14 5QB
+6127,JCP,Cirencester Jobcentre Plus,Council Offices,Trinity Road,Cirencester,,Gloucestershire,United Kingdom,GL7 1TE
+6137,JCP,Beverley Jobcentre Plus,Crosskill House,Mill Lane,Beverley,,East Yorkshire,United Kingdom,HU17 9JW
+6160,JCP,Bridlington Jobcentre Plus,Crown Buildings,Quay Road,Bridlington,,East Yorkshire,United Kingdom,YO16 4LS
+6175,JCP,Hessle Jobcentre Plus,,26 The Weir,Hessle,,East Yorkshire,United Kingdom,HU13 0RX
+6228,JCP,Hull Britannia House Jobcentre Plus,Britannia House,2 Ferensway,,Hull,East Yorkshire,United Kingdom,HU1 8NF
+6277,JCP,Scarborough Jobcentre Plus,Albion House,Northway,Scarborough,,North Yorkshire,United Kingdom,YO12 7AN
+6295,JCP,Worthing Jobcentre Plus,Crown House,High Street,Worthing,,West Sussex,United Kingdom,BN11 1NG
+6300,JCP,Hull Market Place Jobcentre Plus,,Market Place,,Hull,East Yorkshire,United Kingdom,HU1 1RU
+6315,JCP,Fulham Jobcentre Plus,Waterford House,Waterford Rd,Fulham,London,,United Kingdom,SW6 2DL
+6403,JCP,Wellingborough Jobcentre Plus,Lothersdale House,West Villa Road,Wellingborough,,Northamptonshire,United Kingdom,NN8 4TA
+6408,JCP,Newtown Jobcentre Plus,Afon House,The Park,Newtown,,Powys,United Kingdom,SY16 2PZ
+6615,JCP,Gravesend Jobcentre Plus,,44-46 The Grove,,Gravesend,Kent,United Kingdom,DA12 1DF
+6649,JCP,South Leeds Jobcentre Plus,,63 Whitfield Gardens,Hunslet,Leeds,West Yorkshire,United Kingdom,LS10 2QD
+6652,JCP,Seacroft Jobcentre Plus,Parkway House,North Parkway,,Leeds,West Yorkshire,United Kingdom,LS14 6UZ
+6653,JCP,Leeds Eastgate Jobcentre Plus,,35 Eastgate,Leeds,,West Yorkshire,United Kingdom,LS2 7RE
+6661,JCP,Acton Jobcentre Plus,,Armstrong Rd,Acton,London,,United Kingdom,W37JL
+6675,JCP,Batley Jobcentre Plus,,26 Wellington Street,Batley,,West Yorkshire,United Kingdom,WF17 5HZ
+6681,JCP,Brighouse Jobcentre Plus,,Owler Ings Road,Brighouse,,West Yorkshire,United Kingdom,HD6 1EH
+6683,JCP,Castleford Jobcentre Plus,Centurian House,Bank Street,Castleford,,West Yorkshire,United Kingdom,WF10 IHY
+6690,JCP,Guiseley Jobcentre Plus,Alva House,Otley Road,Guiseley,Leeds,West Yorkshire,United Kingdom,LS20 8AF
+6695,JCP,Halifax Crossfield House Jobcentre Plus,,St James Road,Halifax,,West Yorkshire,United Kingdom,HX1 1PE
+6701,JCP,Eastbrook Court Jobcentre Plus,,Eastbrook Court,50 Vicar Lane,Bradford,West Yorkshire,United Kingdom,BD1 5AH
+6709,JCP,Burton Jobcentre Plus,Crown House,New Street,Burton on Trent,,Staffordshire,United Kingdom,DE14 3SN
+6712,JCP,Huddersfield Castle House Jobcentre Plus,Castle House,Market Street,Huddersfield,,West Yorkshire,United Kingdom,HD1 2NE
+6715,JCP,Guildford Jobcentre Plus,Leys House,86-88 Woodbridge Road,Guildford,,Surrey,United Kingdom,GU1 4QD
+6715 MOR,JCP,Morley Jobcentre Plus,Highpoint House,83 Queen Street,Morley,Leeds,West Yorkshire,United Kingdom,LS27 9EB
+6730,JCP,Shipley Jobcentre Plus,,Wainman Street,Shipley,,West Yorkshire,United Kingdom,BD17 7DN
+6736,JCP,Hemsworth Jobcentre Plus,Low Hall,Market Street,Hemsworth,Wakefield,West Yorkshire,United Kingdom,WF9 4HP
+6738,JCP,Spen Valley Jobcentre Plus,,411 Bradford Road,Liversedge,,West Yorkshire,United Kingdom,WF15 6DD
+6743,JCP,Todmorden Jobcentre Plus,,27-31 Adelaide Street,Todmorden,,West Yorkshire,United Kingdom,OL14 5HT
+6744,JCP,Wakefield Jobcentre Plus,Crowther House,Thornhill Street,,Wakefield,West Yorkshire,United Kingdom,WF1 1PL
+710,JCP,Blackburn Jobcentre Plus,Orchard House,Penny Street,Blackburn,,Lancs,United Kingdom,BB1 6HA
+7104,JCP,Lowestoft Jobcentre Plus,Rishton House,Clapham Road,Lowestoft,,Suffolk,United Kingdom,NR32 1RW
+724,JCP,Chichester Jobcentre Plus,,5 Southgate,Chichester,,West Sussex,United Kingdom,PO19 8EH
+7405,JCP,Harrow King's House Jobcentre Plus,King's House,Clarendon Rd,Harrow,,Middlesex,United Kingdom,HA1 1YJ
+7408,JCP,Porthmadog Jobcentre Plus,Thedford House,High Street,Porthmadog,,Gwynedd,United Kingdom,LL49 9LS
+7501,JCP,Altrincham Jobcentre Plus,Roberts House,80 Manchester Rd,Altrincham,,Greater Manchester,United Kingdom,WA14 4PU
+7503,JCP,Birkenhead Jobcentre Plus,Brunswick House,29 Price Street,Birkenhead,,Wirral,United Kingdom,CH41 6JW
+7506,JCP,Congleton Jobcentre Plus,,Wagg Street,Congleton,,,United Kingdom,CW12 4BD
+7508,JCP,Ellesmere Port Jobcentre Plus,,1-3 Mercer Walk,Ellesmere Port,,,United Kingdom,CH65 0AP
+7510,JCP,Hoylake Jobcentre Plus,Town Hall Chambers,1 The Quadrant,Hoylake,,Wirral,United Kingdom,CH47 2EE
+7514,JCP,Macclesfield Jobcentre Plus,,30 King Edward Street,Macclesfield,,,United Kingdom,SK10 1AE
+7518,JCP,Neston Jobcentre Plus,,26-30 Brook Street,Neston,,,United Kingdom,CH64 9YD
+7519,JCP,Bromborough Jobcentre Plus,Port Causeway House,1 Port Causeway,Bromborough,,Wirral,United Kingdom,CH62 4TG
+7520,JCP,Northwich Jobcentre Plus,,17-21 London Rd,Northwich,,,United Kingdom,CW9 5JQ
+7528,JCP,Wilmslow Jobcentre Plus,Venture House,46-52 Water Lane,Wilmslow,,,United Kingdom,SK9 5AH
+7529,JCP,Winsford Jobcentre Plus,,High Street,Winsford,,,United Kingdom,CW7 2AH
+7552,JCP,Upton Jobcentre Plus,,52 Arrowe Park Road,Upton,,Wirral,United Kingdom,CH49 0UE
+7554,JCP,Cheetham Hill Jobcentre Plus,,36 Crescent Rd,Cheetham Hill,Manchester,Greater Manchester,United Kingdom,M8 9DQ
+7595,JCP,Buxton Jobcentre Plus,,84-86 Spring Gardens,Buxton,,Derbyshire,United Kingdom,SK17 6BU
+7597,JCP,Glossop Jobcentre Plus,,Howard Street,Glossop,,Derbyshire,United Kingdom,SK13 7DF
+7607,JCP,Penzance Jobcentre Plus,Branwell House,Clarence Street,Penzance,,,United Kingdom,TR18 2NU
+7610,JCP,Everton Jobcentre Plus,Premier House,95 Breckfield Road North,Liverpool,,Merseyside,United Kingdom,L5 4NQ
+7615,JCP,Hastings Jobcentre Plus,Heron House,149/159 London Road,St Leaonards on Sea,Hastings,East Sussex,United Kingdom,TN37 6LJ
+7619,JCP,Blackpool North Jobcentre Plus,,43 Queen Street,Blackpool,,Lancs,United Kingdom,FY1 1HQ
+7620,JCP,Accrington Jobcentre Plus,Oakbank House,Oak Street,Accrington,,Lancs,United Kingdom,BB5 1PJ
+7623,JCP,Wavertree Jobcentre Plus,,92 High Street,Liverpool,,Merseyside,United Kingdom,L15 8HQ
+7625,JCP,Bacup Jobcentre Plus,,Gladstone Street,Bacup,,Lancs,United Kingdom,OL13 9JZ
+7629,JCP,Blackpool South Jobcentre Plus,,Tyldesley Road,Blackpool,,Lancs,United Kingdom,FY1 5DJ
+76301,JCP,Reading Jobcentre Plus,Adelphi House,Friar Street,Reading,,Berkshire,United Kingdom,RG1 1HD
+7632,JCP,Burnley Jobcentre Plus,Lee-Moran House,Victoria Street,Burnley,,,United Kingdom,BB11 1DD
+7637,JCP,Chorley Jobcentre Plus,,Hamilton Road,Chorley,,Lancs,United Kingdom,PR7 2HB
+7639,JCP,Clitheroe Jobcentre Plus,Ribble Valley Borough Council,Church Walk,Clitheroe,,Lancashire,United Kingdom,BB7 2RA
+7640,JCP,Colne Jobcentre Plus,,80 Market Street,Colne,,Lancs,United Kingdom,BB8 0HS
+7644,JCP,Darwen Jobcentre Plus,,Green Street,Darwen,,Lancs,United Kingdom,BB3 1AG
+7647,JCP,Eccles Jobcentre Plus,Sentinel House,Monton Rd,Eccles,Manchester,Greater Manchester,United Kingdom,M30 0NA
+7652,JCP,Garston Jobcentre Plus,,Speke Road,Liverpool,,Merseyside,United Kingdom,L19 2JZ
+7659,JCP,Irlam Jobcentre Plus,Irlam Library Hurst Fold,Liverpool Road,Irlam,Manchester,Greater Manchester,United Kingdom,M44 6FD
+7664,JCP,Leyland Jobcentre Plus,,71 Towngate,Leyland,,Lancs,United Kingdom,PR5 1RT
+7666,JCP,Old Swan Jobcentre Plus,,650-656 Prescot Road,Liverpool,,Merseyside,United Kingdom,L13 5YL
+7671,JCP,Aintree Jobcentre Plus,,70 Walton Vale,Liverpool,,Merseyside,United Kingdom,L9 2BU
+7681,JCP,Morecambe Jobcentre Plus,Heron House,67 Queen Street,Morecambe,,Lancs,United Kingdom,LA4 5HW
+7683,JCP,Nelson Jobcentre Plus,,14-16 Netherfield Road,Nelson,,Lancs,United Kingdom,BB9 9AW
+7684,JCP,Newton Heath Jobcentre Plus,,1009 Oldham Rd,Newton Heath,Manchester,Greater Manchester,United Kingdom,M40 2EP
+7686,JCP,Openshaw Jobcentre Plus,,Cornwall St,Openshaw,Manchester,Greater Manchester,United Kingdom,M11 2WR
+7687,JCP,Ormskirk Jobcentre Plus,,31a Church Street,Ormskirk,,Lancs,United Kingdom,L39 3QT
+7688,JCP,Skelmersdale Jobcentre Plus,Whelmar House,Southway,Skelmersdale,,Lancs,United Kingdom,WN8 6NS
+7697,JCP,Rawtenstall Jobcentre Plus,,Bacup Road,Rawtenstall,,Lancs,United Kingdom,BB4 7NH
+7698,JCP,Alexandra Park Jobcentre Plus,,91 Moss Lane East,Moss Side,Manchester,Greater Manchester,United Kingdom,M15 5JB
+7701,JCP,St Annes Jobcentre Plus,Westmorland House,29-31 Orchard Road,Lytham St Annes,,Lancs,United Kingdom,FY8 1UQ
+7703,JCP,Salford Jobcentre Plus,,2 Paddington Close,Salford,,Greater Manchester,United Kingdom,M6 5PL
+7712,JCP,Worsley Jobcentre Plus,5 Worsley Court,High St,Walkden,Manchester,Greater Manchester,United Kingdom,M28 3AD
+7713,JCP,Warrington Jobcentre Plus,Nolan House,10 Mersey Street,Warrington,,Cheshire,United Kingdom,WA1 2BL
+7718,JCP,Didsbury Jobcentre Plus,Danesmoor Court,95-97 Palatine Rd,West Didsbury,Manchester,Greater Manchester,United Kingdom,M20 3JQ
+7719,JCP,Williamson Square Jobcentre Plus,,20 Williamson Square,Liverpool,,Merseyside,United Kingdom,L1 1PW
+7735,JCP,Wandsworth Jobcentre Plus,"Jessica House, Red Lion Square",191 Wandsworth High Street,,London,,United Kingdom,SW18 4LS
+7754,JCP,Fleetwood Jobcentre Plus,Roskell House,11-27 Kemp Street,Fleetwood,,Lancs,United Kingdom,FY7 6JX
+7757,JCP,Preston Jobcentre Plus,Gateway House,200 Ringway,Preston,,Lancs,United Kingdom,PR1 2ER
+7782,JCP,Stretford Jobcentre Plus,Arndale House,Chester Rd,Stretford,Manchester,Greater Manchester,United Kingdom,M32 9ED
+7801,JCP,Norris Green Jobcentre Plus,,150 Parthenon Drive,Liverpool,,Merseyside,United Kingdom,L11 5BN
+7861,JCP,Weybridge Jobcentre Plus,Fortune House,Monument Hill,Weybridge,,Surrey,United Kingdom,KT13 8RZ
+801,JCP,Hartlepool Jobcentre Plus,Ward Jackson Hse,Wesley Square,Hartlepool,,Cleveland,United Kingdom,TS24 8EZ
+818,JCP,Ammanford Jobcentre Plus,Llys Afon,Park Street,Ammanford,,Carmarthenshire,United Kingdom,SA18 2NT
+8408,JCP,Tonypandy Jobcentre Plus,Thistle House,Llwynypia Road,Tonypandy,,Mid Glamorgan,United Kingdom,CF40 2EP
+8538,JCP,Billingham Jobcentre Plus,Theatre House,Kingsway,Billingham,,Cleveland,United Kingdom,TS23 2NA
+8553,JCP,Stockton Jobcentre Plus,Daryl House,Bridge Road,Stockton on Tees,,Cleveland,United Kingdom,TS18 3BW
+8600,JCP,Alnwick Jobcentre Plus,Roxburgh House,Roxburgh Place,Alnwick,,Northumberland,United Kingdom,NE66 1JX
+8602,JCP,Ashington Jobcentre Plus,Government Buildings,Reiverdale Road,Ashington,,Northumberland,United Kingdom,NE63 9YY
+8603,JCP,Bedlington Jobcentre Plus,Longridge House,Front Street West,Bedlington,,Northumberland,United Kingdom,NE22 5TL
+8605,JCP,Blyth Jobcentre Plus,Bridge House,Percy Street,Blyth,,Northumberland,United Kingdom,NE24 2AQ
+8606,JCP,Hexham Jobcentre Plus,St Andrews House,Haugh Lane,Hexham,,Northumberland,United Kingdom,NE46 3NF
+8607,JCP,Morpeth Jobcentre Plus,Fountain House,New Market,Morpeth,,Northumberland,United Kingdom,NE61 1LA
+8609,JCP,Whitley Bay Jobcentre Plus,,158 Whitley Road,Whitley Bay,,Tyne and Wear,United Kingdom,NE26 2LY
+8611,JCP,Cramlington Jobcentre Plus,,17-19 Dudley Court,Cramlington,,Northumberland,United Kingdom,NE23 6QW
+8707,JCP,Taunton Jobcentre Plus,Brendon House,High Street,Taunton,,Somerset,United Kingdom,TA1 3NY
+8783,JCP,Guisborough Jobcentre Plus,Nathan House,Northgate,Guisborough,,Cleveland,United Kingdom,TS14 6JS
+8785,JCP,Loftus Jobcentre Plus,,52-53 West Road,Saltburn by the Sea,,Cleveland,United Kingdom,TS13 4RF
+8787,JCP,Middlesbrough East Jobcentre Plus,Beresford Buildings,The Greenway,Thorntree,Middlesbrough,,United Kingdom,TS3 9NB
+8790,JCP,Redcar Jobcentre Plus,Portland House,West Dyke Road,Redcar,,Cleveland,United Kingdom,TS10 1DH
+8794,JCP,Eston Jobcentre Plus,Hadrian House,81 High Street,Eston,Middlesbrough,Cleveland,United Kingdom,TS6 9EH
+8803,JCP,Thornaby Jobcentre Plus,Ingram House,Allensway,Stockton on Tees,,Cleveland,United Kingdom,TS17 9HA
+8805,JCP,Hounslow Jobcentre Plus,,10 Montague Road,Hounslow,,Middlesex,United Kingdom,TW3 1LE
+8823,JCP,Blaydon Jobcentre Plus,,St Cuthburts Way,Blaydon,,Tyne and Wear,United Kingdom,NE21 5AD
+8833,JCP,Felling Jobcentre Plus,,37 High Street,Felling,,Tyne and Wear,United Kingdom,NE10 9QQ
+8835,JCP,Gateshead Shildon House Jobcentre Plus,Shildon House,High Street,Gateshead,,Tyne and Wear,United Kingdom,NE8 1AS
+8874,JCP,Newcastle West Jobcentre Plus,Condercum House,171 West Road,Newcastle Upon Tyne,,Tyne and Wear,United Kingdom,NE15 6PL
+8884,JCP,Newcastle City Jobcentre Plus,1 Cathedral Square,Mosley Street,Newcastle Upon Tyne,,Tyne and Wear,United Kingdom,NE1 1EE
+8885,JCP,North Shields Jobcentre Plus,,Camden Street,North Shields,,Tyne and Wear,United Kingdom,NE30 1ND
+8888,JCP,Newcastle East Jobcentre Plus,Coquet House,Clifford Street,Newcastle Upon Tyne,,Tyne and Wear,United Kingdom,NE6 1PH
+8889,JCP,Wallsend Jobcentre Plus,Hadrian House,Station Road,Wallsend,,Tyne and Wear,United Kingdom,NE28 6HW
+8890,JCP,Killingworth Jobcentre Plus,Units 23 & 24,The Centre,Killingworth,,Tyne and Wear,United Kingdom,NE12 6YT
+8915,JCP,Hove Jobcentre Plus,Boundary House,Boundary Road,Hove,,East Sussex,United Kingdom,BN3 7HD
+9013,JCP,Pwllheli Jobcentre Plus,,Lower Cardiff Road,Pwllheli,,Gwynedd,United Kingdom,LL53 5HF
+9095,BDC,Jobcentre Plus,,,,,,,
+909503,JCP,Port Talbot Jobcentre Plus,,64-66 Station Road,Port Talbot,,Neath Port Talbot,United Kingdom,SA13 1LX
+9102,JCP,Westfield House Jobcentre Plus,Wesfield House,85 Manningham Lane,,Bradford,West Yorkshire,United Kingdom,BD1 3BE
+9195,JCP,Kennington Park Jobcentre Plus,,206-210 Kennington Park Road,Kennington,London,,United Kingdom,SE11 4DE
+9302,JCP,Pudsey Jobcentre Plus,,Century House,Church Lane,Pudsey,Leeds,United Kingdom,LS28 7RQ
+9309,JCP,Rugby Jobcentre Plus,Kingsforth House,Albert Street,Rugby,,Warwickshire,United Kingdom,CV21 2TD
+9501,JCP,Brecon Jobcentre Plus,,Canal Bank,Brecon,,Powys,United Kingdom,LD3 7HL
+9507,JCP,Truro Jobcentre Plus,Lemon Quay House,Lemon Quay,Truro,,,United Kingdom,TR1 2PU
+9512,JCP,Carmarthen Jobcentre Plus,,John Street,Carmarthen,,Carmarthenshire,United Kingdom,SA31 1QT
+9515,JCP,Lewes Jobcentre Plus,Medwyn House,Mountfield Road,Lewes,,East Sussex,United Kingdom,BN7 2XR
+9516,JCP,Llanelli Jobcentre Plus,,58 Stepney Street,Llanelli,,Carmarthenshire,United Kingdom,SA15 3TN
+9522,JCP,Pyle Jobcentre Plus,,Ffald Road Shopping Centre,Pyle,,Mid Glamorgan,United Kingdom,CF33 6BH
+9532,JCP,Gorseinon Jobcentre Plus,,42-44 Lime Street,Gorseinon,Swansea,,United Kingdom,SA4 4EH
+9536,JCP,Morriston Jobcentre Plus,Oldway House,Clase Road,Morriston,Swansea,,United Kingdom,SA6 8BT
+9549,JCP,Porthcawl Jobcentre Plus,,Dock Street,Porthcawl,,Mid Glamorgan,United Kingdom,CF36 3BC
+9570,JCP,Abergavenny Jobcentre Plus,Newbridge House,Tudor Street,Abergavenny,,,United Kingdom,NP7 5EF
+9576 CAL,JCP,Caldicot Jobcentre Plus,,66 Newport Road,Caldicot,,Monmouthshire,United Kingdom,NP26 4 B
+9576 CHE,JCP,Chepstow Jobcentre Plus,,Station Road,Chepstow,,Monmouthshire,United Kingdom,NP16 5UL
+9591,JCP,Haverfordwest Jobcentre Plus,,16-20 Quay Street,Haverfordwest,,Pembrokeshire,United Kingdom,SA61 1BH
+9592,JCP,Milford Haven Jobcentre Plus,Suite 4A Cedar Court,Havens Head Business Park,Milford Haven,,Pembrokeshire,United Kingdom,SA73 3LS
+9602,JCP,Holyhead Jobcentre Plus,The Old Vicarage,Newry Street,Holyhead,,Anglesey,United Kingdom,LL65 1DB
+9610,JCP,Bangor Jobcentre Plus,,322-330 High Street,Bangor,,Gwynedd,United Kingdom,LL57 1YA
+9612,JCP,Caernarfon Jobcentre Plus,Government Building,Penrallt,Caernarfon,,Gwynedd,United Kingdom,LL55 2HN
+9615,JCP,Llandudno Jobcentre Plus,,29-31 Chapel Street,Llandudno,,Conwy,United Kingdom,LL30 2SY
+9630,JCP,Aberystwyth Jobcentre Plus,,Alexandra Road,Aberystwyth,,Ceredigion,United Kingdom,SY23 1LA
+9631,JCP,Cardigan Jobcentre Plus,Crown Buidlings,Napier Street,Cardigan,,Ceredigion,United Kingdom,SA43 1EF
+9643,JCP,Colwyn Bay Jobcentre Plus,,45a Conwy Road,Colwyn Bay,,Conwy,United Kingdom,LL29 7AU
+9661,JCP,Flint Jobcentre Plus,,Swan Street,Flint,,Flintshire,United Kingdom,CH6 5BP
+9663,JCP,Mold Jobcentre Plus,,St David's Lane,Mold,,Flintshire,United Kingdom,CH7 1LH
+9664,JCP,Rhyl Jobcentre Plus,,80 High Street,Rhyl,,Denbighshire,United Kingdom,LL18 1UB
+9665,JCP,Shotton Jobcentre Plus,Civic Centre,Wepre Drive,Connah's Quay,,Flintshire,United Kingdom,CH5 4HA
+9679,JCP,Ystradgynlais,,Wind Road,Ystradgynlais,,Powys,United Kingdom,SA9 1AB
+9683,JCP,Welshpool Jobcentre Plus,New Dolanog House,Severn Road,Welshpool,,Powys,United Kingdom,SY21 7AP
+9691,JCP,Llandrindod Wells Jobcentre Plus,The Automobile Palace,Princes Avenue,Llandrindod Wells,,Powys,United Kingdom,LD1 5HU
+9820,JCP,Aberdare Jobcentre Plus,Crown Buildings,Greenbach,Aberdare,,Rhondda Cynon Taff,United Kingdom,CF44 7HU
+9824,JCP,Bridgend Jobcentre Plus,,Market St,Bridgend,,Mid Glamorgan,United Kingdom,CF31 1LL
+9826,JCP,Caerphilly Jobcentre Plus,,Castle Street,Caerphilly,,Mid Glamorgan,United Kingdom,CF83 1UA
+9834,JCP,Maesteg Jobcentre Plus,,12-16 Commercial Street,Maesteg,,Mid Glamorgan,United Kingdom,CF34 9DF
+9837,JCP,Mountain Ash Jobcentre Plus,,New County Road,Mountain Ash,,Rhondda Cynon Taff,United Kingdom,CF45 4HU
+9838,JCP,Porth Jobcentre Plus,,35 Hannah Street,Porth,,Rhondda Cynon Taff,United Kingdom,CF39 9RB
+9839,JCP,Neath Jobcentre Plus,,1 Windsor Road,Neath,,Neath Port Talbot,United Kingdom,SA11 1LY
+9845,JCP,Llantrisant Jobcentre Plus,,17 Ely Valley Road,Talbot Green,Pontyclun,Rhondda Cynon Taff,United Kingdom,CF72 8AL
+9854,JCP,Swansea Jobcentre Plus,,37-38 High Street,Swansea,,Swansea,United Kingdom,SA1 1LS
+9858,JCP,Treorchy Jobcentre Plus,Oldway House,Bute Street,Treorchy,,Rhondda Cynon Taff,United Kingdom,CF42 6TE
+9871,JCP,Abertillery Jobcentre Plus,,Portland Street,Abertillery,,Gwent,United Kingdom,NP13 1XG
+9872,JCP,Blackwood Jobcentre Plus,Newbridge House,75-77 High Street,Blackwood,,Gwent,United Kingdom,NP12 IYY
+9880,JCP,Newport Charles St Jobcentre Plus,,2-6 Charles Street,Newport,,Monmouthshire,United Kingdom,NP20 1JR
+9882,JCP,Cwmbran Jobcentre Plus,,42 Gwent Square,Cwmbran,,,United Kingdom,NP44 1PL
+9883,JCP,Pontypool Jobcentre Plus,,Park Road,Pontypool,,Torfaen,United Kingdom,NP4 6XQ
+9885,JCP,Tredegar Jobcentre Plus,Crown Buildings,Upper Coronation Street,Tredegar,,Gwent,United Kingdom,NP22 3YA
+9886,JCP,Wrexham Jobcentre Plus,Ty Maelor,15-17 Grosvenor Road,Wrexham,,Wrexham,United Kingdom,LL11 1BW
+9894,JCP,Pembroke Dock Jobcentre Plus,,Gordon Street,Pembroke Dock,,Pembrokeshire,United Kingdom,SA72 6EP
